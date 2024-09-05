@@ -1,0 +1,2000 @@
+Loan_ID,Age,Gender,Married,Dependents,Education,Self_Employed,Letter_support_Kebele,ApplicantIncome,CoapplicantIncome,Saving_Amount,Saving_time,Estmation_salary_or_property,Guarantors_marital_status,LoanAmount,Loan_Amount_Term,Credit_History, letter_free_debt ,Property_Area,Loan_Status
+634097,40,M,yes ,0,notgraduate,yes,no,4700,5600,3000,twomonth,100000,yes ,30000,2,1,no,Rural,no
+627349,43,M,yes ,1,notgraduate,yes,yes,3000,2900,3000,twomonth,100000,yes ,30000,1,0,yes,Rural,yes
+632957,38,M,yes ,0,notgraduate,yes,yes,8000,2600,3000,twomonth,100000,yes ,30000,2,1,no,Rural,no
+641082,41,M,yes ,2,notgraduate,yes,yes,3600,3000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+635180,42,M,yes ,0,notgraduate,yes,yes,3900,3600,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+627061,38,M,yes ,2,notgraduate,yes,no,2900,4000,0,twomonth,100000,yes ,30000,2,1,no,Rural,no
+170586,35,M,yes ,0,notgraduate,yes,no,5000,4200,0,twomonth,0,no,0,1,1,yes,Rural,no
+713746,42,M,yes ,3,notgraduate,yes,yes,6700,1900,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+175686,41,M,yes ,2,notgraduate,yes,yes,3400,6000,3000,twomonth,100000,yes ,30000,3,1,yes,Rural,yes
+457268,46,M,yes ,1,notgraduate,yes,yes,6700,2400,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+507167,38,M,no,2,notgraduate,yes,no,3800,3500,0,twomonth,0,yes ,0,2,1,no,Rural,no
+652954,64,M,yes ,2,notgraduate,yes,no,2900,5000,3000,twomonth,100000,no,30000,1,1,no,Rural,no
+435430,40,M,yes ,2,notgraduate,yes,yes,3994,6000,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+682448,70,M,yes ,0,notgraduate,no,yes,1791,3000,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,no
+1559145,38,M,yes ,2,notgraduate,yes,no,2245,1800,3000,twomonth,100000,yes ,30000,2,1,no,Rural,no
+311521,41,M,yes ,0,notgraduate,yes,yes,4081,5600,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+388055,59,M,yes ,1,notgraduate,yes,no,3000,5200,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,no
+718396,38,F,yes ,0,notgraduate,yes,yes,4609,4600,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+470350,35,M,yes ,0,notgraduate,yes,yes,4600,2900,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+1599472,42,M,yes ,0,notgraduate,yes,yes,0,4567,0,twomonth,100000,yes ,0,1,1,yes,Rural,no
+641490,41,M,yes ,0,notgraduate,yes,yes,7600,5358,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+642754,46,M,yes ,1,notgraduate,yes,yes,1200,5133,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+633022,38,M,yes ,0,notgraduate,yes,yes,1400,4180,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+755147,44,M,yes ,2,notgraduate,yes,yes,2500,7170,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+256858,37,M,yes ,1,notgraduate,yes,yes,6700,6700,0,twomonth,100000,no,30000,1,1,no,Rural,no
+439766,37,M,yes ,0,notgraduate,yes,yes,4560,5600,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+1592605,36,M,yes ,0,notgraduate,yes,yes,2300,4900,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+629029,44,M,yes ,2,notgraduate,yes,yes,1980,4000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+377744,43,M,yes ,0,notgraduate,yes,yes,6500,6000,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+671017,41,M,yes ,2,notgraduate,yes,non,0,5400,0,twomonth,100000,no,30000,1,1,no,Rural,no
+744937,40,F,yes ,1,notgraduate,yes,yes,3000,7000,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+635031,42,M,yes ,0,notgraduate,yes,yes,3900,8000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+637727,45,M,yes ,1,notgraduate,yes,no,3200,7600,0,twomonth,100000,no,30000,2,1,no,Rural, no
+719628,42,M,yes ,0,notgraduate,yes,yes,0,5600,3000,twomonth,100000,yes ,30000,2,1,no,Rural,no
+714708,40,M,yes ,3,notgraduate,yes,yes,1980,7800,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+447389,43,M,yes ,0,notgraduate,yes,yes,6500,1900,3000,twomonth,0,yes ,30000,1,1,no,Rural,no
+237459,38,M,yes ,0,notgraduate,yes,yes,3400,2700,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+482090,41,M,yes ,0,notgraduate,yes,yes,1700,1985,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+543558,42,F,yes ,0,notgraduate,yes,yes,6000,2700,3000,twomonth,100000,yes ,30000,1,1,yes,Rural,yes
+502602,38,M,yes ,0,notgraduate,yes,no,5000,560,0,twomonth,100000,yes ,30000,1,1,no,Rural,no
+467593,35,M,yes ,0,notgraduate,yes,no,5400,890,0,twomonth,100000,no,30000,1,0,no,Rural,no
+712484,42,M,yes ,0,notgraduate,yes,yes,2500,2400,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+430711,41,M,yes ,0,notgraduate,yes,yes,3400,2300,3000,twomonth,100000,yes ,30000,1,0,yes,Rural,yes
+415121,46,M,yes ,0,notgraduate,yes,yes,2500,990,3000,twomonth,0,yes ,30000,2,0,yes,Rural,no
+540610,38,M,yes ,0,notgraduate,yes,yes,5000,3734,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+625551,44,M,yes ,0,notgraduate,yes,yes,3400,3934,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+634881,40,F,yes ,1,notgraduate,yes,yes,3200,3333,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+731397,43,M,yes ,0,notgraduate,yes,yes,5000,1958,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+439313,38,M,yes ,0,notgraduate,yes,no,3000,2380,0,twomonth,0,yes ,30000,2,0,no,Rural,no
+732384,41,F,yes ,0,notgraduate,yes,yes,5000,5358,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+352543,42,F,yes ,0,notgraduate,yes,yes,6500,15445,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+399526,38,F,yes ,0,notgraduate,yes,yes,4300,4609,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+687199,35,F,yes ,0,notgraduate,yes,yes,3365,8017,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+670827,42,F,yes ,2,notgraduate,yes,no,7000,3333,0,twomonth,100000,yes ,30000,2,0,no,Rural,no
+395629,41,M,yes ,1,notgraduate,yes,yes,3000,3000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+465046,46,F,yes ,2,notgraduate,yes,yes,1958,3000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+265172,38,M,yes ,0,notgraduate,yes,yes,967,3000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+440758,44,M,yes ,0,notgraduate,yes,no,5500,4000,0,twomonth,100000,yes ,30000,2,1,yes,Rural,no
+192701,40,M,yes ,1,notgraduate,yes,yes,3000,5000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+451380,43,M,yes ,2,notgraduate,yes,yes,957,3500,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+442096,38,M,yes ,0,notgraduate,yes,yes,3394,4100,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+255405,41,M,yes ,3,notgraduate,yes,no,3000,6000,0,twomonth,100000,yes ,30000,2,1,yes,Rural,no
+536720,42,M,yes ,0,notgraduate,yes,yes,3333,1200,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+630483,38,M,yes ,1,notgraduate,yes,yes,2229,890,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+516968,35,M,yes ,0,notgraduate,yes,no,4500,1000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,no
+266744,42,F,yes ,0,notgraduate,yes,yes,1978,2500,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+631813,41,M,yes ,0,notgraduate,yes,yes,6700,3400,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+449796,46,M,yes ,1,notgraduate,yes,yes,2800,8400,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+540604,38,M,yes ,3,notgraduate,yes,no,2200,2300,0,twomonth,0,yes ,30000,2,0,yes,Rural,no
+419725,44,M,yes ,0,notgraduate,yes,yes,1900,2000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+1606275,37,F,yes ,0,notgraduate,yes,yes,4400,2001,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+692813,37,M,yes ,2,notgraduate,yes,yes,3400,5700,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+450386,36,M,yes ,0,notgraduate,yes,yes,5400,3800,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+718385,44,M,yes ,3,notgraduate,yes,yes,2900,3600,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+429085,43,M,yes ,3,notgraduate,yes,yes,5400,3100,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+670583,41,M,yes ,0,notgraduate,yes,yes,3400,4900,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+670595,40,M,yes ,0,notgraduate,yes,yes,1700,5100,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+467297,42,M,yes ,1,notgraduate,yes,yes,7800,3000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+421047,45,M,yes ,3,notgraduate,yes,yes,5200,3800,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+401959,42,M,yes ,3,notgraduate,yes,yes,5300,3200,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+478951,40,M,yes ,0,notgraduate,yes,yes,4300,2000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+531977,43,F,yes ,1,notgraduate,yes,yes,2900,4500,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+717832,38,M,yes ,2,notgraduate,yes,yes,2700,1890,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+412748,41,F,yes ,0,notgraduate,yes,yes,3000,1400,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+432037,42,M,yes ,1,notgraduate,yes,yes,2000,1900,0,twomonth,50000,yes ,20000,2,1,no,Rural,no
+729025,38,M,yes ,0,notgraduate,yes,yes,2800,2800,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+657664,35,M,yes ,2,notgraduate,yes,yes,2600,1367,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+406699,42,M,yes ,0,notgraduate,yes,yes,4300,1789,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+451981,41,M,yes ,0,notgraduate,yes,yes,3600,2780,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+309085,46,M,yes ,0,notgraduate,yes,yes,5500,5000,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+634372,38,M,yes ,0,notgraduate,yes,yes,6500,2900,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+632932,44,M,yes ,2,notgraduate,yes,yes,1900,4500,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+627838,32,M,yes ,2,notgraduate,yes,yes,2400,3980,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+745654,33,M,yes ,0,notgraduate,yes,yes,3000,8017,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+528723,45,M,yes ,0,notgraduate,no,yes,2600,7071,2000,twomonth,50000,yes ,20000,2,0,No,Rural,no
+167823,50,M,yes ,0,notgraduate,yes,yes,2900,4000,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+412831,44,M,yes ,0,notgraduate,yes,yes,3000,3500,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+535984,46,F,yes ,0,notgraduate,no,yes,4500,3900,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,no
+429566,47,M,yes ,0,notgraduate,yes,yes,3450,3994,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+514899,42,M,yes ,0,notgraduate,yes,no,4609,2000,0,twomonth,0,yes ,20000,2,0,no,Rural,no
+633494,39,M,yes ,2,notgraduate,yes,yes,0,0,0,twomonth,50000,yes ,20000,2,0,yes,Rural,no
+685019,39,M,yes ,0,notgraduate,yes,yes,2000,4700,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+445147,36,M,yes ,1,notgraduate,yes,yes,4300,2000,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+641084,45,M,yes ,0,notgraduate,yes,yes,3000,5000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+731061,44,M,yes ,1,notgraduate,yes,yes,5000,6700,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+421439,56,M,yes ,1,notgraduate,yes,yes,5600,6000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+424122,48,M,yes ,2,notgraduate,yes,yes,4700,8000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+627289,46,M,yes ,0,notgraduate,yes,yes,4800,5400,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+696884,43,M,yes ,2,notgraduate,yes,no,5200,3600,0,twomonth,100000,yes ,30000,2,1,no,Rural,no
+642728,38,M,yes ,3,notgraduate,yes,yes,4800,4100,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+616288,44,M,yes ,0,notgraduate,yes,yes,6700,5600,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+1602933,32,M,yes ,0,notgraduate,yes,yes,5400,3200,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+634776,33,F,yes ,0,notgraduate,yes,yes,3000,6700,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+634769,45,M,yes ,1,notgraduate,yes,yes,6700,8000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+640564,50,F,yes ,0,notgraduate,yes,yes,4500,4000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+632948,44,M,yes ,1,notgraduate,yes,no,6700,2000,0,twomonth,100000,yes ,30000,2,0,no,Rural,no
+674660,46,M,yes ,0,notgraduate,yes,yes,3000,2900,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+738089,47,M,yes ,1,notgraduate,yes,yes,3200,6000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+734588,42,M,yes ,0,notgraduate,yes,yes,4000,5000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+631387,39,F,yes ,0,notgraduate,yes,no,4500,6700,0,twomonth,100000,yes ,30000,2,1,no,Rural,no
+705213,39,M,yes ,1,notgraduate,yes,yes,4000,5800,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+640914,36,M,yes ,0,notgraduate,yes,yes,3300,8000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+620339,45,M,yes ,0,notgraduate,yes,yes,3900,5600,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+634764,44,M,yes ,2,notgraduate,yes,yes,3600,4300,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+450940,56,M,yes ,0,notgraduate,yes,yes,8600,4999,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+445092,48,M,yes ,0,notgraduate,yes,yes,5400,7800,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+439171,46,M,yes ,3,notgraduate,yes,no,3700,5600,3000,twomonth,0,yes ,30000,2,1,no,Rural,no
+419486,43,M,yes ,0,notgraduate,yes,yes,4500,5000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+443790,46,M,yes ,1,notgraduate,yes,yes,8000,5000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+490551,38,M,yes ,0,notgraduate,yes,yes,1600,2000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+633454,44,M,yes ,0,notgraduate,yes,yes,3000,6700,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+444107,37,M,yes ,0,notgraduate,yes,yes,3000,4500,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+434861,37,M,yes ,0,notgraduate,yes,yes,4500,3600,0,twomonth,0,yes ,30000,2,1,no,Rural,no
+709770,36,M,yes ,0,notgraduate,yes,yes,3000,3100,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+725205,44,F,yes ,0,notgraduate,yes,yes,2900,3000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+516208,43,M,yes ,3,notgraduate,yes,yes,7000,4800,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+440156,41,F,yes ,0,notgraduate,yes,yes,6000,5000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+453571,40,M,yes ,2,notgraduate,yes,yes,3400,6700,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+436023,42,M,yes ,0,notgraduate,yes,yes,3000,6700,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+692908,45,M,yes ,2,notgraduate,yes,no,2800,3800,3000,twomonth,100000,yes ,30000,2,0,no,Rural,no
+529837,42,M,yes ,2,notgraduate,yes,yes,3000,3600,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+421651,40,M,yes ,0,notgraduate,yes,yes,5000,3700,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+634113,43,M,yes ,0,notgraduate,yes,yes,4000,4500,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+1592677,38,M,yes ,0,notgraduate,yes,yes,2000,7000,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+156741,41,M,yes ,2,notgraduate,yes,yes,1500,2000,1500,twomonth,10000,yes ,15000,2,0,yes,Rural,yes
+439697,42,M,yes ,0,notgraduate,yes,yes,1600,2400,1500,twomonth,10000,yes ,15000,2,0,yes,Rural,yes
+725203,38,M,yes ,2,notgraduate,yes,no,1900,2200,1500,twomonth,10000,yes ,15000,2,0,no,Rural,no
+437600,35,M,yes ,1,notgraduate,yes,yes,1500,2670,1500,twomonth,10000,yes ,15000,2,0,yes,Rural,yes
+450269,38,M,yes ,0,notgraduate,yes,yes,1800,3400,1500,twomonth,10000,yes ,15000,2,0,yes,Rural,yes
+668163,35,M,yes ,0,notgraduate,yes,yes,4500,3000,1500,twomonth,10000,yes ,15000,2,0,yes,Rural,yes
+500808,42,M,yes ,0,notgraduate,yes,yes,1500,5600,1500,twomonth,10000,yes ,15000,2,0,yes,Rural,yes
+187656,41,F,yes ,0,notgraduate,yes,yes,1000,5000,0,twomonth,0,yes ,10000,2,1,no,Rural,no
+536596,46,M,yes ,0,notgraduate,yes,yes,3000,6000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+189922,38,M,yes ,2,notgraduate,yes,yes,3600,4200,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+436178,44,M,yes ,0,notgraduate,yes,yes,1570,4000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+665327,40,M,yes ,3,notgraduate,yes,yes,3800,3900,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+435728,43,M,yes ,1,notgraduate,yes,yes,3100,7000,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+173752,38,M,yes ,1,notgraduate,yes,yes,4700,2700,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+430127,41,M,yes ,0,notgraduate,yes,yes,1200,2500,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+408327,42,M,yes ,0,notgraduate,yes,yes,1800,3000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+353436,38,M,yes ,0,notgraduate,yes,yes,2700,3600,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+187711,35,M,yes ,0,notgraduate,yes,yes,2900,4800,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+164948,42,M,yes ,1,notgraduate,yes,yes,7600,6500,0,twomonth,0,yes ,30000,2,0,yes,Rural,no
+430384,41,M,yes ,2,notgraduate,yes,yes,4300,6000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+528660,46,M,yes ,0,notgraduate,yes,yes,2780,7000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+719366,38,M,yes ,0,notgraduate,yes,yes,3343,6000,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+496206,44,M,yes ,0,notgraduate,yes,yes,7800,6500,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+660754,37,M,yes ,0,notgraduate,yes,yes,2600,6193,3000,twomonth,100000,yes ,30000,2,0,yes,Rural,yes
+265569,37,M,yes ,0,notgraduate,yes,yes,5400,6193,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+443417,39,M,yes ,2,notgraduate,yes,yes,3300,7071,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+640488,39,M,yes ,0,notgraduate,yes,no,3000,7071,3000,twomonth,100000,yes ,30000,2,1,no,Rural,no
+716754,44,M,yes ,0,graduate,yes,yes,14007,8017,5000,twomonth,14007,yes ,50000,2,0,yes,Urban ,yes
+401925,42,M,yes ,2,graduate,yes,yes,7900,8017,5000,twomonth,14007,yes ,50000,2,0,yes,Urban ,yes
+715639,42,M,yes ,1,graduate,no,yes,8900,8017,5000,twomonth,14007,yes ,50000,2,1,yes,Urban ,yes
+540678,47,M,yes ,1,graduate,no,yes,13720,5358,5000,twomonth,13720,yes ,50000,2,1,yes,Urban ,yes
+663394,45,M,yes ,0,graduate,no,no,13720,4609,0,twomonth,13720,yes ,50000,2,1,no,Urban ,no
+162029,46,M,yes ,3,graduate,no,yes,4609,4081,4500,twomonth,4609,yes ,45000,2,1,yes,Urban ,yes
+652944,38,M,yes ,2,graduate,no,yes,5358,3994,2300,twomonth,4609,yes ,23000,2,1,yes,Urban ,yes
+273747,39,M,yes ,1,graduate,no,yes,1958,5133,1900,twomonth,1624,yes ,19000,2,1,yes,Urban ,yes
+433464,37,M,yes ,1,graduate,no,yes,3333,3394,1000,twomonth,3333,yes ,10000,2,0,yes,Urban ,yes
+718392,37,M,yes ,1,graduate,no,no,1853,3624,0,twomonth,1853,yes ,10000,2,0,no,Urban ,no
+516220,39,M,yes ,1,graduate,no,no,0,0,0,twomonth,0,yes ,0,2,0,yes,Urban ,no
+577867,36,M,yes ,1,graduate,no,yes,8017,7071,3800,twomonth,8017,yes ,38000,2,0,yes,Urban ,yes
+187123,34,M,yes ,1,graduate,no,yes,6193,3994,3700,twomonth,6193,yes ,37000,2,0,yes,Urban ,yes
+640970,36,M,yes ,1,graduate,no,yes,5358,7071,3700,twomonth,5358,yes ,37000,2,0,yes,Urban ,yes
+702271,38,M,yes ,1,graduate,no,No,5358,9056,3800,twomonth,0,yes ,38000,2,0,no,Urban ,no
+750082,34,M,yes ,1,graduate,no,yes,4423,9056,3000,twomonth,4423,yes ,30000,2,1,yes,Urban ,yes
+629307,36,M,yes ,0,graduate,no,yes,3354,13720,3000,twomonth,3354,yes ,30000,2,1,yes,Urban ,yes
+157079,37,M,yes ,0,graduate,no,yes,3354,13720,3000,twomonth,3354,yes ,30000,2,1,yes,Urban ,yes
+452508,38,M,yes ,2,graduate,no,yes,0,0,0,twomonth,0,yes ,10000,2,1,no,Urban ,no
+637375,39,M,yes ,0,graduate,no,yes,1847,4609,1500,twomonth,1847,yes ,15000,2,1,yes,Urban ,yes
+535910,43,M,yes ,2,graduate,no,yes,5232,6193,3500,twomonth,5232,yes ,35000,2,1,yes,Urban ,yes
+385167,45,M,yes ,1,graduate,no,yes,3333,3394,0,twomonth,0,yes ,31000,2,1,yes,Urban ,no
+640699,43,M,yes ,0,graduate,no,yes,3333,3394,2800,twomonth,3333,yes ,28000,2,1,yes,Urban ,yes
+446078,42,M,yes ,0,graduate,no,yes,1853,5358,3000,twomonth,1853,yes ,30000,2,1,yes,Urban ,yes
+535151,40,M,yes ,0,graduate,no,no,1853,7071,3100,twomonth,1853,yes ,31000,2,1,no,Urban ,no
+633586,43,M,yes ,0,graduate,no,no,4609,4999,5000,twomonth,4609,yes ,50000,2,1,yes,Urban ,no
+158770,44,M,yes ,0,graduate,no,yes,10160,7071,5000,twomonth,10160,yes ,50000,2,1,yes,Urban ,yes
+634306,46,M,yes ,2,graduate,no,no,7071,7071,5000,twomonth,7071,yes ,50000,2,1,no,Urban ,no
+740071,45,M,yes ,0,graduate,no,no,12051,12529,3500,twomonth,12051,yes ,35000,2,1,no ,Urban ,no
+524577,43,M,yes ,1,graduate,no,yes,12529,6193,3900,twomonth,12529,yes ,39000,2,1,yes,Urban ,yes
+667868,46,M,yes ,0,graduate,no,no,8017,12529,3000,twomonth,8017,yes ,30000,2,1,no,Urban ,no
+433513,43,M,yes ,2,graduate,no,yes,6193,9056,3000,twomonth,6193,yes ,30000,2,1,yes,Urban ,yes
+625505,47,M,yes ,1,graduate,no,yes,15445,4081,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+168130,46,M,yes ,1,graduate,no,no,8017,5358,3000,twomonth,8017,yes ,50000,2,1,no,Urban ,no
+677114,43,M,yes ,0,graduate,no,yes,3930,7071,3000,twomonth,3930,yes ,30000,2,1,yes,Urban ,yes
+446990,42,M,yes ,2,graduate,no,yes,3934,3394,4500,twomonth,3934,yes ,45000,2,1,yes,Urban ,yes
+653006,47,M,yes ,1,graduate,no,yes,15445,12529,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+307889,34,M,yes ,1,graduate,no,no,15445,12529,4500,twomonth,15445,no,45000,2,1,no,Urban ,no
+446734,35,M,yes ,1,graduate,no,yes,15445,12529,3000,twomonth,15445,yes ,30000,2,1,yes,Urban ,yes
+458564,36,M,yes ,0,graduate,no,yes,8017,8017,3800,twomonth,8017,yes ,38000,2,0,yes,Urban ,yes
+506920,39,M,yes ,1,graduate,no,no,7341,7341,3600,twomonth,7341,no,36000,2,0,no,Urban ,no
+636403,37,M,yes ,2,graduate,no,yes,7341,7341,3600,twomonth,7341,yes ,36000,2,0,yes,Urban ,yes
+397901,38,M,yes ,3,graduate,no,yes,8017,8017,3600,twomonth,8017,yes ,36000,2,0,yes,Urban ,yes
+633830,34,M,yes ,1,graduate,no,no,7341,7341,3000,twomonth,7341,no,30000,2,1,no,Urban ,no
+633854,35,M,yes ,2,graduate,no,yes,5358,6193,3000,twomonth,5358,yes ,30000,2,1,yes,Urban ,yes
+636038,34,M,yes ,1,graduate,no,yes,5358,6193,4000,twomonth,5358,yes ,40000,2,0,yes,Urban ,yes
+725291,45,M,yes ,0,graduate,no,yes,1993,6193,1000,twomonth,1993,yes ,10000,2,1,yes,Urban ,yes
+631965,42,M,yes ,1,graduate,no,yes,1624,6193,2500,twomonth,1624,yes ,25000,2,0,yes,Urban ,yes
+636062,36,M,yes ,2,graduate,no,yes,1624,6193,1000,twomonth,1624,yes ,10000,2,1,yes,Urban ,yes
+222203,31,M,yes ,2,graduate,no,yes,1999,6193,2800,twomonth,1999,no,28000,2,0,no,Urban ,no
+192036,36,M,yes ,2,graduate,no,yes,5358,5358,2000,twomonth,5358,yes ,20000,2,0,yes,Urban ,yes
+1550355,39,M,yes ,1,graduate,no,yes,12579,12579,4000,twomonth,12579,yes ,40000,2,0,yes,Urban ,yes
+629910,40,M,yes ,0,graduate,no,yes,8017,8017,4000,twomonth,8017,yes ,40000,2,1,yes,Urban ,yes
+634350,43,M,yes ,1,graduate,no,yes,4609,7071,3000,twomonth,4609,yes ,30000,2,0,yes,Urban ,yes
+642153,42,M,yes ,1,graduate,no,yes,15445,7071,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+640982,33,M,yes ,1,graduate,no,yes,15445,7071,5000,twomonth,15445,no,50000,2,1,no,Urban ,no
+618304,31,M,yes ,0,graduate,no,yes,15445,7071,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+640997,30,M,yes ,2,graduate,no,yes,15445,15445,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+642135,32,M,yes ,1,graduate,no,no,15445,4609,5000,twomonth,15445,yes ,50000,2,1,No,Urban ,no
+634313,31,M,yes ,1,graduate,no,yes,15445,3333,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+634321,29,M,yes ,0,graduate,no,yes,15445,7071,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+381015,32,M,yes ,3,graduate,no,yes,15445,15445,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+439004,33,M,yes ,2,graduate,no,yes,15445,8017,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+442385,31,M,yes ,1,graduate,no,yes,15445,8017,5000,twomonth,15445,yes ,50000,2,1,yes,Urban ,yes
+179527,27,M,yes ,0,graduate,yes,yes,10000,2000,20000,twomonth,200000,yes ,200000,2,1,yes,Urban ,yes
+458010,29,M,yes ,0,graduate,yes,yes,6700,3000,3000,twomonth,100000,yes ,30000,2,1,yes,Urban ,yes
+457105,30,M,yes ,0,graduate,yes,yes,12000,2000,20000,twomonth,200000,yes ,200000,2,0,yes,Urban ,yes
+679695,31,M,yes ,0,graduate,yes,yes,9700,5000,30000,twomonth,300000,yes ,50000,2,1,yes,Urban ,yes
+456915,31,M,yes ,0,graduate,yes,yes,12500,2000,20000,twomonth,200000,no,200000,2,0,no,Urban ,no
+424046,33,M,yes ,0,graduate,yes,yes,7800,15000,5000,twomonth,50000,yes ,150000,2,1,yes,Urban ,yes
+434654,33,M,yes ,0,graduate,yes,yes,9000,3000,20000,twomonth,200000,yes ,300000,2,1,yes,Urban ,yes
+405809,33,M,yes ,0,graduate,yes,yes,8900,2000,15000,twomonth,150000,yes ,200000,2,0,yes,Urban ,yes
+451314,29,M,yes ,0,graduate,yes,yes,14000,2000,30000,twomonth,300000,yes ,200000,2,1,yes,Urban ,yes
+422554,28,M,yes ,0,graduate,yes,yes,15700,15000,20000,twomonth,200000,yes ,150000,2,1,yes,Urban ,yes
+434640,34,M,yes ,0,graduate,yes,yes,13400,2000,20000,twomonth,200000,yes ,200000,2,1,yes,Urban ,yes
+444015,37,M,yes ,0,graduate,yes,yes,6800,3000,15000,twomonth,150000,no,300000,2,0,no,Urban ,no
+453952,63,M,yes ,0,graduate,yes,yes,0,0,20000,twomonth,200000,yes ,0,2,1,yes,Urban ,no
+541995,36,M,yes ,0,graduate,yes,yes,9000,2000,30000,twomonth,300000,yes ,200000,2,0,yes,Urban ,yes
+493192,34,M,yes ,0,graduate,yes,yes,10000,2000,30000,twomonth,300000,yes ,200000,2,1,yes,Urban ,yes
+440846,37,M,yes ,0,graduate,yes,yes,15400,15000,20000,twomonth,200000,yes ,150000,2,0,yes,Urban ,yes
+671077,36,M,yes ,0,graduate,yes,yes,8500,8000,20000,twomonth,200000,yes ,800000,2,1,yes,Urban ,yes
+486383,28,M,yes ,0,graduate,yes,yes,0,0,15000,twomonth,150000,yes ,600000,2,0,yes,Urban ,no
+193059,29,M,yes ,0,graduate,yes,yes,17000,6000,80000,twomonth,1600000,yes ,600000,2,1,yes,Urban ,yes
+408949,35,M,yes ,0,graduate,yes,yes,12000,4000,60000,twomonth,1200000,yes ,400000,2,1,yes,Urban ,yes
+470208,59,M,yes ,0,graduate,no,yes,13500,3500,60000,twomonth,1200000,yes ,350000,2,1,no,Urban ,no
+513422,43,M,yes ,0,graduate,yes,yes,17600,3000,40000,twomonth,800000,yes ,5000,1,1,yes,Rural,yes
+523792,36,M,yes ,1,graduate,yes,yes,7000,7953,35000,twomonth,700000,yes ,24000,2,1,yes,Rural,yes
+633911,38,F,yes ,0,graduate,yes,no,7800,2565,6000,twomonth,100000,yes ,60000,3,1,yes,Rural,no
+401943,66,M,yes ,2,graduate,yes,yes,9000,4609,5000,twomonth,100000,yes ,50000,3,1,yes,Rural,yes
+451793,39,M,yes ,0,graduate,yes,yes,6700,2799,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+439819,45,F,yes ,2,graduate,yes,yes,10000,3333,2800,twomonth,50000,yes ,28000,2,0,yes,Rural,yes
+436857,43,M,yes ,0,graduate,yes,yes,10000,8017,2800,twomonth,50000,yes ,28000,2,1,yes,Rural,yes
+457462,44,M,yes ,3,graduate,yes,yes,20000,3394,1000,twomonth,20000,yes ,10000,1,0,yes,Rural,yes
+729737,42,F,yes ,2,graduate,yes,yes,16000,4081,1300,twomonth,20000,yes ,13000,1,1,yes,Rural,yes
+755109,42,M,yes ,1,graduate,yes,yes,8000,9056,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+724369,43,M,yes ,2,graduate,yes,yes,8400,6545,400,twomonth,20000,yes ,4000,1,1,yes,Rural,yes
+633132,46,M,yes ,2,graduate,yes,yes,9500,6798,1200,twomonth,10000,no,12000,1,1,no,Rural,no
+640389,29,M,yes ,2,graduate,yes,yes,7800,6000,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+641506,45,M,yes ,0,graduate,yes,yes,9800,5400,80,twomonth,100000,yes ,80000,1,0,yes,Rural,yes
+641666,34,F,yes ,2,graduate,yes,yes,10000,3900,3900,twomonth,100000,yes ,39000,2,0,yes,Rural,yes
+617803,43,M,yes ,0,graduate,yes,yes,20000,6780,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+641502,27,M,yes ,1,graduate,yes,yes,9000,10150,1000,twomonth,20000,no,10000,1,0,no,Rural,no
+641653,29,M,yes ,0,graduate,yes,yes,11000,6193,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+640555,30,M,yes ,0,graduate,yes,yes,12500,5358,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+641542,45,M,yes ,0,graduate,yes,yes,8900,5133,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+640531,47,M,yes ,0,graduate,yes,yes,12700,7071,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+641615,49,M,yes ,1,graduate,yes,yes,13800,4798,5000,twomonth,100000,yes ,50000,2,1,yes,Rural,yes
+641512,50,M,yes ,0,graduate,yes,yes,14000,7645,5000,twomonth,100000,yes ,50000,2,0,yes,Rural,yes
+641554,35,M,yes ,2,graduate,yes,yes,15000,9056,5600,twomonth,100000,no,56000,2,1,no,Rural,no
+640401,37,M,yes ,1,graduate,yes,yes,19000,7071,2400,twomonth,50000,yes ,24000,2,1,yes,Rural,yes
+640545,41,M,yes ,0,graduate,yes,yes,5600,4565,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+641539,43,M,yes ,0,graduate,yes,yes,7800,4081,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+641562,29,M,yes ,2,graduate,yes,yes,9000,5600,20000,twomonth,400000,yes ,200000,3,1,yes,Rural,yes
+641518,28,M,yes ,0,graduate,yes,yes,12300,7000,1600,twomonth,20000,yes ,16000,1,0,yes,Rural,yes
+641548,27,M,yes ,2,graduate,yes,yes,12000,6000,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+641573,33,M,yes ,1,graduate,yes,yes,5900,4500,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+641598,36,M,yes ,0,graduate,yes,yes,7000,6500,1000,twomonth,20000,yes ,10000,1,0,no,Rural,no
+641602,36,M,yes ,1,graduate,yes,yes,8000,7600,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+641527,37,M,yes ,0,graduate,yes,yes,6900,6700,10000,twomonth,200000,yes ,100000,3,0,yes,Rural,yes
+616936,34,M,yes ,3,graduate,yes,yes,8900,6000,1300,twomonth,20000,yes ,13000,1,0,yes,Rural,yes
+641646,39,M,yes ,0,graduate,yes,yes,7800,5000,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+641566,41,M,yes ,0,graduate,yes,yes,4500,4300,250,twomonth,5000,yes ,2500,1,0,yes,Rural,yes
+641533,40,M,yes ,0,graduate,yes,yes,7800,7600,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+641659,43,M,yes ,0,graduate,yes,yes,9000,3200,0,twomonth,20000,yes ,15000,1,0,no,Rural,no
+641636,51,M,yes ,0,graduate,yes,yes,10000,4600,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+632792,53,M,yes ,0,graduate,yes,yes,12000,10500,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+205784,51,M,yes ,0,graduate,yes,yes,12700,7800,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+731398,30,M,yes ,0,graduate,yes,yes,12800,7500,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+505971,32,M,yes ,0,graduate,yes,yes,13000,4000,1000,twomonth,10000,yes ,10000,1,1,yes,Rural,yes
+217551,36,M,yes ,0,graduate,yes,yes,16000,4300,1000,twomonth,10000,yes ,10000,1,1,yes,Rural,yes
+477762,37,M,yes ,0,graduate,yes,yes,15000,5000,400,twomonth,10000,no,4000,2,1,no,Rural,no
+186948,40,M,yes ,1,graduate,yes,yes,18000,5400,1500,twomonth,20000,yes ,15000,2,,yes,Rural,yes
+631405,43,M,yes ,0,graduate,yes,yes,5600,7800,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+725447,38,M,yes ,0,graduate,yes,yes,8000,4576,15000,twomonth,200000,yes ,150000,1,1,yes,Rural,yes
+433574,41,M,yes ,0,graduate,yes,yes,8700,5358,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+1549290,42,F,yes ,0,graduate,yes,yes,10000,5626,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+1559189,38,M,yes ,0,graduate,yes,yes,10000,5907,1500,twomonth,20000,yes ,15000,2,0,yes,Rural,yes
+165723,35,M,yes ,0,graduate,yes,yes,12000,6193,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+636046,42,M,yes ,2,graduate,yes,yes,11000,6193,700,twomonth,10000,yes ,7000,1,0,yes,Rural,yes
+634260,41,M,yes ,1,graduate,yes,yes,11300,6481,2400,twomonth,50000,yes ,24000,1,0,yes,Rural,yes
+636008,46,F,yes ,2,graduate,yes,yes,9800,6773,5000,twomonth,100000,yes ,50000,1,1,yes,Rural,yes
+632613,38,M,yes ,0,graduate,yes,yes,7600,7071,3600,twomonth,100000,no,36000,1,1,no,Rural,no
+630528,64,M,yes ,0,graduate,yes,yes,8700,7071,1920,twomonth,50000,yes ,19200,2,1,yes,Rural,yes
+632980,40,M,yes ,1,graduate,yes,yes,7071,7377,2800,twomonth,50000,yes ,28000,1,0,yes,Rural,yes
+634156,70,M,yes ,2,graduate,yes,yes,4081,7690,5000,twomonth,100000,yes ,50000,1,0,yes,Rural,yes
+429857,38,F,yes ,0,graduate,yes,yes,6193,8017,1440,twomonth,10000,yes ,14400,1,0,yes,Rural,yes
+453090,41,M,yes ,3,graduate,yes,yes,8017,7690,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+444971,59,M,yes ,0,graduate,yes,yes,9056,8017,400,twomonth,10000,yes ,4000,2,1,yes,Rural,yes
+529631,38,F,yes ,1,graduate,yes,yes,6193,8354,400,twomonth,10000,yes ,4000,2,1,yes,Rural,yes
+436460,35,M,yes ,0,graduate,yes,yes,9056,8705,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+529786,42,M,yes ,0,graduate,yes,yes,10150,2638,300,twomonth,10000,yes ,3000,1,1,yes,Rural,yes
+436443,41,F,yes ,0,graduate,yes,yes,11350,2969,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+450368,46,M,yes ,1,graduate,yes,yes,12579,3150,400,twomonth,10000,yes ,4000,2,0,yes,Rural,yes
+676862,38,M,yes ,3,graduate,yes,yes,2799,3526,420,twomonth,10000,yes ,4200,1,0,yes,Rural,yes
+444712,44,F,yes ,0,graduate,yes,yes,15396,3729,1200,twomonth,20000,yes ,12000,1,1,yes,Urban ,yes
+432056,37,F,yes ,0,graduate,yes,yes,16979,4150,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+426325,37,F,yes ,2,graduate,yes,no,1100,4379,400,twomonth,10000,no,4000,1,1,no,Urban ,no
+173235,36,F,yes ,0,graduate,yes,yes,1958,4851,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+529776,44,F,yes ,3,graduate,yes,yes,2900,5098,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+400165,43,F,yes ,3,graduate,yes,yes,3994,5626,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+673435,41,F,yes ,0,graduate,yes,yes,1791,5907,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+154380,40,M,yes ,0,graduate,yes,yes,2245,6481,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+399730,42,F,yes ,1,graduate,yes,yes,4081,6773,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+667268,45,M,yes ,3,graduate,yes,yes,3000,7377,700,twomonth,10000,yes ,7000,1,0,yes,Rural,yes
+273952,42,M,yes ,3,graduate,yes,yes,4609,7690,1500,twomonth,10000,yes ,15000,1,0,yes,Rural,yes
+732376,40,M,yes ,0,graduate,yes,yes,4600,8354,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+431008,43,F,yes ,1,graduate,yes,yes,0,8705,1500,twomonth,20000,yes ,15000,1,0,yes,Urban ,yes
+407879,38,M,yes ,2,graduate,yes,no,7600,9056,500,twomonth,10000,no,5000,1,0,no,Rural,no
+397642,41,F,yes ,0,graduate,yes,yes,1200,9420,1500,twomonth,20000,yes ,15000,1,0,yes,Urban ,yes
+521976,42,M,yes ,1,graduate,yes,yes,1400,1958,1500,twomonth,15000,yes ,15000,1,0,yes,Urban ,yes
+652163,38,F,yes ,0,graduate,yes,yes,2500,2079,700,twomonth,10000,yes ,7000,1,0,yes,Rural,yes
+738382,35,F,yes ,2,graduate,yes,yes,6700,2344,1000,twomonth,100000,yes ,10000,1,0,yes,Rural,yes
+167841,42,F,yes ,0,graduate,yes,yes,4560,2487,1500,twomonth,50000,yes ,15000,1,0,yes,Rural,yes
+732461,41,M,yes ,0,graduate,yes,yes,2300,2799,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+330478,46,M,yes ,0,graduate,yes,yes,1980,2969,1500,twomonth,20000,yes ,15000,1,0,yes,Urban ,yes
+412952,38,M,yes ,0,graduate,yes,yes,6500,3333,1500,twomonth,20000,yes ,15000,1,0,yes,Urban ,yes
+729236,44,M,yes ,2,graduate,yes,yes,0,3526,400,twomonth,10000,yes ,4000,3,0,yes,Urban ,yes
+632829,40,F,yes ,2,graduate,yes,yes,3000,3934,1500,twomonth,20000,no,15000,2,0,no,Urban ,no
+637672,43,F,yes ,0,graduate,yes,yes,3900,4150,5000,twomonth,100000,yes ,50000,1,2,yes,Rural,yes
+160151,38,F,yes ,0,graduate,yes,yes,3200,4609,4000,twomonth,100000,yes ,40000,2,2,yes,Rural,yes
+633062,41,F,yes ,0,graduate,yes,yes,0,4851,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+640636,42,M,yes ,0,graduate,yes,yes,1980,5358,2400,twomonth,50000,yes ,24000,1,1,yes,Rural,yes
+459467,38,M,yes ,0,graduate,yes,yes,6500,5626,2000,twomonth,50000,yes ,20000,1,1,yes,Urban ,yes
+249999,35,F,yes ,0,graduate,yes,yes,3400,6193,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+641522,42,F,yes ,0,graduate,yes,yes,1700,6481,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+341211,41,F,yes ,2,graduate,yes,yes,0,7071,2500,twomonth,50000,yes ,25000,1,1,yes,Urban ,yes
+455136,46,M,yes ,0,graduate,yes,yes,5000,7377,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+436127,38,M,yes ,1,graduate,yes,no,5400,8017,400,twomonth,10000,yes ,4000,1,1,no,Urban ,no
+442889,44,M,yes ,0,graduate,yes,yes,2500,8354,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+512345,40,M,yes ,1,graduate,yes,yes,3400,9056,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+435979,43,M,yes ,1,graduate,yes,yes,25000,9420,1000,twomonth,20000,yes ,10000,2,1,yes,Urban ,yes
+676709,38,M,yes ,2,graduate,yes,yes,5000,9785,800,twomonth,10000,yes ,8000,2,0,yes,Urban ,yes
+490652,41,M,yes ,0,graduate,yes,yes,3400,10150,3000,twomonth,100000,yes ,30000,1,1,yes,Urban ,yes
+428846,42,M,yes ,2,graduate,yes,yes,3200,8017,1200,twomonth,20000,yes ,12000,3,1,yes,Urban ,yes
+272659,38,M,yes ,3,graduate,yes,yes,5000,8354,400,twomonth,10000,yes ,4000,3,0,yes,Urban ,yes
+738386,35,M,yes ,0,graduate,yes,yes,3000,8705,1500,twomonth,20000,yes ,15000,3,1,yes,Urban ,yes
+399908,42,M,yes ,0,graduate,yes,yes,5000,9056,1500,twomonth,20000,yes ,15000,3,1,yes,Urban ,yes
+421120,41,M,yes ,0,graduate,yes,yes,6500,9056,250,twomonth,5000,yes ,2500,3,0,yes,Urban ,yes
+436930,46,M,yes ,1,graduate,yes,yes,4300,9420,400,twomonth,10000,no,4000,3,0,no,Urban ,no
+154363,38,F,yes ,0,graduate,yes,yes,3365,9420,400,twomonth,10000,yes ,4000,3,0,yes,Urban ,yes
+672393,44,F,yes ,1,graduate,yes,yes,7000,9785,1500,twomonth,20000,yes ,15000,3,1,yes,Urban ,yes
+424189,37,M,yes ,0,graduate,yes,yes,3000,10150,1500,twomonth,20000,yes ,15000,3,1,yes,Urban ,yes
+397233,37,M,yes ,1,graduate,yes,yes,1958,9785,800,twomonth,10000,yes ,8000,3,0,yes,Urban ,yes
+534470,36,F,yes ,0,graduate,yes,yes,967,10150,800,twomonth,10000,yes ,8000,3,0,yes,Rural,yes
+448184,44,M,yes ,0,graduate,yes,yes,5500,10150,1000,twomonth,20000,yes ,10000,3,0,yes,Rural,yes
+506746,43,M,yes ,1,graduate,yes,yes,3000,10521,250,twomonth,5000,yes ,2500,3,0,yes,Rural,yes
+754459,41,M,yes ,0,graduate,yes,yes,957,10906,1500,twomonth,10000,yes ,15000,3,0,yes,Rural,yes
+447558,40,M,yes ,0,graduate,yes,yes,3394,10521,3300,twomonth,100000,yes ,33000,3,1,yes,Rural,yes
+447650,42,M,yes ,2,graduate,yes,yes,3000,10906,300,twomonth,10000,yes ,3000,3,0,yes,Rural,yes
+455577,45,M,yes ,0,graduate,yes,yes,3333,11305,400,twomonth,10000,yes ,4000,3,0,yes,Rural,yes
+537953,42,F,yes ,0,graduate,yes,no,2229,11305,400,twomonth,10000,yes ,4000,1,0,no,Urban ,no
+421633,40,F,yes ,3,graduate,yes,yes,4500,11719,1382,twomonth,20000,yes ,13819,1,1,yes,Urban ,yes
+692834,43,F,yes ,0,graduate,yes,yes,1978,12148,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+705043,38,F,yes ,1,graduate,yes,yes,6700,12579,600,twomonth,10000,yes ,6000,1,0,yes,Rural,yes
+428614,41,F,yes ,0,graduate,yes,yes,2800,10521,1000,twomonth,20000,yes ,10000,1,0,yes,Rural,yes
+477729,42,F,yes ,0,graduate,yes,yes,2200,10906,600,twomonth,10000,yes ,6000,1,0,yes,Rural,yes
+642786,38,F,yes ,0,graduate,yes,yes,1900,11719,1500,twomonth,20000,yes ,15000,1,0,yes,Rural,yes
+360964,35,F,yes ,0,graduate,yes,yes,4400,12148,5000,twomonth,100000,yes ,50000,1,2,yes,Rural,yes
+631912,42,M,yes ,0,graduate,yes,yes,3400,13013,1300,twomonth,10000,yes ,13000,1,1,yes,Rural,yes
+512330,41,M,yes ,0,graduate,yes,yes,5400,13462,2800,twomonth,50000,yes ,28000,1,2,yes,Rural,yes
+459742,46,M,yes ,3,graduate,yes,yes,2900,10521,1000,twomonth,20000,yes ,10000,1,0,yes,Rural,yes
+436896,38,M,yes ,0,graduate,yes,yes,5400,11305,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+674332,44,M,yes ,2,graduate,yes,yes,3400,11719,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+443899,32,M,yes ,0,graduate,yes,no,1700,12579,4200,twomonth,100000,yes ,42000,1,2,no,Rural,no
+190143,33,M,yes ,2,graduate,yes,yes,7800,13013,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+525863,45,F,yes ,2,graduate,yes,yes,5200,13926,700,twomonth,10000,yes ,7000,1,0,yes,Rural,yes
+432978,50,M,yes ,0,graduate,yes,yes,5300,14400,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+642658,44,M,yes ,0,graduate,yes,yes,4300,11305,300,twomonth,10000,yes ,3000,1,0,yes,Rural,yes
+434282,46,M,yes ,0,graduate,yes,yes,2900,11719,5000,twomonth,100000,yes ,50000,1,2,yes,Rural,yes
+1550754,47,M,yes ,2,graduate,yes,yes,2700,12148,300,twomonth,10000,yes ,3000,1,0,yes,Rural,yes
+154184,42,M,yes ,0,graduate,yes,yes,3000,12579,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+209875,39,M,yes ,2,graduate,yes,yes,2000,10521,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+186879,39,M,yes ,1,graduate,yes,no,2800,10906,300,twomonth,10000,no,3000,1,0,yes,Rural,no
+323003,36,M,yes ,0,graduate,yes,yes,2600,11719,500,twomonth,5000,yes ,5000,1,0,yes,Rural,yes
+637308,45,M,yes ,0,graduate,yes,yes,4300,12148,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+731425,44,M,yes ,0,graduate,yes,yes,3600,13013,6000,twomonth,100000,yes ,60000,1,2,yes,Rural,yes
+156619,56,F,yes ,0,graduate,yes,yes,5500,13462,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+631871,48,M,yes ,0,graduate,yes,yes,6500,10521,1000,twomonth,10000,yes ,10000,1,1,yes,Rural,yes
+265122,46,F,yes ,2,graduate,yes,yes,1900,11305,2240,twomonth,50000,yes ,22400,1,1,yes,Rural,yes
+161801,43,M,yes ,0,graduate,yes,yes,2400,11719,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+481888,38,F,yes ,3,graduate,yes,yes,3000,12579,700,twomonth,10000,yes ,7000,1,0,yes,Rural,yes
+410412,44,M,yes ,1,graduate,yes,yes,2600,13013,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+729750,32,F,yes ,1,graduate,yes,yes,2900,13926,400,twomonth,0,yes ,4000,0,0,yes,Rural,yes
+729742,33,M,yes ,0,graduate,yes,no,3000,14400,1500,twomonth,20000,yes ,15000,1,1,no,Rural,no
+173879,45,F,yes ,0,graduate,yes,yes,4500,5358,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+192193,50,M,yes ,0,graduate,yes,yes,3450,5626,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+634993,44,F,yes ,0,graduate,yes,yes,4609,5907,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+631012,46,M,yes ,1,graduate,yes,yes,0,6193,2800,twomonth,50000,yes ,28000,1,1,yes,Rural,yes
+633286,47,F,yes ,2,graduate,yes,yes,2000,6193,2400,twomonth,50000,yes ,24000,1,1,yes,Rural,yes
+633430,42,M,yes ,0,graduate,yes,yes,4300,6481,2800,twomonth,50000,yes ,28000,1,1,yes,Rural,yes
+657679,39,F,yes ,0,graduate,yes,yes,3000,6773,2000,twomonth,50000,yes ,20000,1,1,yes,Rural,yes
+413240,39,M,yes ,0,graduate,yes,yes,5000,7071,2000,twomonth,50000,yes ,20000,1,1,yes,Rural,yes
+171130,36,F,yes ,0,graduate,yes,yes,5600,7071,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+625881,45,M,yes ,0,graduate,yes,yes,4700,7377,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+635158,44,F,yes ,2,graduate,yes,yes,4800,7690,6000,twomonth,100000,yes ,60000,1,2,yes,Rural,yes
+251776,56,M,yes ,0,graduate,yes,yes,5200,8017,2000,twomonth,50000,no,20000,1,1,no,Rural,no
+642751,48,F,yes ,0,graduate,yes,yes,4800,7690,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+158787,46,F,yes ,2,graduate,yes,yes,6700,8017,2400,twomonth,50000,yes ,24000,1,2,yes,Rural,yes
+430182,43,F,yes ,1,graduate,yes,yes,5400,8354,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+532449,46,F,yes ,1,graduate,yes,yes,3000,8705,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+415829,38,F,yes ,0,graduate,yes,yes,6700,1731,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+443996,44,F,yes ,3,graduate,yes,yes,4500,1843,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+415376,37,F,yes ,2,graduate,yes,yes,6700,2079,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+406520,37,M,yes ,1,graduate,yes,yes,3000,2208,195,twomonth,5000,yes ,1949,1,0,yes,Rural,yes
+422612,36,F,yes ,1,graduate,yes,yes,3200,2487,250,twomonth,5000,yes ,2500,1,0,yes,Rural,yes
+428157,44,M,yes ,1,graduate,yes,yes,4000,2638,800,twomonth,10000,yes ,8000,1,0,yes,Rural,yes
+718362,43,F,yes ,1,graduate,yes,no,4500,2969,1000,twomonth,20000,yes ,10000,1,1,no,Rural,no
+531742,41,F,yes ,1,graduate,yes,yes,4000,3150,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+493985,40,M,yes ,1,graduate,yes,yes,3300,3526,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+428777,42,F,yes ,1,graduate,yes,yes,3900,3729,200,twomonth,5000,yes ,2000,1,0,yes,Rural,yes
+442367,45,M,yes ,1,graduate,yes,yes,3600,4150,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+543813,42,F,yes ,1,graduate,yes,yes,8600,4379,450,twomonth,10000,yes ,4500,1,0,yes,Rural,yes
+187330,40,F,yes ,0,graduate,yes,yes,5400,4851,800,twomonth,10000,yes ,8000,1,0,yes,Rural,yes
+688940,43,F,yes ,0,graduate,yes,yes,3700,5098,1000,twomonth,20000,yes ,10000,1,0,yes,Rural,yes
+443699,38,F,yes ,2,graduate,yes,yes,4500,5626,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+400044,41,M,yes ,0,graduate,yes,yes,8000,5907,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+515934,42,M,yes ,2,graduate,yes,yes,1600,6481,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+441050,38,M,yes ,1,graduate,yes,no,3000,6773,1000,twomonth,20000,yes ,10000,1,1,no,Urban ,no
+398119,35,M,yes ,0,graduate,yes,yes,3000,7377,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+449869,38,M,yes ,0,graduate,yes,yes,4500,7690,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+543232,35,M,yes ,0,graduate,yes,yes,3000,8354,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+530653,42,M,yes ,0,graduate,yes,yes,2900,8705,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+302410,41,M,yes ,0,graduate,yes,yes,7000,9056,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+162842,46,M,yes ,2,graduate,yes,yes,6000,1958,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+657606,38,M,yes ,0,graduate,yes,yes,3400,2079,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+449701,44,M,yes ,1,graduate,yes,yes,3000,2344,20000,twomonth,300000,yes ,200000,1,2,yes,Urban ,yes
+446753,40,M,yes ,0,graduate,yes,yes,2800,2487,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+672376,43,M,yes ,2,graduate,yes,yes,3000,2799,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+448818,38,M,yes ,1,graduate,yes,yes,5000,2969,1200,twomonth,20000,no,12000,1,1,no,Urban ,no
+670573,41,F,yes ,1,graduate,yes,yes,4000,3333,480,twomonth,10000,yes ,4800,1,1,yes,Urban ,yes
+672397,42,F,yes ,0,graduate,yes,yes,2000,3526,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+513834,38,F,yes ,2,graduate,yes,yes,1500,3934,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+540056,35,F,yes ,1,graduate,yes,yes,1600,4150,1100,twomonth,20000,yes ,11000,1,1,yes,Urban ,yes
+438971,42,F,yes ,1,graduate,yes,yes,1900,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+465198,41,F,yes ,1,graduate,yes,yes,1500,4851,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+452619,46,F,yes ,0,graduate,yes,yes,1800,5358,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+410721,38,F,yes ,1,graduate,yes,yes,4500,5626,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+358047,44,F,yes ,2,graduate,yes,yes,1500,6193,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+153567,37,F,yes ,3,graduate,yes,yes,1000,6481,1500,twomonth,20000,yes ,15000,1,0,yes,Urban ,yes
+514934,37,F,yes ,1,graduate,yes,yes,3000,7071,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+526662,39,F,yes ,2,graduate,yes,yes,3600,7377,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+445275,39,F,yes ,1,graduate,yes,yes,1570,8017,1200,twomonth,20000,yes ,12000,1,1,yes,Urban ,yes
+438939,44,F,yes ,0,graduate,yes,yes,3800,8354,400,twomonth,20000,yes ,4000,1,0,yes,Urban ,yes
+396049,42,F,yes ,1,graduate,yes,yes,3100,9056,400,twomonth,20000,yes ,4000,1,0,no,Urban ,no
+632379,42,M,yes ,2,graduate,yes,yes,4700,9420,400,twomonth,20000,yes ,4000,1,0,yes,Urban ,yes
+642823,47,M,yes ,2,graduate,yes,yes,1200,9785,6000,twomonth,100000,yes ,60000,1,2,yes,Rural,yes
+633171,45,M,yes ,2,graduate,yes,yes,1800,1174,7000,twomonth,100000,yes ,70000,1,2,yes,Rural,yes
+642344,46,M,yes ,1,graduate,yes,yes,2700,1253,2800,twomonth,50000,yes ,28000,1,1,yes,Rural,yes
+409069,38,M,yes ,0,graduate,yes,yes,2900,1428,15000,twomonth,200000,yes ,150000,1,1,yes,Rural,yes
+465103,39,M,yes ,1,graduate,yes,yes,7600,1523,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+435379,37,M,yes ,1,graduate,yes,yes,4300,1731,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+632127,37,M,yes ,1,graduate,yes,yes,2780,1843,80,twomonth,10000,yes ,800,2,0,yes,Rural,yes
+631235,39,M,yes ,0,graduate,yes,yes,3343,2079,2800,twomonth,50000,yes ,28000,1,1,yes,Rural,yes
+659852,36,F,yes ,2,graduate,yes,yes,7800,2208,2800,twomonth,50000,yes ,28000,1,1,yes,Rural,yes
+709778,34,F,yes ,1,graduate,yes,yes,2600,2487,600,twomonth,10000,yes ,6000,2,1,no,Rural,no
+429406,36,F,yes ,1,graduate,yes,yes,5400,2638,3000,twomonth,100000,yes ,30000,1,2,yes,Rural,yes
+678382,38,F,yes ,0,graduate,yes,yes,3300,2969,400,twomonth,10000,yes ,4000,2,0,yes,Rural,yes
+159929,34,M,yes ,3,graduate,yes,yes,3000,3150,1200,twomonth,10000,yes ,12000,3,1,yes,Rural,yes
+441649,36,M,yes ,2,graduate,yes,yes,14007,3526,1200,twomonth,10000,yes ,12000,1,1,yes,Rural,yes
+421029,37,M,yes ,1,graduate,yes,yes,7900,3729,250,twomonth,5000,yes ,2500,1,0,yes,Rural,yes
+509740,38,M,yes ,0,graduate,yes,yes,8900,4150,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+442694,39,M,yes ,0,graduate,yes,yes,13720,4379,250,twomonth,5000,yes ,2500,2,0,yes,Rural,yes
+627670,34,M,yes ,0,graduate,yes,yes,13720,4851,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+442260,45,M,yes ,0,graduate,yes,yes,4609,5098,2400,twomonth,50000,yes ,24000,1,1,yes,Rural,yes
+447829,43,F,yes ,0,graduate,yes,yes,5358,5626,400,twomonth,10000,no,4000,1,0,no,Rural,no
+415591,42,F,yes ,0,graduate,yes,yes,1958,5907,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+168792,40,F,yes ,0,graduate,yes,yes,3333,6481,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+451028,43,M,yes ,0,graduate,yes,yes,1853,6773,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+409051,44,M,yes ,0,graduate,yes,yes,0,7071,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+456988,46,M,yes ,0,graduate,yes,yes,8017,7377,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+414900,45,M,yes ,0,graduate,yes,yes,6193,6700,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+437506,43,M,yes ,0,graduate,yes,yes,5358,7600,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+422463,46,M,yes ,0,graduate,yes,yes,5358,8000,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+10004545,43,M,yes ,0,graduate,yes,yes,4423,3334,800,twomonth,10000,yes ,8000,1,0,yes,Rural,yes
+10004545,47,M,yes ,0,graduate,yes,yes,3354,5358,1500,twomonth,20000,no,15000,2,1,yes,Rural,no
+10004545,46,M,yes ,0,graduate,yes,yes,3354,7690,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+10004545,43,F,yes ,0,graduate,yes,yes,0,6570,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+10004545,42,F,yes ,0,graduate,yes,yes,1847,7800,1500,twomonth,14007,yes ,15000,2,1,yes,Rural,yes
+10004545,47,F,yes ,0,graduate,yes,yes,5232,7071,1500,twomonth,14007,yes ,15000,2,1,yes,Rural,yes
+10004545,34,F,yes ,0,graduate,yes,yes,3333,5358,1500,twomonth,14007,yes ,15000,2,1,yes,Rural,yes
+10004545,35,F,yes ,0,graduate,yes,yes,3333,6193,1500,twomonth,13720,yes ,15000,2,1,yes,Rural,yes
+10004545,36,M,yes ,0,graduate,yes,yes,1853,1893,1500,twomonth,13720,yes ,15000,2,1,yes,Rural,yes
+10004545,39,F,yes ,0,graduate,yes,yes,1853,2344,1500,twomonth,4609,yes ,15000,2,1,yes,Rural,yes
+10004545,37,F,yes ,1,graduate,yes,yes,4609,2799,1500,twomonth,4609,yes ,15000,2,1,yes,Rural,yes
+10004545,38,F,yes ,0,graduate,yes,yes,10160,3333,1500,twomonth,1624,yes ,15000,2,1,yes,Rural,yes
+10004545,34,M,yes ,2,graduate,yes,yes,7071,9056,1500,twomonth,3333,yes ,15000,2,1,yes,Rural,yes
+10004545,35,M,yes ,0,graduate,yes,yes,12051,3934,1500,twomonth,1853,yes ,15000,2,1,yes,Rural,yes
+10004545,34,M,yes ,2,graduate,yes,yes,12529,4609,1500,twomonth,0,yes ,15000,2,1,yes,Rural,yes
+10004545,45,M,yes ,0,graduate,yes,yes,8017,5358,1500,twomonth,8017,yes ,15000,2,1,yes,Rural,yes
+10004545,42,M,yes ,3,graduate,yes,yes,6193,6193,1500,twomonth,6193,yes ,15000,2,1,yes,Rural,yes
+10004545,36,M,yes ,2,graduate,yes,yes,15445,7071,1500,twomonth,5358,yes ,15000,2,1,yes,Rural,yes
+10004545,31,M,yes ,1,graduate,yes,yes,8017,8017,1500,twomonth,0,yes ,15000,2,1,yes,Rural,yes
+10004545,36,M,yes ,2,graduate,yes,yes,3930,10150,1500,twomonth,4423,yes ,15000,2,1,yes,Rural,yes
+10004545,39,M,yes ,2,graduate,yes,yes,3934,1174,1500,twomonth,3354,yes ,15000,2,1,yes,Rural,yes
+10004545,40,M,yes ,2,graduate,yes,yes,15445,1428,1500,twomonth,3354,yes ,15000,2,1,yes,Rural,yes
+10004545,43,M,yes ,0,graduate,yes,yes,15445,1731,1500,twomonth,0,yes ,15000,2,1,yes,Rural,yes
+10004545,42,M,yes ,2,graduate,yes,yes,15445,2079,1500,twomonth,1847,yes ,15000,2,1,yes,Rural,yes
+10004545,33,M,yes ,0,graduate,yes,yes,8017,2487,1500,twomonth,5232,yes ,15000,2,1,yes,Rural,yes
+10004545,31,M,yes ,1,graduate,yes,yes,7341,2969,1500,twomonth,0,yes ,15000,2,1,yes,Rural,yes
+10004545,30,M,yes ,0,graduate,yes,yes,7341,3526,1500,twomonth,3333,yes ,15000,2,1,yes,Rural,yes
+10004545,32,F,yes ,0,graduate,yes,yes,8017,4150,1500,twomonth,1853,yes ,15000,2,1,yes,Rural,yes
+10004545,31,F,yes ,0,graduate,yes,yes,7341,4851,1500,twomonth,1853,yes ,15000,2,1,yes,Rural,yes
+10004545,29,F,yes ,0,graduate,yes,yes,5358,5626,1500,twomonth,4609,yes ,15000,2,1,yes,Rural,yes
+10004545,32,F,yes ,1,graduate,yes,yes,5358,6481,1700,twomonth,10160,yes ,17000,2,1,yes,Rural,yes
+10004545,33,M,yes ,0,graduate,yes,yes,1993,7377,1500,twomonth,7071,yes ,15000,2,1,yes,Rural,yes
+10004545,31,F,yes ,2,graduate,yes,yes,1624,8354,1500,twomonth,12051,yes ,15000,2,1,yes,Rural,yes
+10004545,27,F,yes ,1,graduate,yes,yes,1624,9420,1500,twomonth,12529,yes ,15000,2,1,yes,Rural,yes
+10004545,29,M,yes ,0,graduate,yes,yes,1999,2456,1500,twomonth,8017,yes ,15000,2,1,yes,Rural,yes
+10004545,30,F,yes ,0,graduate,yes,yes,5358,6570,1500,twomonth,6193,yes ,15000,2,1,yes,Rural,yes
+10004545,31,M,yes ,2,graduate,yes,yes,12579,1253,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+10004545,31,M,yes ,0,graduate,yes,yes,8017,1338,1500,twomonth,8017,yes ,15000,2,1,yes,Rural,yes
+10004545,33,M,yes ,2,graduate,yes,yes,4609,1624,1500,twomonth,3930,yes ,15000,2,1,yes,Rural,yes
+10004545,33,M,yes ,1,graduate,yes,yes,15445,1958,1500,twomonth,3934,yes ,15000,2,1,yes,Rural,yes
+10004545,33,M,yes ,0,graduate,yes,yes,15445,2344,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+10004545,29,M,yes ,1,graduate,yes,yes,15445,2799,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+10004545,28,M,yes ,0,graduate,yes,yes,15445,3333,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+10004545,34,M,yes ,3,graduate,yes,yes,15445,3394,1500,twomonth,8017,yes ,15000,2,1,yes,Rural,yes
+10004545,37,M,yes ,0,graduate,yes,yes,15445,4609,1500,twomonth,7341,yes ,15000,2,1,yes,Rural,yes
+10004545,63,M,yes ,0,graduate,yes,yes,15445,5358,1500,twomonth,7341,yes ,15000,2,1,yes,Rural,yes
+10004545,36,M,yes ,0,graduate,yes,yes,15445,6193,1500,twomonth,8017,yes ,15000,2,1,yes,Rural,yes
+10004545,34,M,yes ,0,graduate,yes,yes,15445,7071,1500,twomonth,7341,yes ,15000,2,1,yes,Rural,yes
+10004545,37,M,yes ,0,graduate,yes,yes,15445,8017,1500,twomonth,5358,yes ,15000,2,1,yes,Rural,yes
+10004545,36,F,yes ,0,graduate,yes,yes,10000,9056,1500,twomonth,5358,yes ,15000,2,1,yes,Rural,yes
+10004545,28,F,yes ,0,graduate,yes,yes,6700,10150,1500,twomonth,1993,yes ,15000,2,1,yes,Rural,yes
+10004545,29,F,yes ,0,graduate,yes,yes,12000,11305,1500,twomonth,1624,yes ,15000,2,1,yes,Rural,yes
+14005542,35,F,yes ,0,graduate,yes,yes,9700,1428,1500,twomonth,1624,yes ,15000,2,1,yes,Rural,yes
+14005542,59,F,yes ,0,graduate,yes,yes,12500,1731,1500,twomonth,1999,yes ,15000,2,1,yes,Rural,yes
+14005542,43,F,yes ,0,graduate,yes,yes,7800,2079,1500,twomonth,5358,yes ,15000,2,1,yes,Rural,yes
+14005542,36,F,yes ,1,graduate,yes,yes,9000,2487,2000,twomonth,12579,yes ,20000,2,1,yes,Rural,yes
+14005542,38,F,yes ,0,graduate,yes,yes,8900,2969,1500,twomonth,8017,yes ,15000,2,1,yes,Rural,yes
+14005542,66,M,yes ,0,graduate,yes,yes,14000,3526,1500,twomonth,4609,yes ,15000,2,1,yes,Rural,yes
+14005542,39,M,yes ,0,graduate,yes,yes,15700,4150,2000,twomonth,15445,yes ,20000,2,1,yes,Rural,yes
+14005542,45,M,yes ,0,graduate,yes,yes,13400,4851,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+14005542,43,M,yes ,0,graduate,yes,yes,6800,5626,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+14005542,44,M,yes ,0,graduate,yes,yes,0,6481,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+14005542,42,M,yes ,2,graduate,yes,yes,9000,7277,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+14005542,42,F,yes ,1,graduate,yes,yes,10000,8354,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+428495,43,F,yes ,2,graduate,yes,yes,15400,9420,1500,twomonth,15445,yes ,15000,2,1,yes,Rural,yes
+629829,46,F,yes ,0,graduate,yes,yes,8500,10521,600,twomonth,15445,yes ,6000,1,0,yes,Rural,yes
+628820,29,F,yes ,0,graduate,yes,yes,0,11719,1600,twomonth,15445,yes ,16000,2,1,yes,Rural,yes
+470388,45,M,yes ,1,graduate,yes,yes,17000,3333,2400,twomonth,15445,yes ,24000,2,1,yes,Rural,yes
+452268,34,M,yes ,2,graduate,yes,yes,12000,3526,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+408412,43,M,yes ,0,graduate,yes,yes,13500,3729,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+524637,27,M,yes ,3,graduate,yes,yes,17600,3934,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+429065,29,M,yes ,0,graduate,yes,yes,7000,3934,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+436229,30,M,yes ,1,graduate,yes,yes,7800,4150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+460624,45,M,yes ,0,graduate,yes,yes,9000,4379,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+641503,47,M,yes ,0,graduate,yes,yes,6700,4609,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+415796,49,M,yes ,0,graduate,yes,yes,10000,4609,1680,twomonth,20000,yes ,16800,2,1,yes,Urban ,yes
+630876,50,M,yes ,1,graduate,yes,yes,10000,4851,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+459571,35,M,yes ,3,graduate,yes,yes,20000,5098,10000,twomonth,200000,yes ,100000,3,1,yes,Urban ,yes
+713621,37,M,yes ,0,graduate,yes,yes,16000,5358,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+445235,41,M,yes ,0,graduate,yes,yes,8000,5358,1300,twomonth,20000,yes ,13000,1,1,yes,Urban ,yes
+402517,43,M,yes ,2,graduate,yes,yes,8400,5626,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+628861,29,M,yes ,0,graduate,yes,yes,9500,5907,250,twomonth,5000,yes ,2500,1,0,yes,Rural,yes
+512392,28,M,yes ,3,graduate,yes,yes,7800,6193,2400,twomonth,50000,yes ,24000,2,2,yes,Rural,yes
+636069,27,M,yes ,3,graduate,yes,yes,9800,6193,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+635348,33,M,yes ,0,graduate,yes,yes,10000,6481,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+442227,36,M,yes ,0,graduate,yes,yes,20000,6773,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+440812,36,M,yes ,1,graduate,yes,yes,9000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+452230,37,M,yes ,3,graduate,yes,yes,11000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+410671,34,M,yes ,3,graduate,yes,yes,12500,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+1559280,39,F,yes ,0,graduate,yes,yes,8900,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+459057,41,M,yes ,1,graduate,yes,yes,12700,3934,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+410327,40,F,yes ,2,graduate,yes,yes,13800,4609,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+404050,43,F,yes ,0,graduate,yes,yes,14000,5358,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+416964,51,F,yes ,1,graduate,yes,yes,15000,6193,1500,twomonth,20000,yes ,15000,2,0,yes,Rural,yes
+431894,53,M,yes ,0,graduate,yes,yes,19000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+431750,51,M,yes ,2,graduate,yes,yes,5600,8017,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+498443,30,M,yes ,0,graduate,yes,yes,7800,10150,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+637734,32,M,yes ,0,graduate,yes,yes,9000,1174,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+744932,36,M,yes ,0,graduate,yes,yes,12300,1428,5000,twomonth,100000,yes ,50000,3,1,yes,Rural,yes
+439083,37,M,yes ,0,graduate,yes,yes,12000,1731,3000,twomonth,100000,yes ,30000,3,1,yes,Rural,yes
+738390,44,M,yes ,2,graduate,yes,yes,5900,2079,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+452319,45,M,yes ,2,graduate,yes,yes,7000,2487,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+455851,41,M,yes ,0,graduate,yes,yes,8000,2969,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+419430,40,M,yes ,0,graduate,yes,yes,6900,3526,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+453160,33,M,yes ,0,graduate,yes,yes,8900,4150,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+413256,34,M,yes ,0,graduate,yes,yes,7800,3333,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+441137,39,M,yes ,0,graduate,yes,yes,4500,3394,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+640941,38,M,yes ,0,graduate,yes,yes,7800,4609,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+1579376,28,M,yes ,0,graduate,yes,yes,9000,5358,2400,twomonth,50000,yes ,24000,2,0,yes,Rural,yes
+454134,29,M,yes ,2,graduate,yes,yes,10000,6193,420,twomonth,10000,yes ,4200,1,1,yes,Rural,yes
+412651,27,M,yes ,0,graduate,yes,yes,12000,7071,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+192120,29,F,yes ,1,graduate,yes,yes,12700,8017,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+456827,25,M,yes ,0,graduate,yes,yes,12800,9056,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+711590,27,M,yes ,1,graduate,yes,yes,13000,10150,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+457287,29,M,yes ,1,graduate,yes,yes,16000,11305,1382,twomonth,20000,yes ,13819,2,1,yes,Urban ,yes
+432743,33,M,yes ,2,graduate,yes,yes,15000,1428,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+438602,34,M,yes ,0,graduate,yes,yes,18000,1731,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+179126,35,M,yes ,2,graduate,yes,yes,5600,2079,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+504703,37,M,yes ,3,graduate,yes,yes,8000,2487,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+496158,37,M,yes ,0,graduate,yes,yes,8700,2969,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+431789,37,M,yes ,0,graduate,yes,yes,10000,3526,200,twomonth,5000,yes ,2000,1,0,yes,Rural,yes
+429530,35,M,yes ,0,graduate,yes,yes,10000,4150,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+429139,32,M,yes ,1,graduate,yes,yes,12000,4851,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+457333,31,M,yes ,0,graduate,yes,yes,11000,5626,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+448858,35,F,yes ,1,graduate,yes,yes,11300,6481,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+432611,33,M,yes ,0,graduate,yes,yes,9800,7300,433,twomonth,10000,yes ,4328,1,0,yes,Rural,yes
+422376,51,M,yes ,1,graduate,yes,yes,7600,4000,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+480785,52,M,yes ,0,graduate,yes,yes,8700,5400,800,twomonth,10000,yes ,8000,1,1,yes,Rural,yes
+635984,50,M,yes ,0,graduate,yes,yes,7071,4300,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+455610,40,M,yes ,1,graduate,yes,yes,4081,5000,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+629466,49,M,yes ,0,graduate,yes,yes,6193,9000,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+256085,41,M,yes ,0,graduate,yes,yes,8017,5400,2800,twomonth,20000,yes ,28000,2,1,yes,Urban ,yes
+631976,46,F,yes ,2,graduate,yes,yes,9056,3000,1500,twomonth,10000,yes ,15000,2,1,yes,Urban ,yes
+577815,47,M,yes ,0,graduate,yes,yes,6193,2500,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+465310,68,M,yes ,0,graduate,yes,yes,9056,1924,1500,twomonth,5000,yes ,15000,2,1,yes,Urban ,yes
+654324,78,M,yes ,3,graduate,yes,yes,10150,1600,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+455791,33,M,yes ,0,graduate,yes,yes,11350,2999,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+450747,37,M,yes ,1,graduate,yes,yes,12579,1958,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+516136,37,M,yes ,0,graduate,yes,yes,2799,2300,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+474755,34,M,yes ,0,graduate,yes,yes,15396,3500,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+414954,32,F,yes ,0,graduate,yes,yes,16979,6000,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+632565,31,M,yes ,0,graduate,yes,yes,1100,7500,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+654271,30,M,yes ,0,graduate,yes,yes,1958,5400,1700,twomonth,20000,yes ,17000,2,1,yes,Urban ,yes
+717546,38,F,yes ,0,graduate,yes,yes,2900,7500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+1559128,30,F,yes ,3,graduate,yes,yes,3994,6500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+665402,37,F,yes ,0,graduate,yes,yes,1791,3000,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+266847,29,F,yes ,2,graduate,yes,yes,2245,7300,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+448314,26,F,yes ,0,graduate,yes,yes,4081,5400,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+1622892,27,M,yes ,2,graduate,yes,yes,3000,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+640880,28,F,yes ,2,graduate,yes,yes,4609,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+726712,29,M,yes ,0,graduate,yes,yes,4600,7071,10000,twomonth,200000,yes ,100000,3,1,yes,Urban ,yes
+434373,33,M,yes ,0,graduate,yes,yes,0,13249,1500,twomonth,20000,yes ,15000,1,1,yes,Rural,yes
+679684,34,M,yes ,0,graduate,yes,yes,7600,10150,300,twomonth,5000,yes ,3000,1,0,yes,Rural,yes
+653013,31,M,yes ,2,graduate,yes,yes,1200,7000,1200,twomonth,10000,yes ,12000,1,1,yes,Rural,yes
+616584,32,M,yes ,0,graduate,yes,yes,1400,4500,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+634089,36,M,yes ,2,graduate,yes,yes,2500,6500,7000,twomonth,8017,yes ,70000,3,1,yes,Urban ,yes
+633954,37,M,yes ,1,graduate,yes,yes,6700,8000,2400,twomonth,9056,yes ,24000,2,1,yes,Rural,yes
+633870,36,M,yes ,0,graduate,yes,yes,4560,8017,2400,twomonth,5333,yes ,24000,2,1,yes,Urban ,yes
+455432,39,M,yes ,0,graduate,yes,yes,2300,9056,3200,twomonth,5358,yes ,32000,2,1,yes,Rural,yes
+415724,30,F,yes ,0,graduate,yes,yes,1980,5333,400,twomonth,7071,yes ,4000,1,0,yes,Urban ,yes
+636134,33,M,yes ,0,graduate,yes,yes,6500,5358,400,twomonth,5000,yes ,4000,1,0,yes,Rural,yes
+434570,32,M,yes ,0,graduate,yes,yes,0,7071,2400,twomonth,4567,yes ,24000,2,0,yes,Urban ,yes
+455941,34,M,yes ,2,graduate,yes,yes,3000,5000,400,twomonth,3394,yes ,4000,1,1,yes,Rural,yes
+424219,45,M,yes ,0,graduate,yes,yes,3900,4567,500,twomonth,3333,yes ,5000,1,0,yes,Rural,yes
+453719,49,F,yes ,3,graduate,yes,yes,3200,3394,400,twomonth,9056,yes ,4000,1,0,yes,Urban ,yes
+640931,47,M,yes ,1,graduate,yes,yes,0,3333,500,twomonth,6193,yes ,5000,1,0,yes,Urban ,yes
+441209,46,M,yes ,1,graduate,yes,yes,1980,9056,2400,twomonth,8017,yes ,24000,2,2,yes,Rural,yes
+436248,34,M,yes ,0,graduate,yes,yes,6500,2500,400,twomonth,9056,yes ,4000,1,0,yes,Rural,yes
+636055,45,M,yes ,0,graduate,yes,yes,3400,2500,400,twomonth,6193,yes ,4000,1,0,yes,Urban ,yes
+275717,37,M,yes ,0,graduate,yes,yes,1700,5400,2000,twomonth,9056,yes ,20000,2,1,yes,Urban ,yes
+156953,49,M,yes ,0,graduate,yes,yes,,7071,500,twomonth,10150,yes ,5000,1,1,yes,Rural,yes
+439837,38,M,yes ,1,graduate,yes,yes,5000,4081,1000,twomonth,11350,yes ,10000,1,0,yes,Rural,yes
+222041,39,M,yes ,2,graduate,yes,yes,5400,6193,1000,twomonth,12579,yes ,10000,1,1,yes,Rural,yes
+500790,41,M,yes ,0,graduate,yes,yes,2500,8017,600,twomonth,2799,yes ,6000,1,1,yes,Urban ,yes
+670414,40,M,yes ,0,graduate,yes,yes,3400,9056,1500,twomonth,15396,yes ,15000,2,0,yes,Rural,yes
+696998,30,F,yes ,0,graduate,yes,yes,25000,6193,1200,twomonth,16979,yes ,12000,1,1,yes,Urban ,yes
+265372,33,M,yes ,0,graduate,yes,yes,5000,9056,1500,twomonth,1100,yes ,15000,2,1,yes,Urban ,yes
+542757,29,F,yes ,0,graduate,yes,yes,3400,10150,800,twomonth,1958,yes ,8000,1,0,yes,Rural,yes
+447167,30,M,yes ,2,graduate,yes,yes,3200,11350,1000,twomonth,6193,yes ,10000,1,1,yes,Rural,yes
+429176,45,M,yes ,0,graduate,yes,yes,5000,12579,1000,twomonth,8017,yes ,10000,1,0,yes,Rural,yes
+536614,48,M,yes ,0,graduate,yes,yes,3000,2799,400,twomonth,9056,yes ,4000,1,1,yes,Rural,yes
+189873,46,M,yes ,2,graduate,yes,yes,5000,15396,1500,twomonth,6193,yes ,15000,2,1,yes,Urban ,yes
+536560,44,M,yes ,1,graduate,yes,yes,6500,16979,1000,twomonth,9056,yes ,10000,1,1,yes,Urban ,yes
+656086,42,M,yes ,1,graduate,yes,yes,4300,1100,1500,twomonth,10150,yes ,15000,2,1,yes,Rural,yes
+434964,41,M,yes ,0,graduate,yes,yes,3365,1958,5000,twomonth,11350,yes ,50000,3,1,yes,Rural,yes
+449812,50,M,yes ,3,graduate,yes,yes,7000,2900,400,twomonth,12579,yes ,4000,1,1,yes,Rural,yes
+467317,45,M,yes ,2,graduate,yes,yes,3000,5626,400,twomonth,2799,yes ,4000,1,1,yes,Urban ,yes
+413045,43,M,yes ,1,graduate,yes,yes,1958,6481,400,twomonth,15396,yes ,4000,1,0,yes,Urban ,yes
+437156,29,M,yes ,1,graduate,yes,yes,967,7300,400,twomonth,16979,yes ,4000,1,0,yes,Urban ,yes
+410380,28,M,yes ,1,graduate,yes,yes,5500,4000,400,twomonth,1100,yes ,4000,1,0,yes,Urban ,yes
+504814,50,M,yes ,1,graduate,yes,yes,3000,5400,400,twomonth,1958,yes ,4000,1,1,yes,Rural,yes
+415049,48,F,yes ,1,graduate,yes,yes,957,4300,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+165002,47,M,yes ,1,graduate,yes,yes,3394,5000,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+513613,56,M,yes ,1,graduate,yes,yes,3000,9000,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+257679,67,M,yes ,1,graduate,yes,yes,3333,5400,8000,twomonth,100000,yes ,80000,3,1,yes,Urban ,yes
+422248,46,M,yes ,1,graduate,yes,yes,2229,3000,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+441926,45,M,yes ,0,graduate,yes,yes,4500,2500,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+384148,35,M,yes ,0,graduate,yes,yes,1978,1924,250,twomonth,5000,yes ,2500,1,0,yes,Rural,yes
+465659,43,M,yes ,2,graduate,yes,yes,6700,1600,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+410394,42,M,yes ,0,graduate,yes,yes,2800,2999,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+515018,32,M,yes ,2,graduate,yes,yes,2200,1958,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+454316,31,M,yes ,1,graduate,yes,yes,1900,2300,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+636030,41,M,yes ,0,graduate,yes,yes,4400,3500,500,twomonth,5000,yes ,5000,1,1,yes,Rural,yes
+421064,46,M,yes ,0,graduate,yes,yes,3400,6000,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+443132,38,M,yes ,0,graduate,yes,yes,5400,7500,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+513096,44,M,yes ,0,graduate,yes,yes,2900,5400,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+451635,40,F,yes ,0,graduate,yes,yes,5400,7500,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+731866,43,M,yes ,2,graduate,yes,yes,3400,5626,100,twomonth,5000,yes ,1000,1,0,yes,Rural,yes
+738431,38,F,yes ,0,graduate,yes,yes,1700,6481,3800,twomonth,100000,yes ,38000,2,1,yes,Urban ,yes
+182446,41,M,yes ,1,graduate,yes,yes,7800,7300,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+532067,42,M,yes ,0,graduate,yes,yes,5200,4000,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+543191,38,M,yes ,2,graduate,yes,yes,5300,5400,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+419146,35,M,yes ,1,graduate,yes,yes,4300,4300,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+671955,42,F,yes ,1,graduate,yes,yes,2900,5000,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+355415,41,M,yes ,0,graduate,yes,yes,2700,9000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+170347,46,M,yes ,2,graduate,yes,yes,3000,5400,1300,twomonth,20000,yes ,13000,2,1,yes,Rural,yes
+186914,38,M,yes ,1,graduate,yes,yes,2000,3000,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+397251,44,M,yes ,1,graduate,yes,yes,2800,2500,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+544033,37,M,yes ,1,graduate,yes,yes,2600,1924,800,twomonth,10000,yes ,8000,1,1,yes,Rural,yes
+513506,37,M,yes ,0,graduate,yes,yes,4300,1600,2600,twomonth,50000,yes ,26000,2,0,yes,Urban ,yes
+405902,36,M,yes ,1,graduate,yes,yes,3600,2999,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+170494,44,M,yes ,2,graduate,yes,yes,5500,1958,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+187037,43,M,yes ,3,graduate,yes,yes,6500,2300,300,twomonth,10000,yes ,3000,1,0,yes,Rural,yes
+405986,41,M,yes ,1,graduate,yes,yes,1900,3500,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+417074,40,M,yes ,2,graduate,yes,yes,2400,6000,1500,twomonth,10000,yes ,15000,2,0,yes,Rural,yes
+635054,42,M,yes ,1,graduate,yes,yes,3000,7500,400,twomonth,20000,yes ,4000,1,1,yes,Urban ,yes
+453792,45,M,yes ,0,graduate,yes,yes,2600,5400,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+640578,42,M,yes ,1,graduate,yes,yes,2900,7500,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+453036,40,F,yes ,2,graduate,yes,yes,3000,5400,2800,twomonth,50000,yes ,28000,2,0,yes,Rural,yes
+434264,43,M,yes ,2,graduate,yes,yes,4500,8017,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+395970,38,F,yes ,2,graduate,yes,yes,3450,6193,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+406839,41,M,yes ,1,graduate,yes,yes,4609,10150,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+439966,42,M,yes ,0,graduate,yes,yes,0,2344,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+435813,38,M,yes ,1,graduate,yes,yes,2000,4609,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+388221,35,M,yes ,1,graduate,yes,yes,4300,0,80,twomonth,10000,yes ,800,1,0,yes,Rural,yes
+683055,42,M,yes ,1,graduate,yes,yes,3000,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+410705,41,M,yes ,0,graduate,yes,yes,5000,3934,15000,twomonth,200000,yes ,150000,3,1,yes,Rural,yes
+157060,46,M,yes ,2,graduate,yes,yes,5600,1958,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+515006,38,M,yes ,1,graduate,yes,yes,4700,6169,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+490368,44,M,yes ,1,graduate,yes,yes,4800,1338,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+723450,32,M,yes ,0,graduate,yes,yes,5200,2344,1200,twomonth,20000,yes ,12000,1,1,yes,Rural,yes
+726714,33,M,yes ,3,graduate,yes,yes,4800,2799,1500,twomonth,20000,yes ,15000,2,0,yes,Rural,yes
+408163,45,M,yes ,2,graduate,yes,yes,6700,4609,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+668178,50,M,yes ,1,graduate,yes,yes,5400,3200,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+631781,44,M,yes ,0,graduate,yes,yes,3000,1958,5000,twomonth,100000,yes ,50000,3,0,yes,Rural,yes
+189712,46,F,yes ,0,graduate,yes,yes,6700,2344,2800,twomonth,50000,yes ,28000,2,1,yes,Rural,yes
+542444,47,M,yes ,0,graduate,yes,yes,4500,5358,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+633903,42,M,yes ,0,graduate,yes,yes,6700,1338,300,twomonth,10000,yes ,3000,1,1,yes,Rural,yes
+660730,39,M,yes ,0,graduate,yes,yes,3000,1624,2800,twomonth,50000,yes ,28000,2,2,yes,Rural,yes
+424361,39,M,yes ,0,graduate,yes,yes,3200,2799,5000,twomonth,100000,yes ,50000,3,1,yes,Rural,yes
+641517,36,M,yes ,0,graduate,yes,yes,4000,4851,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+412687,45,M,yes ,0,graduate,yes,yes,4500,4609,4000,twomonth,100000,yes ,40000,3,2,yes,Rural,yes
+631158,44,M,yes ,0,graduate,yes,yes,4000,2799,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+455906,56,M,yes ,0,graduate,yes,yes,3300,3400,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+725286,48,M,yes ,0,graduate,yes,yes,3900,3700,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+636370,46,M,yes ,0,graduate,yes,yes,3600,4081,4000,twomonth,100000,yes ,40000,3,1,yes,Rural,yes
+419414,43,M,yes ,0,graduate,yes,yes,8600,3200,10000,twomonth,200000,yes ,100000,3,2,yes,Rural,yes
+730848,38,M,yes ,0,graduate,yes,yes,5400,5358,250,twomonth,5000,yes ,2500,1,1,yes,Rural,yes
+453900,44,M,yes ,0,graduate,yes,yes,3700,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+417256,32,M,yes ,0,graduate,yes,yes,4500,7071,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+512431,33,M,yes ,0,graduate,yes,yes,8000,8017,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+360806,45,M,yes ,0,graduate,yes,yes,1600,9056,1000,twomonth,10000,yes ,10000,1,1,yes,Rural,yes
+162401,50,M,yes ,0,graduate,yes,yes,3000,10150,1300,twomonth,10000,yes ,13000,1,1,yes,Rural,yes
+410524,44,M,yes ,0,graduate,yes,yes,3000,11305,1000,twomonth,10000,yes ,10000,1,1,yes,Rural,yes
+447960,46,M,yes ,0,graduate,yes,yes,4500,12579,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+427821,47,M,yes ,0,graduate,yes,yes,3000,13926,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+677365,42,M,yes ,1,graduate,yes,yes,2900,15396,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+458062,39,M,yes ,0,graduate,yes,yes,7000,7071,3000,twomonth,100000,yes ,30000,3,2,yes,Rural,yes
+733819,39,M,yes ,2,graduate,yes,yes,6000,6193,300,twomonth,5000,yes ,3000,1,1,yes,Rural,yes
+673916,36,M,yes ,0,graduate,yes,yes,3400,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+1572207,45,M,yes ,2,graduate,yes,yes,3000,8017,4900,twomonth,100000,yes ,49000,3,2,yes,Rural,yes
+439981,44,M,yes ,0,graduate,yes,yes,2800,9056,1800,twomonth,50000,yes ,18000,2,1,yes,Rural,yes
+540005,56,M,yes ,3,graduate,yes,yes,3000,10150,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+671073,48,M,yes ,2,graduate,yes,yes,5000,11305,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+496528,46,M,yes ,1,graduate,yes,yes,4000,2344,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+730843,43,M,yes ,2,graduate,yes,yes,2000,2799,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+516265,46,M,yes ,2,graduate,yes,yes,1500,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+439507,38,M,yes ,2,graduate,yes,yes,1600,6169,3000,twomonth,100000,yes ,30000,3,0,yes,Rural,yes
+447754,44,M,yes ,0,graduate,yes,yes,1900,12579,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+635172,37,M,yes ,2,graduate,yes,yes,1500,3334,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+632460,37,M,yes ,0,graduate,yes,yes,1800,3934,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+447368,36,M,yes ,1,graduate,yes,yes,4500,7600,2400,twomonth,50000,yes ,24000,2,1,yes,Rural,yes
+386934,44,M,yes ,0,graduate,yes,yes,1500,8700,300,twomonth,5000,yes ,3000,1,1,yes,Rural,yes
+529214,43,M,yes ,0,graduate,yes,yes,1000,7071,550,twomonth,10000,yes ,5500,1,1,yes,Rural,yes
+154042,41,M,yes ,0,graduate,yes,yes,3000,4081,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+658095,40,M,yes ,0,graduate,yes,yes,3600,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+540393,42,M,yes ,1,graduate,yes,yes,1570,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+531930,45,M,yes ,0,graduate,yes,yes,3800,9056,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+716636,42,M,yes ,2,graduate,yes,yes,3100,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+469438,40,M,yes ,1,graduate,yes,yes,4700,9056,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+540399,43,M,yes ,0,graduate,yes,yes,1200,10150,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+679992,38,M,yes ,0,graduate,yes,yes,1800,11350,1700,twomonth,20000,yes ,17000,2,1,yes,Rural,yes
+472460,41,M,yes ,2,graduate,yes,yes,2700,12579,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+439620,42,M,yes ,0,graduate,yes,yes,2900,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+256636,38,M,yes ,2,graduate,yes,yes,7600,15396,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+653021,35,M,yes ,1,graduate,yes,yes,4300,16979,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+408080,38,M,yes ,0,graduate,yes,yes,2780,1100,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+453811,35,M,yes ,1,graduate,yes,yes,3343,1958,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+755286,42,M,yes ,0,graduate,yes,yes,7800,2900,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+712493,41,M,yes ,3,graduate,yes,yes,2600,3994,1500,twomonth,20000,yes ,15000,2,0,yes,Urban ,yes
+455228,46,M,yes ,0,graduate,yes,yes,5400,1791,1382,twomonth,20000,yes ,13819,2,1,yes,Rural,yes
+702310,38,M,yes ,0,graduate,yes,yes,3300,2245,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+201597,44,M,yes ,0,graduate,yes,yes,3000,4081,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+513541,40,M,yes ,0,graduate,yes,yes,14007,3000,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+652989,43,M,yes ,0,graduate,yes,yes,7900,4609,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+415068,38,M,yes ,0,graduate,yes,yes,8900,4600,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+467483,41,M,yes ,0,graduate,yes,yes,13720,4609,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+448969,42,M,yes ,0,graduate,yes,yes,13720,10160,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+463154,38,M,yes ,0,graduate,yes,yes,4609,7071,420,twomonth,14007,yes ,4200,1,1,yes,Urban ,yes
+423973,35,M,yes ,0,graduate,yes,yes,5358,12051,1000,twomonth,14007,yes ,10000,1,1,yes,Urban ,yes
+273730,42,M,yes ,0,graduate,yes,yes,1958,12529,500,twomonth,14007,yes ,5000,1,1,yes,Urban ,yes
+434894,41,M,yes ,1,graduate,yes,yes,3333,8017,500,twomonth,13720,yes ,5000,1,1,yes,Rural,yes
+725356,46,M,yes ,0,graduate,yes,yes,1853,6193,400,twomonth,13720,yes ,4000,1,0,yes,Rural,yes
+446903,38,M,yes ,0,graduate,yes,yes,0,15445,3700,twomonth,4609,yes ,37000,3,2,yes,Rural,yes
+428684,44,M,yes ,0,graduate,yes,yes,8017,8017,600,twomonth,4609,yes ,6000,1,1,yes,Rural,yes
+665381,37,M,yes ,0,graduate,yes,yes,6193,3930,800,twomonth,1624,yes ,8000,1,1,yes,Rural,yes
+437190,37,M,yes ,0,graduate,yes,yes,5358,3934,1500,twomonth,3333,yes ,15000,2,1,yes,Rural,yes
+472213,39,M,yes ,0,graduate,yes,yes,5358,15445,400,twomonth,1853,yes ,4000,1,1,yes,Rural,yes
+439402,39,M,yes ,2,graduate,yes,yes,4423,15445,1500,twomonth,0,yes ,15000,2,0,yes,Rural,yes
+444187,44,M,yes ,1,graduate,yes,yes,3354,15445,500,twomonth,8017,yes ,5000,1,1,yes,Rural,yes
+244854,42,M,yes ,2,graduate,yes,yes,3354,1847,500,twomonth,6193,yes ,5000,1,0,yes,Rural,yes
+692106,42,M,yes ,0,graduate,yes,yes,0,5232,400,twomonth,5358,yes ,4000,1,1,yes,Urban ,yes
+165407,47,M,yes ,0,graduate,yes,yes,1847,3333,3500,twomonth,0,yes ,35000,3,0,yes,Urban ,yes
+464904,45,M,yes ,1,graduate,yes,yes,5232,3333,1500,twomonth,4423,yes ,15000,2,1,yes,Urban ,yes
+446939,46,M,yes ,2,graduate,yes,yes,3333,1853,400,twomonth,3354,yes ,4000,1,0,yes,Urban ,yes
+414977,38,M,yes ,0,graduate,yes,yes,3333,1853,500,twomonth,3354,yes ,5000,1,1,yes,Urban ,yes
+419324,39,M,yes ,3,graduate,yes,yes,1853,4567,400,twomonth,0,yes ,4000,1,0,yes,Urban ,yes
+697330,37,M,yes ,0,graduate,yes,yes,1853,5133,400,twomonth,1847,yes ,4000,1,0,yes,Urban ,yes
+449060,37,M,yes ,1,graduate,yes,yes,4609,3333,1500,twomonth,5232,yes ,15000,2,1,yes,Urban ,yes
+663404,39,M,yes ,0,graduate,yes,yes,10160,5133,420,twomonth,0,yes ,4200,1,1,yes,Urban ,yes
+257736,36,M,yes ,0,graduate,yes,yes,7071,5358,1500,twomonth,3333,yes ,15000,2,1,yes,Urban ,yes
+431195,34,M,yes ,0,graduate,yes,yes,12051,6193,1000,twomonth,1853,yes ,10000,1,1,yes,Urban ,yes
+419359,36,M,yes ,1,graduate,yes,yes,12529,6193,800,twomonth,1853,yes ,8000,1,1,yes,Urban ,yes
+539992,38,M,yes ,3,graduate,yes,yes,8017,7071,400,twomonth,4609,yes ,4000,1,0,yes,Urban ,yes
+729066,34,M,yes ,0,graduate,yes,yes,6193,8017,1500,twomonth,10160,yes ,15000,2,1,yes,Rural,yes
+436806,36,M,yes ,0,graduate,yes,yes,15445,9056,3150,twomonth,7071,yes ,31500,3,1,yes,Rural,yes
+642150,37,M,yes ,2,graduate,yes,yes,8017,3333,150,twomonth,12051,yes ,1500,1,0,yes,Rural,yes
+642733,38,M,yes ,0,graduate,yes,yes,3930,1958,9264,twomonth,12529,yes ,92640,3,0,yes,Rural,yes
+632110,39,M,yes ,3,graduate,yes,yes,3934,7071,5000,twomonth,8017,yes ,50000,3,2,yes,Rural,yes
+629335,34,M,yes ,3,graduate,yes,yes,15445,2799,2000,twomonth,6193,yes ,20000,2,1,yes,Rural,yes
+419637,45,M,yes ,0,graduate,yes,yes,15445,2799,2800,twomonth,15445,yes ,28000,3,1,yes,Rural,yes
+254590,43,M,yes ,0,graduate,yes,yes,15445,7071,400,twomonth,8017,yes ,4000,1,0,yes,Urban ,yes
+458192,42,M,yes ,1,notgraduate,yes,yes,8017,4609,500,twomonth,3930,yes ,5000,1,0,yes,Urban ,yes
+730483,40,M,yes ,3,notgraduate,yes,yes,7341,5358,600,twomonth,3934,yes ,6000,1,0,yes,Urban ,yes
+640574,43,M,yes ,3,notgraduate,yes,yes,7341,6193,2600,twomonth,15445,yes ,26000,2,1,yes,Urban ,yes
+435397,44,M,yes ,0,notgraduate,yes,yes,8017,1958,2000,twomonth,15445,yes ,20000,2,1,yes,Urban ,yes
+629802,46,M,yes ,1,notgraduate,yes,yes,7341,3394,280,twomonth,15445,yes ,2800,1,0,yes,Urban ,yes
+640352,45,M,yes ,2,notgraduate,yes,yes,5358,4609,2800,twomonth,8017,yes ,28000,2,1,yes,Urban ,yes
+632972,43,M,yes ,0,notgraduate,yes,yes,5358,3394,10000,twomonth,7341,yes ,100000,3,1,yes,Urban ,yes
+271931,46,M,yes ,1,notgraduate,yes,yes,1993,6193,5000,twomonth,7341,yes ,50000,3,0,yes,Urban ,yes
+246445,43,M,yes ,0,graduate,yes,yes,1624,3394,1500,twomonth,8017,yes ,15000,2,1,yes,Urban ,yes
+458291,47,M,yes ,2,graduate,yes,yes,1624,3394,1500,twomonth,7341,yes ,15000,2,1,yes,Rural,yes
+170247,46,F,yes ,0,graduate,yes,yes,1999,4851,600,twomonth,5358,yes ,6000,1,1,yes,Rural,yes
+543177,43,M,yes ,0,graduate,yes,yes,5358,2799,2000,twomonth,5358,yes ,20000,2,1,yes,Rural,yes
+432797,42,M,yes ,0,graduate,yes,yes,12579,7071,400,twomonth,1993,yes ,4000,1,0,yes,Rural,yes
+426176,47,F,yes ,0,notgraduate,yes,yes,7000,7071,500,twomonth,1624,yes ,5000,1,0,yes,Rural,yes
+187312,34,M,yes ,2,notgraduate,yes,yes,5600,5133,400,twomonth,1624,yes ,4000,1,0,yes,Urban ,yes
+430003,35,M,yes ,2,notgraduate,yes,yes,5000,5358,1000,twomonth,1999,yes ,10000,1,1,yes,Rural,yes
+444560,36,F,yes ,0,notgraduate,yes,yes,3200,4609,400,twomonth,5358,yes ,4000,1,0,yes,Urban ,yes
+162787,39,M,yes ,0,notgraduate,yes,yes,3000,3394,600,twomonth,12579,yes ,6000,1,0,yes,Rural,yes
+633156,37,M,yes ,0,notgraduate,yes,yes,2500,4851,1500,twomonth,8017,yes ,15000,2,1,yes,Urban ,yes
+399339,38,M,yes ,0,notgraduate,yes,yes,4600,2799,2800,twomonth,4609,yes ,28000,2,2,yes,Rural,yes
+652107,34,M,yes ,0,notgraduate,yes,yes,3300,3333,1500,twomonth,15445,yes ,15000,2,1,yes,Urban ,yes
+419607,35,M,yes ,0,graduate,yes,yes,3600,3394,1000,twomonth,15445,yes ,10000,1,1,yes,Rural,yes
+494133,34,F,yes ,0,graduate,yes,yes,15445,15445,400,twomonth,15445,yes ,4000,1,0,yes,Urban ,yes
+699453,45,M,yes ,2,graduate,yes,yes,15445,2799,200,twomonth,15445,yes ,2000,1,0,yes,Rural,yes
+623259,42,M,yes ,0,graduate,yes,yes,15445,3333,7500,twomonth,15445,yes ,75000,3,2,yes,Urban ,yes
+437205,36,M,yes ,1,graduate,yes,yes,10000,3394,8000,twomonth,15445,yes ,80000,3,2,yes,Rural,yes
+256312,31,M,yes ,0,graduate,yes,yes,6700,5133,400,twomonth,15445,yes ,4000,1,1,yes,Urban ,yes
+665392,36,M,yes ,1,graduate,yes,yes,12000,3333,1000,twomonth,15445,yes ,10000,1,1,yes,Rural,yes
+534464,39,M,yes ,1,graduate,yes,yes,9700,15445,1500,twomonth,15445,yes ,15000,2,1,yes,Urban ,yes
+154292,40,M,yes ,2,graduate,yes,yes,12500,4851,1200,twomonth,15445,yes ,12000,1,1,yes,Urban ,yes
+413875,43,M,yes ,0,graduate,yes,yes,7800,5133,700,twomonth,10000,yes ,7000,1,0,yes,Rural,yes
+529721,42,M,yes ,2,graduate,yes,yes,9000,4567,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+436770,33,M,yes ,3,graduate,yes,yes,8900,15445,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+513352,31,M,yes ,0,graduate,yes,yes,14000,15445,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+532918,30,M,yes ,0,graduate,yes,yes,15700,3394,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+653016,32,M,yes ,0,graduate,yes,yes,13400,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+737471,31,M,yes ,1,graduate,yes,yes,6800,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+721910,29,M,yes ,0,graduate,yes,yes,0,4851,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+181923,32,M,yes ,1,graduate,yes,yes,9000,2799,2900,twomonth,50000,yes ,29000,2,2,yes,Rural,yes
+447866,33,M,yes ,0,graduate,yes,yes,10000,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+192266,31,M,yes ,1,graduate,yes,yes,15400,5133,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+438657,27,M,yes ,0,graduate,yes,yes,8500,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+631954,29,M,yes ,0,graduate,yes,yes,0,15445,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+443593,30,M,yes ,1,graduate,yes,yes,17000,15445,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+421140,31,M,yes ,0,graduate,yes,yes,12000,6193,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+437035,31,M,yes ,0,graduate,yes,yes,13500,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+431334,33,M,yes ,2,graduate,yes,yes,17600,8017,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+442515,33,M,yes ,0,graduate,yes,yes,7000,9056,1000,twomonth,20000,yes ,10000,1,0,yes,Urban ,yes
+325075,33,M,yes ,0,graduate,yes,yes,7800,10150,500,twomonth,5000,yes ,5000,1,1,yes,Urban ,yes
+534094,29,M,yes ,3,graduate,yes,yes,9000,11305,1000,twomonth,10000,yes ,10000,1,1,yes,Urban ,yes
+692809,28,M,yes ,0,graduate,yes,yes,6700,12579,2000,twomonth,50000,yes ,20000,2,0,yes,Rural,yes
+633446,34,M,yes ,1,graduate,yes,yes,10000,13926,1382,twomonth,20000,yes ,13819,2,1,yes,Rural,yes
+413359,37,M,yes ,0,graduate,yes,yes,10000,15396,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+459693,63,M,yes ,0,graduate,yes,yes,20000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+178669,36,M,yes ,0,graduate,yes,yes,16000,6193,800,twomonth,10000,yes ,8000,1,1,yes,Rural,yes
+755119,34,M,yes ,0,graduate,yes,yes,8000,5358,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+439602,37,M,yes ,0,graduate,yes,yes,8400,8017,3000,twomonth,100000,yes ,30000,2,1,yes,Rural,yes
+393120,36,M,yes ,0,graduate,yes,yes,9500,9056,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+660747,28,F,yes ,3,graduate,yes,yes,7800,10150,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+304453,29,M,yes ,0,graduate,yes,yes,9800,11305,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+673211,35,M,yes ,2,graduate,yes,yes,10000,2344,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+455720,59,M,yes ,0,graduate,yes,yes,20000,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+641753,43,M,yes ,2,graduate,yes,yes,9000,3333,500,twomonth,5000,yes ,5000,1,1,yes,Urban ,yes
+419267,36,F,yes ,2,graduate,yes,yes,11000,6169,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+187142,38,M,yes ,0,graduate,yes,yes,12500,12579,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+534746,66,M,yes ,0,graduate,yes,yes,8900,3334,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+730774,39,M,yes ,0,graduate,yes,yes,12700,3934,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+676363,45,M,yes ,2,graduate,yes,yes,13800,7600,3200,twomonth,100000,yes ,32000,3,2,yes,Urban ,yes
+447330,43,F,yes ,0,graduate,yes,yes,14000,8700,3531,twomonth,100000,yes ,35312,3,2,yes,Urban ,yes
+154076,44,M,yes ,2,graduate,yes,yes,15000,7071,300,twomonth,5000,yes ,3000,1,0,yes,Urban ,yes
+435448,42,M,yes ,1,graduate,yes,yes,19000,4081,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+731340,42,F,yes ,0,graduate,yes,yes,5600,6193,350,twomonth,10000,yes ,3500,1,1,yes,Rural,yes
+642084,43,M,yes ,0,graduate,yes,yes,7800,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+406465,46,M,yes ,0,graduate,yes,yes,9000,8017,15000,twomonth,200000,yes ,150000,3,2,yes,Rural,yes
+642132,29,F,yes ,0,graduate,yes,yes,12300,2799,200,twomonth,5000,yes ,2000,1,1,yes,Rural,yes
+632075,45,M,yes ,0,graduate,yes,yes,12000,3394,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+632016,34,M,yes ,2,graduate,yes,yes,5900,9056,2800,twomonth,50000,yes ,28000,2,2,yes,Rural,yes
+413461,43,F,yes ,0,graduate,yes,yes,7000,10150,2000,twomonth,50000,yes ,20000,2,2,yes,Rural,yes
+629971,27,F,yes ,3,graduate,yes,yes,8000,11305,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+447921,29,F,yes ,1,graduate,yes,yes,6900,2344,2800,twomonth,50000,yes ,28000,2,0,yes,Rural,yes
+525882,30,F,yes ,1,graduate,yes,yes,8900,2799,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+652961,45,F,yes ,0,graduate,yes,yes,7800,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+452099,47,F,yes ,0,graduate,yes,yes,4500,6169,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+406801,49,F,yes ,0,graduate,yes,yes,7800,12579,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+330894,50,M,yes ,0,notgraduate,yes,yes,9000,3334,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+717009,35,F,yes ,1,notgraduate,yes,yes,10000,4851,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+445294,37,M,yes ,2,notgraduate,yes,yes,12000,2799,2500,twomonth,50000,yes ,25000,2,1,yes,Urban ,yes
+157430,41,M,yes ,0,notgraduate,yes,yes,12700,6193,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+635356,43,M,yes ,0,notgraduate,yes,yes,12800,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+323458,29,F,yes ,0,notgraduate,yes,yes,13000,7071,1440,twomonth,20000,yes ,14400,2,1,yes,Urban ,yes
+449556,28,M,yes ,0,notgraduate,yes,yes,16000,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+633895,27,F,yes ,0,notgraduate,yes,yes,15000,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+1599449,33,M,yes ,2,notgraduate,yes,yes,18000,10150,3200,twomonth,100000,yes ,32000,3,1,yes,Urban ,yes
+665387,36,F,yes ,0,notgraduate,yes,yes,5600,11305,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+437086,36,F,yes ,0,notgraduate,yes,yes,8000,2344,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+692900,37,F,yes ,2,notgraduate,yes,yes,8700,2799,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+309397,34,M,yes ,1,notgraduate,yes,yes,10000,3333,2300,twomonth,50000,yes ,23000,2,1,yes,Rural,yes
+666300,39,M,yes ,1,notgraduate,yes,yes,10000,6169,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+744883,41,M,yes ,0,notgraduate,yes,yes,12000,12579,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+406818,40,M,yes ,3,graduate,yes,yes,11000,3334,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+453624,43,F,yes ,2,graduate,yes,yes,11300,4000,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+451472,51,F,yes ,1,graduate,yes,yes,9800,4200,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+481924,53,F,yes ,1,graduate,yes,yes,7600,4100,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+176113,51,F,yes ,1,graduate,yes,yes,8700,5000,1500,twomonth,50000,yes ,15000,2,1,yes,Rural,yes
+442956,30,M,yes ,1,graduate,yes,yes,7071,9056,1000,twomonth,50000,yes ,10000,1,1,yes,Rural,yes
+428759,32,M,yes ,1,graduate,yes,yes,4081,10150,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+432076,36,F,yes ,1,graduate,yes,yes,6193,11305,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+529151,37,F,yes ,1,graduate,yes,yes,8017,2344,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+479103,44,F,yes ,1,graduate,yes,yes,9056,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+181491,45,M,yes ,1,graduate,yes,yes,6193,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+671095,41,M,yes ,0,graduate,yes,yes,9056,6169,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+490600,40,M,yes ,0,graduate,yes,yes,10150,12579,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+730775,33,M,yes ,2,graduate,yes,yes,11350,3334,1200,twomonth,20000,yes ,12000,2,1,yes,Urban ,yes
+241935,34,M,yes ,0,graduate,yes,yes,12579,7071,3200,twomonth,100000,yes ,32000,3,1,yes,Urban ,yes
+687187,39,M,yes ,2,graduate,yes,yes,2799,12051,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+665386,38,M,yes ,1,graduate,yes,yes,15396,12529,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+447076,28,M,yes ,0,graduate,yes,yes,16979,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+170530,29,M,yes ,0,graduate,yes,yes,1100,6193,500,twomonth,10000,yes ,5000,1,1,yes,Rural,yes
+439746,27,M,yes ,0,graduate,yes,yes,1958,15445,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+475738,29,M,yes ,0,graduate,yes,yes,5600,8017,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+181543,25,M,yes ,0,graduate,yes,yes,6198,3930,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+738378,27,M,yes ,2,graduate,yes,yes,5678,3934,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+431585,29,F,yes ,0,graduate,yes,yes,7890,15445,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+454203,33,F,yes ,1,graduate,yes,yes,3394,4609,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+451925,34,M,yes ,0,graduate,yes,yes,2999,5133,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+273810,35,M,yes ,2,graduate,yes,yes,9670,1847,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+182005,37,F,yes ,1,graduate,yes,yes,4106,5358,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+256841,37,M,yes ,1,graduate,yes,yes,3333,3333,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+660752,37,M,yes ,0,graduate,yes,yes,4300,3333,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+457834,35,M,yes ,2,graduate,yes,yes,6456,5133,7600,twomonth,200000,yes ,76000,3,2,yes,Rural,yes
+181459,32,M,yes ,1,graduate,yes,yes,2250,5133,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+464887,31,M,yes ,1,graduate,yes,yes,2565,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+464992,35,M,yes ,1,graduate,yes,yes,5675,4081,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+430428,33,F,yes ,0,graduate,yes,yes,5358,6193,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+156394,51,F,yes ,1,graduate,yes,yes,5358,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+436423,52,F,yes ,2,graduate,yes,yes,4609,9056,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+403532,50,F,yes ,3,graduate,yes,yes,7071,6193,300,twomonth,10000,yes ,3000,1,0,yes,Rural,yes
+668894,40,F,yes ,1,graduate,yes,yes,10150,9056,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+629176,49,F,yes ,2,graduate,yes,yes,2799,10150,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+443754,41,F,yes ,1,graduate,yes,yes,2344,11350,2400,twomonth,50000,yes ,24000,2,2,yes,Urban ,yes
+430593,46,F,yes ,0,graduate,yes,yes,3456,12579,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+635340,47,M,yes ,1,graduate,yes,yes,6789,2799,450,twomonth,10000,yes ,4500,1,1,yes,Urban ,yes
+496659,68,M,yes ,2,graduate,yes,yes,8000,15396,2800,twomonth,50000,yes ,28000,2,1,yes,Rural,yes
+440138,78,M,yes ,2,graduate,yes,yes,5000,16979,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+481871,33,M,yes ,2,graduate,yes,yes,4300,1100,500,twomonth,10000,yes ,5000,1,0,yes,Rural,yes
+670581,37,M,yes ,1,graduate,yes,yes,7600,1958,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+458363,37,M,yes ,0,graduate,yes,yes,3200,2900,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+525872,34,M,yes ,1,graduate,yes,yes,8017,3994,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+453125,32,F,yes ,1,graduate,yes,yes,9056,1791,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+633294,31,M,yes ,1,graduate,yes,yes,6193,2245,400,twomonth,20000,yes ,4000,1,1,yes,Urban ,yes
+431213,30,M,yes ,0,graduate,yes,yes,2799,4081,2400,twomonth,50000,yes ,24000,2,2,yes,Rural,yes
+162597,38,M,yes ,2,graduate,yes,yes,3333,3000,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+448028,30,M,yes ,1,graduate,yes,yes,4609,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+187639,37,M,yes ,1,graduate,yes,yes,3333,4600,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+725352,29,M,yes ,0,graduate,yes,yes,6193,3394,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+667056,26,M,yes ,3,graduate,yes,yes,7071,2799,3200,twomonth,50000,yes ,32000,3,1,yes,Rural,yes
+450289,27,M,yes ,2,graduate,yes,yes,9056,3333,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+408181,28,M,yes ,1,notgraduate,yes,yes,12576,3333,200,twomonth,5000,yes ,2000,1,0,yes,Urban ,yes
+442784,29,M,yes ,0,notgraduate,yes,yes,10000,3394,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+727617,33,F,yes ,0,notgraduate,yes,yes,12000,2999,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+508547,34,M,yes ,0,notgraduate,yes,yes,13500,6193,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+502521,31,F,yes ,0,graduate,yes,yes,6193,7071,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+430952,32,M,yes ,0,graduate,yes,yes,7071,6980,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+539290,36,F,yes ,0,graduate,yes,yes,2565,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+186844,37,M,yes ,0,graduate,yes,yes,3394,9056,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+532083,36,F,yes ,0,notgraduate,yes,yes,7500,10150,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+524594,39,M,yes ,0,notgraduate,yes,yes,6200,11305,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+663396,30,F,yes ,0,notgraduate,yes,yes,6000,12579,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+257991,33,M,yes ,0,graduate,yes,yes,9056,13926,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+531824,32,F,yes ,0,graduate,yes,yes,5358,15396,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+309215,34,M,yes ,0,graduate,yes,yes,6193,16979,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+531371,45,F,yes ,0,graduate,yes,yes,7071,8017,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+464977,49,M,yes ,0,graduate,yes,yes,8017,9056,3880,twomonth,50000,yes ,38800,3,2,yes,Urban ,yes
+182044,47,F,yes ,0,graduate,yes,yes,9056,6193,400,twomonth,50000,yes ,4000,1,0,yes,Urban ,yes
+1577328,46,M,yes ,0,graduate,yes,yes,10150,2799,1000,twomonth,50000,yes ,10000,1,1,yes,Urban ,yes
+433762,34,F,yes ,0,graduate,yes,yes,11305,3333,1500,twomonth,50000,yes ,15000,2,1,yes,Urban ,yes
+467887,45,M,yes ,0,graduate,yes,yes,12579,4609,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+451963,37,F,yes ,0,graduate,yes,yes,13926,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+1577812,49,M,yes ,0,graduate,yes,yes,15396,6193,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+427958,38,F,yes ,0,graduate,yes,yes,16979,7071,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+442312,39,F,yes ,1,notgraduate,yes,yes,13000,1600,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+442193,41,F,yes ,1,notgraduate,yes,yes,12500,2999,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+173861,40,F,yes ,1,notgraduate,yes,yes,4000,1958,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+158822,30,F,yes ,1,notgraduate,yes,yes,3000,2300,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+661802,33,F,yes ,1,notgraduate,yes,yes,7000,3500,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+702306,29,F,yes ,1,notgraduate,yes,yes,4500,6000,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+698673,30,M,yes ,1,notgraduate,yes,yes,2900,7500,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+153987,45,F,yes ,1,notgraduate,yes,yes,6900,5400,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+475720,48,M,yes ,1,notgraduate,yes,yes,6700,7500,500,twomonth,5000,yes ,5000,1,0,yes,Rural,yes
+502667,46,F,yes ,2,notgraduate,yes,yes,3000,5626,1000,twomonth,10000,yes ,10000,1,1,yes,Rural,yes
+733503,44,F,yes ,2,notgraduate,yes,yes,2000,6481,1000,twomonth,10000,yes ,10000,1,1,yes,Rural,yes
+731418,42,M,yes ,1,notgraduate,yes,yes,4700,7300,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+417023,41,F,yes ,2,notgraduate,yes,yes,6000,4000,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+266359,50,M,yes ,2,notgraduate,yes,yes,8000,5400,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+278066,45,F,yes ,2,notgraduate,yes,yes,4000,4300,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+522197,43,F,yes ,2,notgraduate,yes,yes,5600,5000,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+420621,29,F,yes ,2,notgraduate,yes,yes,6700,9000,700,twomonth,50000,yes ,7000,1,0,yes,Rural,yes
+398173,28,F,yes ,3,notgraduate,yes,yes,7800,5400,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+665390,50,M,yes ,2,notgraduate,yes,yes,12000,3000,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+412146,48,M,yes ,3,notgraduate,yes,yes,6000,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+447468,47,M,yes ,2,notgraduate,yes,yes,7000,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+436558,56,M,yes ,2,notgraduate,yes,yes,7000,7071,300,twomonth,10000,yes ,3000,1,0,yes,Rural,yes
+651968,67,M,yes ,1,notgraduate,yes,yes,6000,9056,250,twomonth,5000,yes ,2500,1,0,yes,Rural,yes
+438262,46,M,yes ,2,notgraduate,yes,yes,5000,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+731343,45,M,yes ,1,notgraduate,yes,yes,4000,4609,600,twomonth,10000,yes ,6000,1,0,yes,Rural,yes
+1556839,35,M,yes ,2,notgraduate,yes,yes,4000,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+629843,43,M,yes ,2,notgraduate,yes,yes,5000,5133,1500,twomonth,20000,yes ,15000,2,1,yes,Rural,yes
+701435,42,M,yes ,2,notgraduate,yes,yes,3000,5358,800,twomonth,10000,yes ,8000,1,0,yes,Rural,yes
+1622639,32,M,yes ,2,notgraduate,yes,yes,6000,5133,15000,twomonth,200000,yes ,150000,4,2,yes,Rural,yes
+678070,31,M,yes ,2,notgraduate,yes,yes,8000,9056,20000,twomonth,400000,yes ,200000,3,2,yes,Rural,yes
+640364,43,M,yes ,2,notgraduate,yes,yes,13000,8017,15000,twomonth,200000,yes ,150000,4,2,yes,Rural,yes
+408506,38,M,yes ,1,notgraduate,yes,yes,5000,7017,5000,twomonth,100000,yes ,50000,3,1,yes,Rural,yes
+59060300,41,F,yes ,2,notgraduate,yes,yes,7000,4609,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+430560,42,F,yes ,1,notgraduate,yes,yes,6000,3333,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+432322,38,F,yes ,3,notgraduate,yes,yes,7000,3394,200,twomonth,5000,yes ,2000,1,0,yes,Rural,yes
+730163,35,F,yes ,3,notgraduate,yes,yes,5000,2799,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+401479,42,F,yes ,3,notgraduate,yes,yes,5000,4850,6000,twomonth,100000,yes ,60000,3,1,yes,Rural,yes
+516184,41,F,yes ,3,notgraduate,yes,yes,5000,2799,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+630242,46,F,yes ,3,notgraduate,yes,yes,5000,3333,3000,twomonth,100000,yes ,30000,3,2,yes,Rural,yes
+515865,38,F,yes ,3,notgraduate,yes,yes,5000,3394,2400,twomonth,50000,yes ,24000,2,2,yes,Rural,yes
+635956,64,F,yes ,3,notgraduate,yes,yes,6000,1958,1000,twomonth,20000,yes ,10000,1,1,yes,Rural,yes
+617875,40,F,yes ,3,notgraduate,yes,yes,6000,1624,2000,twomonth,50000,yes ,20000,2,1,yes,Rural,yes
+633396,70,F,yes ,3,notgraduate,yes,yes,6000,2799,6000,twomonth,100000,yes ,60000,2,1,yes,Rural,yes
+445608,38,F,yes ,3,notgraduate,yes,yes,2000,3333,2800,twomonth,50000,yes ,28000,2,1,yes,Rural,yes
+309125,41,F,yes ,3,notgraduate,yes,yes,2000,3394,500,twomonth,20000,yes ,5000,1,0,yes,Rural,yes
+400234,59,F,yes ,3,notgraduate,yes,yes,2000,2799,1000,twomonth,20000,yes ,10000,1,0,yes,Rural,yes
+400341,38,F,yes ,3,notgraduate,yes,yes,2000,2799,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+617824,35,M,yes ,3,notgraduate,yes,yes,2000,4609,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+642081,42,M,yes ,3,notgraduate,yes,yes,2000,3333,5000,twomonth,100000,yes ,50000,3,2,yes,Rural,yes
+657672,41,M,yes ,3,notgraduate,yes,yes,10000,3333,7000,twomonth,100000,yes ,70000,3,2,yes,Rural,yes
+669738,46,M,yes ,3,notgraduate,yes,yes,10000,3394,2000,twomonth,50000,yes ,20000,2,2,yes,Rural,yes
+451719,38,M,yes ,1,notgraduate,yes,yes,10000,4851,1807,twomonth,20000,yes ,18072,2,2,yes,Rural,yes
+669117,44,M,yes ,1,notgraduate,yes,yes,10000,2799,400,twomonth,10000,yes ,4000,1,1,yes,Rural,yes
+273524,37,M,yes ,1,notgraduate,yes,yes,10000,1958,1500,twomonth,20000,yes ,15000,2,0,yes,Rural,yes
+458328,37,M,yes ,1,notgraduate,yes,yes,12000,1958,700,twomonth,10000,yes ,7000,1,0,yes,Rural,yes
+465234,36,M,yes ,1,notgraduate,yes,yes,12000,1624,600,twomonth,10000,yes ,6000,1,0,yes,Rural,yes
+192363,44,F,yes ,1,notgraduate,yes,yes,12000,6193,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+631803,43,F,yes ,1,notgraduate,yes,yes,12000,7071,1500,twomonth,20000,yes ,15000,2,2,yes,Rural,yes
+634402,41,F,yes ,1,notgraduate,yes,yes,8000,1624,2000,twomonth,50000,yes ,20000,2,2,yes,Rural,yes
+441265,40,F,yes ,1,notgraduate,yes,yes,8000,2799,5000,twomonth,100000,yes ,50000,3,2,yes,Rural,yes
+626906,42,M,yes ,1,notgraduate,yes,yes,8000,3333,400,twomonth,10000,yes ,4000,1,0,yes,Rural,yes
+424284,45,M,yes ,1,notgraduate,yes,yes,8000,3394,2800,twomonth,50000,yes ,28000,2,1,yes,Rural,yes
+640441,42,M,yes ,0,graduate,yes,yes,9800,6193,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+741483,40,M,yes ,0,graduate,yes,yes,7600,5133,2000,twomonth,50000,yes ,20000,2,2,yes,Urban ,yes
+633178,43,M,yes ,0,graduate,yes,yes,8700,5133,4000,twomonth,100000,yes ,40000,3,2,yes,Urban ,yes
+507979,38,M,yes ,0,graduate,yes,yes,7071,4851,1600,twomonth,50000,yes ,16000,2,2,yes,Urban ,yes
+711653,41,M,yes ,0,graduate,yes,yes,4851,4609,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+413060,42,F,yes ,0,graduate,yes,yes,6193,10160,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+673376,38,F,yes ,0,graduate,yes,yes,8017,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+673171,35,F,yes ,0,graduate,yes,yes,9056,12051,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+731433,42,M,yes ,0,graduate,yes,yes,6193,12529,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+455965,41,M,yes ,0,graduate,yes,yes,9056,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+432432,46,M,yes ,0,graduate,yes,yes,10150,6193,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+753633,38,M,yes ,1,graduate,yes,yes,11350,15445,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+721316,44,M,yes ,1,graduate,yes,yes,12579,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+410688,40,M,yes ,1,graduate,yes,yes,2799,3930,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+437892,43,M,yes ,1,graduate,yes,yes,15396,3934,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+651970,38,M,yes ,1,graduate,yes,yes,16979,15445,150,twomonth,5000,yes ,1500,1,0,yes,Urban ,yes
+463223,41,M,yes ,1,graduate,yes,yes,1100,15445,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+640627,42,F,yes ,1,graduate,yes,yes,1958,15445,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+663873,38,F,yes ,1,graduate,yes,yes,5600,1847,1600,twomonth,20000,yes ,16000,2,1,yes,Urban ,yes
+446505,35,F,yes ,1,graduate,yes,yes,6198,5232,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+741138,42,F,yes ,1,graduate,yes,yes,5678,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+215009,41,F,yes ,1,graduate,yes,yes,7890,3333,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+475682,46,M,yes ,1,graduate,yes,yes,5358,1853,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+671257,38,F,yes ,0,notgraduate,yes,yes,4609,1853,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+433847,44,F,yes ,1,notgraduate,yes,yes,7071,2999,1500,twomonth,20000,yes ,15000,2,0,yes,Urban ,yes
+156796,40,F,yes ,1,notgraduate,yes,yes,10150,1958,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+677921,43,M,yes ,2,notgraduate,yes,yes,2799,2300,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+415247,38,M,yes ,1,notgraduate,yes,yes,2344,3500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+402449,41,M,yes ,0,notgraduate,yes,yes,3456,6000,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+421179,42,M,yes ,1,notgraduate,yes,yes,6789,7500,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+439190,38,M,yes ,3,notgraduate,yes,yes,8000,5400,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+434999,35,M,yes ,3,notgraduate,yes,yes,5000,7500,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+450212,42,M,yes ,3,notgraduate,yes,yes,4300,5626,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+431731,41,M,yes ,3,notgraduate,yes,yes,7600,6481,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+1550833,46,M,yes ,3,notgraduate,yes,yes,3200,7300,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+654329,38,M,yes ,1,notgraduate,yes,yes,8017,4000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+399614,44,M,yes ,1,notgraduate,yes,yes,9056,5400,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+676702,37,M,yes ,1,notgraduate,yes,yes,6193,4300,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+493786,37,M,yes ,1,notgraduate,yes,yes,2799,5000,4000,twomonth,100000,yes ,40000,3,1,yes,Urban ,yes
+632836,36,M,yes ,1,notgraduate,yes,yes,3333,9000,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+444255,44,M,yes ,1,notgraduate,yes,yes,4609,5400,10000,twomonth,200000,yes ,100000,3,1,yes,Urban ,yes
+504830,43,F,yes ,1,notgraduate,yes,yes,3333,3000,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+458602,41,F,yes ,1,notgraduate,yes,yes,6193,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+404069,40,F,yes ,1,notgraduate,yes,yes,7071,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+434024,42,F,yes ,1,notgraduate,yes,yes,9056,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+629152,45,M,yes ,1,notgraduate,yes,yes,12576,9056,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+741072,42,F,yes ,1,notgraduate,yes,yes,10000,10150,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+178510,40,F,yes ,1,notgraduate,yes,yes,12000,11305,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+731603,43,M,yes ,2,notgraduate,yes,yes,13500,12579,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+254808,38,F,yes ,2,notgraduate,yes,yes,5358,13926,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+676462,41,M,yes ,3,notgraduate,yes,yes,4609,15396,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+438922,42,M,yes ,3,notgraduate,yes,yes,7071,7071,4000,twomonth,100000,yes ,40000,3,1,yes,Urban ,yes
+465179,38,M,yes ,3,notgraduate,yes,yes,10150,6193,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+635307,35,M,yes ,2,notgraduate,yes,yes,2799,5358,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+659881,42,M,yes ,1,notgraduate,yes,yes,2344,8017,2800,twomonth,50000,yes ,28000,3,1,yes,Urban ,yes
+637607,41,M,yes ,1,notgraduate,yes,yes,3456,9056,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+631031,46,M,yes ,1,notgraduate,yes,yes,6789,10150,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+449421,38,M,yes ,2,notgraduate,yes,yes,8000,11305,3200,twomonth,100000,yes ,32000,3,1,yes,Urban ,yes
+450852,44,M,yes ,2,graduate,yes,yes,5000,2344,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+397956,32,M,yes ,1,notgraduate,yes,yes,4300,2799,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+689362,33,M,yes ,2,notgraduate,yes,yes,7600,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+640457,45,M,yes ,2,notgraduate,yes,yes,3200,6169,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+450475,50,M,yes ,1,notgraduate,yes,yes,8017,12579,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+1566479,44,F,yes ,2,notgraduate,yes,yes,9056,3334,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+447943,46,F,yes ,2,notgraduate,yes,yes,6193,3934,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+536624,47,F,yes ,1,notgraduate,yes,yes,2799,7600,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+533634,42,F,yes ,1,notgraduate,yes,yes,3333,8700,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+496513,39,F,yes ,1,notgraduate,yes,yes,4609,7071,1382,twomonth,20000,yes ,13819,2,2,yes,Urban ,yes
+340905,39,F,yes ,1,notgraduate,yes,yes,3333,4081,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+700185,36,F,yes ,1,notgraduate,yes,yes,6193,4300,1100,twomonth,20000,yes ,11000,1,1,yes,Urban ,yes
+462577,45,F,yes ,1,notgraduate,yes,yes,7071,4851,1382,twomonth,20000,yes ,13819,2,1,yes,Urban ,yes
+627611,44,M,yes ,1,notgraduate,yes,yes,9056,3394,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+404103,56,M,yes ,1,notgraduate,yes,yes,12576,3333,6000,twomonth,100000,yes ,60000,3,2,yes,Urban ,yes
+658101,48,M,yes ,1,notgraduate,yes,yes,10000,7071,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+712469,46,M,yes ,0,notgraduate,yes,yes,12000,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+711855,43,M,yes ,1,notgraduate,yes,yes,13500,4000,1382,twomonth,20000,yes ,13819,2,1,yes,Urban ,yes
+743592,38,M,yes ,1,notgraduate,yes,yes,6300,3500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+657670,44,F,yes ,1,notgraduate,yes,yes,6540,5000,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+1602880,32,F,yes ,1,notgraduate,yes,yes,1700,6500,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+502618,33,F,yes ,1,notgraduate,yes,yes,1980,7100,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+633054,45,F,yes ,1,notgraduate,yes,yes,9065,8017,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+633194,50,M,yes ,1,notgraduate,yes,yes,4200,9056,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+642122,44,M,yes ,1,notgraduate,yes,yes,6098,8017,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+531656,46,M,yes ,1,notgraduate,yes,yes,4000,3333,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+417001,47,M,yes ,1,notgraduate,yes,yes,5600,3394,1000,twomonth,20000,yes ,10000,2,1,yes,Urban ,yes
+676618,42,M,yes ,1,notgraduate,yes,yes,7800,6700,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+640864,39,M,yes ,1,notgraduate,yes,yes,7200,8017,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+635266,39,M,yes ,1,notgraduate,yes,yes,9400,5358,5250,twomonth,100000,yes ,52500,3,2,yes,Urban ,yes
+629013,36,M,yes ,1,notgraduate,yes,yes,7286,5133,2400,twomonth,50000,yes ,24000,2,1,yes,Urban ,yes
+635241,45,M,yes ,1,notgraduate,yes,yes,10000,3333,2800,twomonth,50000,yes ,28000,3,1,yes,Urban ,yes
+629096,44,M,yes ,1,notgraduate,yes,yes,11000,4609,2400,twomonth,50000,yes ,24000,2,1,yes,Urban ,yes
+629071,56,M,yes ,1,notgraduate,yes,yes,12600,4609,4000,twomonth,100000,yes ,40000,3,2,yes,Urban ,yes
+455630,48,M,yes ,1,notgraduate,yes,yes,6789,8017,2400,twomonth,50000,yes ,24000,2,2,yes,Urban ,yes
+351982,46,M,yes ,1,notgraduate,yes,yes,8000,5133,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+457586,43,M,yes ,1,notgraduate,yes,yes,5000,3333,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+542743,46,M,yes ,1,notgraduate,yes,yes,4300,2799,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+447220,38,M,yes ,1,notgraduate,yes,yes,7600,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+616377,44,M,yes ,1,notgraduate,yes,yes,3200,1958,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+651963,37,M,yes ,1,notgraduate,yes,yes,8017,5133,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+630355,37,M,yes ,1,notgraduate,yes,yes,9056,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+641679,36,M,yes ,1,notgraduate,yes,yes,6193,6193,2000,twomonth,20000,yes ,20000,2,1,yes,Urban ,yes
+630216,44,M,yes ,1,notgraduate,yes,yes,2799,7071,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+634036,43,M,yes ,1,notgraduate,yes,yes,3333,4609,2000,twomonth,20000,yes ,20000,2,1,yes,Urban ,yes
+725083,41,F,yes ,1,notgraduate,yes,yes,4609,2799,3200,twomonth,100000,yes ,32000,3,2,yes,Urban ,yes
+449275,40,M,yes ,1,notgraduate,yes,yes,3333,3333,1300,twomonth,20000,yes ,13000,2,1,yes,Urban ,yes
+633471,42,F,yes ,1,notgraduate,yes,yes,6193,4851,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+543576,45,F,yes ,1,notgraduate,yes,yes,7071,5133,2000,twomonth,50000,yes ,20000,2,0,yes,Urban ,yes
+459983,42,F,yes ,0,notgraduate,yes,yes,9056,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+436647,40,F,yes ,1,notgraduate,yes,yes,15700,4851,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+443824,43,F,yes ,1,notgraduate,yes,yes,4000,3394,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+514829,38,F,yes ,1,notgraduate,yes,yes,5600,3799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+531562,41,M,yes ,1,notgraduate,yes,yes,10560,3300,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+462947,42,F,yes ,1,notgraduate,yes,yes,9056,3400,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+451508,38,M,yes ,1,notgraduate,yes,yes,7071,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+302356,35,F,yes ,1,notgraduate,yes,yes,2340,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+457691,38,M,yes ,1,notgraduate,yes,yes,13400,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+451364,35,F,yes ,1,notgraduate,yes,yes,15600,6700,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+434226,42,M,yes ,1,notgraduate,yes,yes,20000,3500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+429909,41,M,yes ,1,notgraduate,yes,yes,6193,3333,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+451060,46,M,yes ,0,graduate,yes,yes,3394,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+190049,38,M,yes ,0,graduate,yes,yes,2999,8017,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+635166,44,M,yes ,0,graduate,yes,yes,9670,7071,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+426287,40,M,yes ,0,graduate,yes,yes,4106,7071,1440,twomonth,20000,yes ,14400,2,1,yes,Urban ,yes
+443238,43,M,yes ,0,graduate,yes,yes,3333,8017,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+632306,38,M,yes ,0,graduate,yes,yes,4300,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+629856,41,M,yes ,0,graduate,yes,yes,6456,10150,7000,twomonth,100000,yes ,70000,3,1,yes,Urban ,yes
+641611,42,M,yes ,0,graduate,yes,yes,2250,11305,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+630203,38,M,yes ,0,graduate,yes,yes,2565,12579,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+626984,35,M,yes ,1,notgraduate,yes,yes,5000,13926,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+397422,42,M,yes ,1,notgraduate,yes,yes,6700,15396,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+441960,41,M,yes ,1,notgraduate,yes,yes,9000,7071,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+630567,46,M,yes ,1,notgraduate,yes,yes,10000,6193,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+632443,38,F,yes ,2,notgraduate,yes,yes,8000,5358,2400,twomonth,50000,yes ,24000,2,1,yes,Urban ,yes
+632117,44,F,yes ,3,notgraduate,yes,yes,8900,8017,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+636469,37,F,yes ,3,notgraduate,yes,yes,7000,9056,2400,twomonth,50000,yes ,24000,2,1,yes,Urban ,yes
+634748,37,F,yes ,3,notgraduate,yes,yes,4000,10150,9000,twomonth,200000,yes ,90000,3,1,yes,Urban ,yes
+653988,39,F,yes ,3,notgraduate,yes,yes,9000,11305,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+437365,39,M,yes ,3,notgraduate,yes,yes,7600,2344,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+443541,44,M,yes ,3,notgraduate,yes,yes,3400,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+429031,42,F,yes ,3,notgraduate,yes,yes,6700,3333,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+437330,42,M,yes ,3,notgraduate,yes,yes,9000,6169,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+493224,47,F,yes ,3,notgraduate,yes,yes,8000,12579,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+447701,45,M,yes ,3,notgraduate,yes,yes,6700,3334,1200,twomonth,20000,yes ,12000,2,1,yes,Urban ,yes
+406063,46,F,yes ,3,notgraduate,yes,yes,9700,3934,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+513625,38,M,yes ,3,notgraduate,yes,yes,7000,7600,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+422194,39,M,yes ,3,notgraduate,yes,yes,8700,8700,8000,twomonth,200000,yes ,80000,3,2,yes,Urban ,yes
+432197,37,M,yes ,3,notgraduate,yes,yes,5000,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+451007,37,F,yes ,3,notgraduate,yes,yes,4900,4081,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+642701,39,M,yes ,3,notgraduate,yes,yes,8000,3000,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+636142,36,F,yes ,3,notgraduate,yes,yes,7000,7000,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+451582,34,M,yes ,3,notgraduate,yes,yes,3000,4500,3200,twomonth,100000,yes ,32000,3,1,yes,Urban ,yes
+673918,36,M,yes ,1,notgraduate,yes,yes,2000,2900,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+715131,38,F,yes ,1,notgraduate,yes,yes,9000,6900,4900,twomonth,100000,yes ,49000,3,2,yes,Urban ,yes
+705561,34,M,yes ,1,notgraduate,yes,yes,5000,6700,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+642110,36,F,yes ,1,notgraduate,yes,yes,2500,3000,10000,twomonth,200000,yes ,100000,3,2,yes,Urban ,yes
+632067,37,M,yes ,1,notgraduate,yes,yes,2500,2000,2400,twomonth,50000,yes ,24000,2,2,yes,Urban ,yes
+528570,38,F,yes ,1,notgraduate,yes,yes,9000,4700,2400,twomonth,50000,yes ,24000,2,2,yes,Urban ,yes
+228024,39,M,yes ,1,notgraduate,yes,yes,5000,6000,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+724164,43,M,yes ,1,notgraduate,yes,yes,4000,8000,4000,twomonth,100000,yes ,40000,3,2,yes,Urban ,yes
+534123,45,M,yes ,1,notgraduate,yes,yes,7000,4609,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+634985,43,F,yes ,1,notgraduate,yes,yes,5400,5358,1200,twomonth,20000,yes ,12000,1,1,yes,Urban ,yes
+632876,42,M,yes ,1,notgraduate,yes,yes,3000,5133,1600,twomonth,20000,yes ,16000,2,1,yes,Urban ,yes
+470546,40,F,yes ,0,graduate,yes,yes,15445,3394,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+722653,43,M,yes ,0,graduate,yes,yes,15445,4851,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+266760,44,F,yes ,0,graduate,yes,yes,15445,5133,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+631996,46,M,yes ,0,graduate,yes,yes,8017,2799,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+253960,45,M,yes ,0,graduate,yes,yes,7341,3394,2400,twomonth,50000,yes ,24000,1,2,yes,Urban ,yes
+408488,43,M,yes ,0,graduate,no,yes,7341,8017,700,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+430900,46,M,yes ,0,graduate,no,yes,8017,9056,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+467868,43,M,yes ,0,graduate,no,yes,7341,6193,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+495416,47,M,yes ,0,graduate,no,yes,5358,7071,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+221922,46,M,yes ,0,graduate,no,yes,5358,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+449349,43,M,yes ,0,graduate,no,yes,1993,2799,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+502489,42,F,yes ,1,notgraduate,yes,yes,1624,1958,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+426362,47,F,yes ,1,notgraduate,yes,yes,1624,1958,1500,twomonth,10000,yes ,15000,1,2,yes,Urban ,yes
+438817,34,F,yes ,1,notgraduate,yes,yes,1999,3333,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+723371,35,F,yes ,1,notgraduate,yes,yes,5358,3394,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+725260,36,F,yes ,1,notgraduate,yes,yes,12579,5133,1500,twomonth,10000,yes ,15000,2,2,yes,Urban ,yes
+410543,39,F,yes ,1,notgraduate,yes,yes,8017,3000,10000,twomonth,200000,yes ,100000,3,2,yes,Urban ,yes
+410773,37,M,yes ,1,notgraduate,yes,yes,4609,7000,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+417183,38,M,yes ,1,notgraduate,yes,yes,4300,4500,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+206085,34,M,yes ,1,notgraduate,yes,yes,6500,2900,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+431457,35,M,yes ,1,notgraduate,yes,yes,5000,6900,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+434929,34,M,yes ,1,notgraduate,yes,yes,4000,6700,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+1549478,45,M,yes ,1,notgraduate,yes,yes,5000,3000,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+458119,42,F,yes ,0,notgraduate,yes,yes,1800,2000,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+1559718,36,M,yes ,1,notgraduate,yes,yes,9000,4700,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+496710,31,M,yes ,1,notgraduate,yes,yes,7500,6000,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+500699,36,F,yes ,2,notgraduate,yes,yes,7000,8000,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+185194,39,M,yes ,1,notgraduate,yes,yes,4300,4000,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+640717,40,M,yes ,0,notgraduate,yes,yes,3000,4200,900,twomonth,20000,yes ,9000,1,1,yes,Urban ,yes
+640472,43,F,yes ,1,notgraduate,yes,yes,2800,1900,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+727561,42,M,yes ,3,notgraduate,yes,yes,2600,6000,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+640881,33,M,yes ,3,notgraduate,yes,yes,2600,2400,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+640560,31,M,yes ,3,notgraduate,yes,yes,3400,3500,10000,twomonth,200000,yes ,100000,3,2,yes,Urban ,yes
+640548,30,M,yes ,3,notgraduate,yes,yes,4589,5000,1600,twomonth,20000,yes ,16000,2,2,yes,Urban ,yes
+669113,32,M,yes ,3,notgraduate,yes,yes,6500,6000,2000,twomonth,50000,yes ,20000,2,2,yes,Urban ,yes
+642894,31,M,yes ,1,notgraduate,yes,yes,5400,3000,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+441390,29,M,yes ,1,notgraduate,yes,yes,10150,1800,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+634825,32,F,yes ,1,notgraduate,yes,yes,4200,5600,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+637242,33,F,yes ,1,notgraduate,yes,yes,3400,5200,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+670991,31,F,yes ,1,notgraduate,yes,yes,4100,4600,10000,twomonth,200000,yes ,100000,3,2,yes,Urban ,yes
+722625,27,F,yes ,1,notgraduate,yes,yes,5200,2900,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+311469,29,M,yes ,1,notgraduate,yes,yes,4200,4567,3650,twomonth,100000,yes ,36500,3,2,yes,Urban ,yes
+438144,30,M,yes ,1,notgraduate,yes,yes,7600,5358,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+505037,31,M,yes ,1,notgraduate,yes,yes,4500,5133,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+662163,31,M,yes ,1,notgraduate,yes,yes,5000,4180,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+496478,33,M,yes ,1,notgraduate,yes,yes,2000,7170,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+754785,33,M,yes ,1,notgraduate,yes,yes,2300,6700,100,twomonth,5000,yes ,1000,1,1,yes,Urban ,yes
+441718,33,M,yes ,1,notgraduate,yes,yes,8700,5600,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+406505,29,M,yes ,2,notgraduate,yes,yes,3200,4900,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+630737,28,F,yes ,2,notgraduate,yes,yes,5400,4000,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+440702,34,F,yes ,3,notgraduate,yes,yes,5400,6000,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+408395,37,M,yes ,3,notgraduate,yes,yes,3200,5400,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+631753,63,M,yes ,3,notgraduate,yes,yes,3300,7000,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+451811,36,M,yes ,2,notgraduate,yes,yes,2500,8000,3000,twomonth,100000,yes ,30000,3,1,yes,Urban ,yes
+450994,34,F,yes ,1,graduate,no,yes,5675,5133,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+398046,37,F,yes ,1,graduate,no,yes,5358,5358,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+421580,36,F,yes ,1,graduate,no,yes,5358,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+480674,28,M,yes ,1,graduate,no,yes,4609,8017,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+474772,29,M,yes ,1,graduate,no,yes,7071,3394,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+462858,35,M,yes ,1,graduate,yes,yes,10150,5358,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+413546,59,F,yes ,1,graduate,no,yes,2799,5133,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+409171,43,F,yes ,1,graduate,yes,yes,2344,6193,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+488643,36,F,yes ,1,graduate,no,yes,3456,4609,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+444822,38,F,yes ,1,graduate,no,yes,6789,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+723857,66,F,yes ,1,graduate,yes,yes,8000,4300,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+438800,39,F,yes ,1,graduate,no,yes,5000,4851,1300,twomonth,20000,yes ,13000,1,1,yes,Urban ,yes
+264298,45,M,yes ,1,graduate,yes,yes,4300,5358,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+413025,43,M,yes ,1,graduate,yes,yes,7600,2799,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+419165,44,M,yes ,1,graduate,yes,yes,3200,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+395575,42,F,yes ,1,graduate,yes,yes,8017,4609,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+463172,42,M,yes ,0,graduate,yes,yes,9056,3394,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+459125,43,M,yes ,1,graduate,yes,yes,6193,3333,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+443558,46,M,yes ,1,graduate,yes,yes,2799,2799,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+452604,29,F,yes ,1,graduate,yes,yes,3333,8017,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+451079,45,M,yes ,1,graduate,yes,yes,4609,9056,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+537285,34,F,yes ,1,graduate,yes,yes,3333,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+171148,43,M,yes ,1,graduate,yes,yes,6193,4565,10000,twomonth,200000,yes ,100000,2,2,yes,Urban ,yes
+496400,27,M,yes ,1,graduate,yes,yes,7071,4851,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+167860,29,M,yes ,1,graduate,yes,yes,9056,6193,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+441613,30,F,yes ,1,graduate,yes,yes,12576,4609,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+459709,45,M,yes ,1,graduate,yes,yes,10000,8017,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+534757,47,M,yes ,1,graduate,yes,yes,12000,9056,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+433412,49,M,yes ,0,graduate,yes,yes,13500,6193,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+662137,50,M,yes ,0,notgraduate,yes,yes,12000,5400,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+448576,35,M,yes ,0,notgraduate,yes,yes,4500,6500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+663383,37,M,yes ,0,notgraduate,yes,yes,11500,3700,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+154167,41,M,yes ,0,notgraduate,yes,yes,4500,4800,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+674324,43,M,yes ,0,notgraduate,yes,yes,6000,4700,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+539997,29,F,yes ,0,notgraduate,yes,yes,4000,6193,3500,twomonth,100000,yes ,35000,3,2,yes,Urban ,yes
+187386,28,F,yes ,0,notgraduate,yes,yes,12500,7600,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+500681,27,M,yes ,0,notgraduate,yes,yes,5000,7000,1000,twomonth,10000,yes ,10000,1,2,yes,Urban ,yes
+244929,33,M,yes ,1,notgraduate,yes,yes,5400,3300,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+449044,36,M,yes ,1,graduate,yes,yes,6193,3394,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+226664,36,M,yes ,1,graduate,yes,yes,7071,3333,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+452675,37,F,yes ,1,graduate,yes,yes,8017,4609,1200,twomonth,20000,yes ,12000,1,1,yes,Urban ,yes
+750132,34,M,yes ,2,graduate,yes,yes,9056,5133,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+445398,39,M,yes ,3,graduate,yes,yes,10150,5358,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+397921,41,M,yes ,3,graduate,yes,yes,11305,6193,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+540109,40,F,yes ,3,graduate,yes,yes,12579,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+516160,43,M,yes ,3,graduate,yes,yes,13926,8017,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+432304,51,M,yes ,3,graduate,yes,yes,15396,4851,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+187729,53,M,yes ,3,graduate,yes,yes,16979,4609,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+413582,51,M,yes ,3,graduate,yes,yes,13000,2799,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+755287,30,F,yes ,3,graduate,yes,yes,12500,3333,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+440828,32,M,yes ,3,graduate,yes,yes,6193,5133,1500,twomonth,20000,yes ,15000,2,2,yes,Urban ,yes
+443169,36,M,yes ,3,graduate,yes,yes,7071,6193,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+398137,37,M,yes ,3,graduate,yes,yes,2565,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+439295,40,F,yes ,3,graduate,yes,yes,3394,8017,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+720275,43,F,yes ,3,graduate,yes,yes,7500,8354,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+636759,38,F,yes ,3,graduate,yes,yes,6200,9056,1300,twomonth,20000,yes ,13000,1,1,yes,Urban ,yes
+419903,41,M,yes ,3,graduate,yes,yes,6796,10150,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+449007,42,M,yes ,3,graduate,yes,yes,9056,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+494099,38,M,yes ,3,graduate,yes,yes,5358,3150,420,twomonth,10000,yes ,4200,1,0,yes,Urban ,yes
+190066,35,M,yes ,3,graduate,yes,no,5358,3333,400,twomonth,10000,no,4000,1,0,no,Urban ,no
+731166,42,F,yes ,1,notgraduate,yes,yes,9000,3526,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+629923,41,F,yes ,1,notgraduate,yes,yes,4500,3729,15000,twomonth,300000,yes ,150000,3,1,yes,Urban ,yes
+682978,46,F,yes ,1,notgraduate,yes,yes,10500,3934,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+640884,38,F,yes ,1,notgraduate,yes,yes,12400,4150,10000,twomonth,200000,yes ,100000,3,1,yes,Urban ,yes
+1559176,64,M,yes ,1,notgraduate,yes,yes,7400,4609,15000,twomonth,300000,yes ,150000,3,1,yes,Urban ,yes
+732992,40,M,yes ,1,notgraduate,yes,yes,13000,4851,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+430936,70,M,yes ,1,notgraduate,yes,yes,11100,6193,15000,twomonth,300000,no,150000,3,1,no,Urban ,no
+711844,38,M,yes ,1,notgraduate,yes,yes,3900,6481,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+531938,41,M,yes ,1,notgraduate,yes,yes,3870,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+629959,59,F,yes ,1,notgraduate,yes,yes,4000,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+634859,38,M,yes ,1,notgraduate,yes,yes,5000,8354,2400,twomonth,50000,yes ,24000,2,1,yes,Urban ,yes
+632370,35,F,yes ,0,graduate,yes,yes,9056,9056,4000,twomonth,100000,yes ,40000,3,2,yes,Urban ,yes
+187179,42,F,yes ,0,graduate,yes,yes,5133,15445,7000,twomonth,100000,yes ,70000,3,2,yes,Urban ,yes
+285652,41,F,yes ,0,graduate,yes,yes,4609,15445,500,twomonth,5000,no,5000,2,1,no,Urban ,no
+448723,46,M,yes ,0,graduate,yes,yes,4081,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+640724,38,M,yes ,0,graduate,yes,yes,7071,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+641750,44,M,yes ,0,graduate,yes,yes,9056,8017,6000,twomonth,100000,yes ,60000,3,2,yes,Urban ,yes
+633422,37,M,yes ,0,graduate,yes,yes,12579,9056,20000,twomonth,400000,yes ,200000,3,2,yes,Urban ,yes
+408706,37,F,yes ,0,graduate,yes,yes,10150,10150,2800,twomonth,100000,yes ,28000,2,1,no,Urban ,no
+187579,36,F,yes ,0,graduate,yes,yes,15396,11305,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+457215,44,F,yes ,0,graduate,yes,yes,6193,12579,1000,twomonth,20000,yes ,10000,1,0,yes,Urban ,yes
+437240,43,F,yes ,0,graduate,yes,yes,5358,13926,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+410346,41,M,yes ,3,notgraduate,yes,yes,10900,15396,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+457494,40,M,yes ,3,notgraduate,yes,yes,10000,7071,400,twomonth,10000,no,4000,1,0,no,Urban ,no
+449991,42,M,yes ,3,notgraduate,yes,yes,7789,6193,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+449184,45,M,yes ,3,notgraduate,yes,yes,9564,5358,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+496111,42,M,yes ,3,notgraduate,yes,yes,10567,8017,350,twomonth,10000,yes ,3500,1,0,yes,Urban ,yes
+458699,40,M,yes ,3,notgraduate,yes,yes,7600,9056,200,twomonth,10000,yes ,2000,1,0,yes,Urban ,yes
+441467,43,M,yes ,3,notgraduate,yes,no,8000,10150,400,twomonth,10000,yes ,4000,1,0,no,Urban ,no
+652060,38,F,yes ,3,notgraduate,yes,yes,9200,11305,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+455704,41,F,yes ,3,notgraduate,yes,yes,8700,2344,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+451756,42,F,yes ,3,notgraduate,yes,yes,8000,2799,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+178566,38,M,yes ,3,notgraduate,yes,yes,5400,3333,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+494181,35,M,yes ,3,notgraduate,yes,yes,9000,6169,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+534144,42,F,yes ,3,notgraduate,yes,yes,12000,12579,200,twomonth,5000,yes ,2000,1,0,no,Urban ,no
+738312,41,F,yes ,3,notgraduate,yes,yes,6700,3334,3500,twomonth,100000,yes ,35000,3,1,yes,Urban ,yes
+467426,46,F,yes ,1,notgraduate,yes,yes,8700,3934,10000,twomonth,200000,yes ,100000,3,2,yes,Urban ,yes
+426650,38,M,yes ,1,notgraduate,yes,yes,7000,7600,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+447595,44,M,yes ,1,notgraduate,yes,yes,6000,8700,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+189803,40,M,yes ,1,notgraduate,yes,no,5000,7071,400,twomonth,10000,no,4000,1,1,no,Urban ,no
+494115,43,M,yes ,1,notgraduate,yes,yes,8000,4081,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+634335,38,M,yes ,1,notgraduate,yes,yes,6700,10150,150,twomonth,5000,yes ,1500,1,0,yes,Urban ,yes
+633030,41,M,yes ,1,notgraduate,yes,yes,7000,11305,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+383932,42,M,yes ,1,notgraduate,yes,yes,8000,2344,2800,twomonth,50000,yes ,28000,3,2,yes,Urban ,yes
+441247,38,F,yes ,1,notgraduate,yes,no,10000,2799,400,twomonth,10000,no,4000,1,1,yes,Urban ,no
+651866,35,F,yes ,1,notgraduate,yes,yes,8000,3333,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+432849,42,F,yes ,1,notgraduate,yes,yes,9000,6169,20000,twomonth,300000,yes ,200000,3,2,yes,Urban ,yes
+679689,41,F,yes ,0,notgraduate,yes,yes,12000,12579,300,twomonth,5000,yes ,3000,1,0,yes,Urban ,yes
+634380,46,F,yes ,0,notgraduate,yes,yes,10900,3334,1200,twomonth,20000,yes ,12000,1,0,yes,Urban ,yes
+192399,38,F,yes ,0,notgraduate,yes,no,10000,3934,5000,twomonth,50000,yes ,50000,3,1,no,Urban ,no
+507108,44,M,yes ,0,notgraduate,yes,yes,7789,7600,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+631042,40,M,yes ,0,notgraduate,yes,yes,9564,8700,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+165884,43,M,yes ,0,notgraduate,yes,yes,10567,7071,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+463106,38,M,yes ,0,notgraduate,yes,yes,7600,4081,1000,twomonth,20000,no,10000,1,1,yes,Urban ,no
+529656,41,M,yes ,0,notgraduate,yes,yes,8000,7071,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+181331,42,M,yes ,0,notgraduate,yes,yes,9200,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+637741,38,M,yes ,0,notgraduate,yes,yes,8700,8354,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+632049,35,F,yes ,0,notgraduate,yes,yes,8000,9056,6000,twomonth,100000,yes ,60000,3,2,yes,Urban ,yes
+438991,42,F,yes ,2,notgraduate,yes,yes,5400,10150,1680,twomonth,20000,no,16800,2,1,yes,Urban ,no
+421599,41,F,yes ,2,notgraduate,yes,yes,10900,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+455756,46,F,yes ,1,notgraduate,yes,yes,10000,3150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+398155,38,M,yes ,1,notgraduate,yes,yes,7789,3333,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+465217,44,M,yes ,1,notgraduate,yes,yes,9564,3526,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+410740,37,F,yes ,1,notgraduate,yes,no,10567,3729,400,twomonth,10000,no,4000,1,0,no,Urban ,no
+455194,37,F,yes ,1,notgraduate,yes,yes,7600,3934,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+540089,36,M,yes ,1,notgraduate,yes,yes,8000,4150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+450730,44,M,yes ,1,notgraduate,yes,yes,9200,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+445768,43,M,yes ,1,notgraduate,yes,yes,8700,4851,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+455559,41,F,yes ,1,notgraduate,yes,yes,8000,6193,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+408271,40,F,yes ,1,notgraduate,yes,no,5400,6481,400,twomonth,10000,no,4000,1,0,no,Urban ,no
+413326,42,M,yes ,1,notgraduate,yes,yes,8700,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+406027,45,M,yes ,1,notgraduate,yes,yes,7000,8017,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+452117,42,M,yes ,1,notgraduate,yes,yes,6000,8354,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+440864,40,M,yes ,2,notgraduate,yes,yes,5000,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+504971,43,M,yes ,2,notgraduate,yes,yes,8000,4609,200,twomonth,10000,yes ,2000,1,0,yes,Urban ,yes
+419887,38,M,yes ,2,notgraduate,yes,yes,6700,4851,1500,twomonth,20000,no,15000,2,1,no,Urban ,no
+446365,41,M,yes ,2,notgraduate,yes,yes,7000,5358,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+670419,42,M,yes ,0,notgraduate,yes,yes,8000,5358,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+635023,38,F,yes ,4,notgraduate,yes,yes,10000,6193,1200,twomonth,20000,yes ,12000,1,1,yes,Urban ,yes
+459229,35,M,yes ,4,notgraduate,yes,yes,8000,7071,2400,twomonth,50000,no,24000,2,1,no,Urban ,no
+399926,42,F,yes ,3,notgraduate,yes,yes,8700,8017,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+632769,41,M,yes ,0,notgraduate,yes,yes,9000,11719,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+667646,46,F,yes ,2,notgraduate,yes,yes,13500,7071,6000,twomonth,100000,yes ,60000,3,2,yes,Urban ,yes
+449720,38,M,yes ,1,notgraduate,yes,yes,12000,5353,2000,twomonth,50000,no,20000,2,1,no,Urban ,no
+428457,44,M,yes ,2,notgraduate,yes,yes,10000,5358,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+435328,32,M,yes ,0,notgraduate,yes,yes,16000,2799,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+399668,33,M,yes ,2,notgraduate,yes,yes,15000,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+433933,45,F,yes ,0,notgraduate,yes,yes,8000,3394,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+178970,50,M,yes ,1,notgraduate,yes,yes,13500,4051,400,twomonth,10000,yes ,4000,1,0,no,Urban ,no
+667240,44,M,yes ,4,notgraduate,yes,yes,14000,4700,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+450157,46,F,yes ,5,notgraduate,yes,yes,7900,5100,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+727042,47,F,yes ,5,notgraduate,yes,yes,8700,5200,200,twomonth,5000,yes ,2000,1,0,yes,Urban ,yes
+748249,42,F,no,1,notgraduate,yes,yes,11000,3394,800,twomonth,10000,yes ,8000,1,0,no,Urban ,no
+727626,39,F,yes ,1,notgraduate,yes,yes,6000,2799,4500,twomonth,100000,yes ,45000,3,1,yes,Urban ,yes
+670963,39,M,yes ,1,notgraduate,yes,yes,5680,3333,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+478646,36,M,yes ,1,notgraduate,yes,yes,8900,3500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+441449,45,M,yes ,0,notgraduate,yes,yes,7900,5000,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+633005,44,M,yes ,3,notgraduate,yes,yes,10000,6500,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+165672,56,F,yes ,3,notgraduate,yes,yes,6000,7100,3200,twomonth,100000,yes ,32000,3,1,yes,Urban ,yes
+702363,48,M,yes ,3,notgraduate,yes,yes,8900,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+529106,46,M,yes ,3,notgraduate,yes,yes,7000,9056,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+353812,43,F,yes ,3,notgraduate,yes,yes,5700,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+446563,38,M,yes ,1,notgraduate,yes,yes,8000,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+514841,44,F,yes ,1,notgraduate,yes,yes,12000,3394,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+1557741,32,M,yes ,1,notgraduate,yes,yes,12300,6700,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+620267,33,M,yes ,1,notgraduate,yes,yes,10150,8017,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+670508,45,M,yes ,1,notgraduate,yes,yes,11200,5358,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+631195,50,M,yes ,1,notgraduate,yes,yes,5000,5133,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+460773,44,F,yes ,1,notgraduate,yes,yes,6500,15445,3200,twomonth,100000,yes ,32000,3,1,yes,Urban ,yes
+436388,46,M,yes ,1,notgraduate,yes,yes,3200,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+434724,47,M,yes ,1,notgraduate,yes,yes,2500,3930,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+1549268,42,M,yes ,1,notgraduate,yes,yes,3000,3934,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+533085,39,M,yes ,1,notgraduate,yes,yes,5000,15445,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+715638,39,M,yes ,1,notgraduate,yes,yes,6700,15445,1382,twomonth,20000,yes ,13819,2,1,yes,Urban ,yes
+450456,36,M,yes ,1,notgraduate,yes,yes,5300,15445,1382,twomonth,20000,yes ,13819,2,1,yes,Urban ,yes
+449201,45,F,yes ,1,notgraduate,yes,yes,7600,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+398101,44,M,yes ,1,notgraduate,yes,yes,8300,7341,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+465274,56,M,yes ,1,notgraduate,yes,yes,5600,7341,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+199619,48,M,yes ,1,notgraduate,yes,yes,3400,3394,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+420851,46,M,yes ,1,notgraduate,yes,yes,2000,2799,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+436011,43,M,yes ,1,notgraduate,yes,yes,3400,5000,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+415266,46,M,yes ,1,notgraduate,yes,yes,3000,4300,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+460859,38,F,yes ,0,notgraduate,yes,yes,4300,3150,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+436266,44,M,yes ,0,notgraduate,yes,yes,3000,4300,100,twomonth,0,yes ,1000,1,1,yes,Urban ,yes
+448128,37,M,yes ,0,notgraduate,yes,yes,6500,7500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+632918,37,M,yes ,0,notgraduate,yes,yes,7000,6320,250,twomonth,10000,yes ,2500,1,0,yes,Urban ,yes
+713616,36,M,yes ,0,notgraduate,yes,yes,3200,7855,5000,twomonth,100000,yes ,50000,2,1,yes,Urban ,yes
+475790,44,M,yes ,0,notgraduate,yes,yes,2000,4534,1300,twomonth,10000,yes ,13000,1,1,yes,Urban ,yes
+449311,43,M,yes ,0,notgraduate,yes,yes,5400,8900,1000,twomonth,10000,yes ,10000,1,1,yes,Urban ,yes
+705032,41,M,yes ,0,notgraduate,yes,yes,7600,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+451419,40,M,yes ,0,notgraduate,yes,yes,5600,5358,2500,twomonth,50000,yes ,25000,2,0,yes,Urban ,yes
+438390,42,M,yes ,0,notgraduate,yes,yes,3200,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+529200,45,M,yes ,0,notgraduate,yes,yes,6200,3333,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+502753,42,F,yes ,1,notgraduate,yes,yes,1950,5133,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+535494,40,M,yes ,1,notgraduate,yes,yes,12000,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+666236,43,M,yes ,1,notgraduate,yes,yes,2999,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+455245,38,M,yes ,1,notgraduate,yes,yes,3334,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+692162,41,M,yes ,1,notgraduate,yes,yes,4300,2799,400,twomonth,10000,no,4000,1,0,no,Urban ,no
+437382,42,M,yes ,2,notgraduate,yes,yes,5400,3333,3500,twomonth,100000,yes ,35000,3,1,yes,Urban ,yes
+185011,38,M,yes ,2,notgraduate,yes,yes,5600,3394,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+665969,35,F,yes ,2,notgraduate,yes,yes,3200,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+440369,38,F,yes ,1,notgraduate,yes,yes,6500,3200,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+437616,35,M,yes ,1,notgraduate,yes,yes,9000,4851,500,twomonth,5000,yes ,5000,1,0,yes,Urban ,yes
+168213,42,M,yes ,2,notgraduate,yes,yes,1624,5400,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+493803,41,M,yes ,1,notgraduate,yes,yes,1824,3500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+635126,46,M,yes ,1,notgraduate,yes,no,16000,5600,500,twomonth,10000,no,5000,1,0,no,Urban ,no
+670765,38,M,yes ,2,notgraduate,yes,yes,15000,5600,2800,twomonth,50000,yes ,28000,2,2,yes,Urban ,yes
+436946,44,M,yes ,2,notgraduate,yes,yes,8000,3700,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+437224,40,F,yes ,1,notgraduate,yes,yes,13500,7000,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+222130,43,M,yes ,2,notgraduate,yes,yes,14000,6500,400,twomonth,10000,no,4000,1,0,no,Urban ,no
+750234,38,F,yes ,0,notgraduate,yes,yes,7900,4800,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+451656,41,M,yes ,2,notgraduate,yes,yes,8700,5300,3000,twomonth,100000,yes ,30000,3,1,yes,Urban ,yes
+256781,42,M,yes ,0,notgraduate,yes,yes,11000,2700,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+692163,38,M,yes ,1,notgraduate,yes,yes,6000,5300,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+187561,35,F,yes ,0,notgraduate,yes,no,5680,5000,3300,twomonth,100000,no,33000,3,1,yes,Urban ,no
+500855,42,M,yes ,1,notgraduate,yes,yes,8900,4300,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+451774,41,M,yes ,2,notgraduate,yes,yes,7900,4609,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+721129,46,M,yes ,1,notgraduate,yes,yes,10000,5133,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+405792,38,M,yes ,4,notgraduate,yes,yes,6000,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+630367,44,F,yes ,2,notgraduate,yes,yes,8900,2799,1000,twomonth,20000,no,10000,1,1,no,Urban ,no
+410756,37,M,yes ,4,notgraduate,yes,yes,5400,3333,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+533570,37,M,yes ,3,notgraduate,yes,yes,7600,3500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+451098,39,F,yes ,4,notgraduate,yes,yes,3400,5000,1000,twomonth,20000,no,10000,1,1,no,Urban ,no
+439260,39,M,yes ,5,notgraduate,yes,yes,7600,6500,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+527497,44,M,yes ,6,notgraduate,yes,yes,8000,7100,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+455544,42,F,yes ,2,notgraduate,yes,yes,8400,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+464771,42,M,yes ,1,notgraduate,yes,yes,6500,9056,400,twomonth,10000,no,4000,1,1,yes,Urban ,no
+636451,47,M,yes ,1,notgraduate,yes,yes,7600,8017,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+637851,45,M,yes ,0,notgraduate,yes,yes,4300,3333,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+458964,46,M,yes ,0,notgraduate,yes,yes,5400,3394,20000,twomonth,400000,yes ,200000,3,2,yes,Urban ,yes
+633406,38,F,yes ,5,notgraduate,yes,yes,7400,6700,400,twomonth,10000,no,4000,1,1,yes,Urban ,no
+465010,39,M,yes ,4,notgraduate,yes,yes,3200,8017,2080,twomonth,50000,yes ,20800,2,1,yes,Urban ,yes
+632941,37,M,yes ,3,notgraduate,yes,yes,5000,5358,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+633937,37,M,yes ,2,notgraduate,yes,yes,8700,5133,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+456040,39,M,yes ,1,notgraduate,yes,yes,9000,3333,2400,twomonth,50000,no,24000,2,2,yes,Urban ,no
+437398,36,M,yes ,1,notgraduate,yes,yes,13500,4609,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+633095,34,M,yes ,1,notgraduate,yes,yes,12000,6000,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+176189,36,F,yes ,1,notgraduate,yes,yes,10000,8900,2000,twomonth,50000,yes ,20000,1,1,yes,Urban ,yes
+448146,38,M,yes ,5,notgraduate,yes,yes,16000,15396,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+442077,34,M,yes ,5,notgraduate,yes,yes,15000,6193,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+721076,36,M,yes ,5,notgraduate,yes,yes,8000,8000,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+719649,37,F,yes ,5,notgraduate,yes,yes,13500,12579,900,twomonth,10000,no,9000,1,0,yes,Urban ,no
+632324,38,M,yes ,4,notgraduate,yes,yes,14000,12300,1100,twomonth,10000,yes ,11000,2,0,yes,Urban ,yes
+457513,39,M,yes ,3,notgraduate,yes,yes,7900,6500,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+730780,34,M,yes ,3,notgraduate,yes,yes,8700,7000,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+428085,45,F,yes ,2,notgraduate,yes,yes,11000,7071,3600,twomonth,100000,yes ,36000,3,1,yes,Urban ,yes
+496643,43,F,yes ,3,notgraduate,yes,yes,6000,6193,200,twomonth,5000,yes ,2000,1,1,yes,Urban ,yes
+670768,42,F,yes ,3,notgraduate,yes,yes,5680,4851,150,twomonth,5000,yes ,1500,1,0,yes,Urban ,yes
+416947,40,F,yes ,3,notgraduate,yes,no,8900,3150,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,no
+250067,43,F,yes ,0,notgraduate,yes,yes,7900,3394,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+452764,44,F,yes ,0,notgraduate,yes,yes,10000,6193,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+652984,46,M,yes ,0,notgraduate,yes,yes,6000,5133,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+428014,45,M,yes ,1,notgraduate,yes,yes,8900,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+693771,43,M,yes ,1,graduate,yes,yes,15396,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+430162,46,M,yes ,4,graduate,yes,yes,6193,8354,3900,twomonth,100000,yes ,39000,3,1,yes,Urban ,yes
+419112,43,M,yes ,0,graduate,yes,yes,8000,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+453018,47,M,yes ,1,graduate,yes,yes,12579,10150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+428648,46,M,yes ,0,graduate,yes,yes,12300,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+429927,43,M,yes ,1,graduate,yes,no,6500,3150,600,twomonth,10000,yes ,6000,1,0,no,Urban ,no
+395593,42,M,yes ,0,graduate,yes,yes,7000,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+704171,47,M,yes ,2,graduate,yes,yes,7071,3526,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+731421,34,M,yes ,1,graduate,yes,yes,7071,3729,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+427838,35,M,yes ,2,graduate,yes,yes,3333,3934,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+536650,36,M,yes ,2,graduate,yes,yes,3333,4150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+429103,39,M,yes ,1,graduate,yes,yes,4081,4609,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+689435,37,M,yes ,2,graduate,yes,yes,3333,4851,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+640587,38,M,yes ,2,graduate,yes,yes,1946,6193,20000,twomonth,400000,yes ,200000,3,2,yes,Urban ,yes
+444881,34,M,yes ,1,graduate,yes,yes,15000,6481,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+431696,35,F,yes ,1,graduate,yes,yes,13000,7071,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+302373,34,M,yes ,1,graduate,yes,yes,13578,8017,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+722655,45,M,yes ,1,graduate,yes,yes,7000,8354,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+463052,42,M,yes ,1,graduate,yes,yes,8000,9056,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+386514,36,M,yes ,1,graduate,yes,yes,6000,4609,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+540082,31,M,yes ,1,graduate,yes,yes,8000,4851,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+154278,36,M,yes ,1,graduate,yes,yes,5000,5358,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+438197,39,F,yes ,1,graduate,yes,yes,9000,5358,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+630391,40,M,yes ,0,graduate,yes,yes,3333,6193,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+695547,43,M,yes ,1,graduate,yes,yes,4500,7071,2800,twomonth,50000,yes ,28000,2,2,yes,Urban ,yes
+1556841,42,M,yes ,1,graduate,yes,yes,15000,8017,20000,twomonth,400000,yes ,200000,3,2,yes,Urban ,yes
+723441,33,M,yes ,1,graduate,yes,yes,8000,11719,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+441835,31,M,yes ,1,graduate,yes,yes,6300,9056,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+629869,30,M,yes ,1,graduate,yes,yes,4500,5133,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+162249,32,M,yes ,1,graduate,yes,yes,10000,4851,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+439857,31,M,yes ,1,graduate,yes,yes,5600,4565,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+415606,29,M,yes ,1,graduate,yes,yes,10000,6193,1000,twomonth,20000,yes ,10000,1,0,yes,Urban ,yes
+463019,32,M,yes ,1,graduate,yes,yes,10000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+430970,33,F,yes ,1,graduate,yes,yes,12000,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+400324,31,M,yes ,1,graduate,yes,yes,12300,3150,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+421493,27,M,yes ,1,graduate,yes,yes,2900,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+676361,29,F,yes ,1,graduate,yes,yes,3994,5133,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+493887,30,M,yes ,1,graduate,yes,yes,1791,5358,3805,twomonth,100000,yes ,38048,3,1,yes,Urban ,yes
+452709,31,M,yes ,1,graduate,yes,yes,2245,7071,150,twomonth,5000,yes ,1500,1,0,yes,Urban ,yes
+713612,31,M,yes ,1,graduate,yes,yes,4081,8017,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+184689,33,F,yes ,1,graduate,yes,no,3000,2799,1300,twomonth,10000,yes ,13000,1,1,no,Urban ,no
+459621,33,M,yes ,1,graduate,yes,yes,4609,3333,1000,twomonth,20000,yes ,10000,1,0,yes,Urban ,yes
+403957,33,M,yes ,1,graduate,yes,yes,4600,3394,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+427978,29,M,yes ,1,graduate,yes,yes,5600,4609,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+671087,28,M,yes ,1,graduate,yes,yes,7600,3200,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+496143,34,F,yes ,1,graduate,yes,no,1200,4851,1500,twomonth,20000,yes ,15000,2,0,no,Urban ,no
+659769,37,M,yes ,1,graduate,yes,yes,1400,5400,200,twomonth,5000,yes ,2000,1,0,yes,Urban ,yes
+740905,63,F,yes ,1,graduate,yes,yes,2500,3500,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+738326,36,M,yes ,1,graduate,yes,yes,6700,5600,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+733283,34,F,yes ,1,graduate,yes,yes,4560,5600,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+718390,37,M,yes ,1,graduate,yes,yes,2300,3700,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+494001,36,M,yes ,1,graduate,yes,no,1980,9056,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+637567,28,M,yes ,1,graduate,yes,yes,6500,8017,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+635220,29,M,yes ,1,graduate,yes,yes,0,4609,7000,twomonth,100000,yes ,70000,3,1,yes,Urban ,yes
+429547,35,M,yes ,1,graduate,yes,yes,3000,3394,2800,twomonth,50000,yes ,28000,2,1,yes,Urban ,yes
+430805,59,M,yes ,1,graduate,yes,no,3900,5133,200,twomonth,5000,yes ,2000,1,0,no,Urban ,no
+534718,43,M,yes ,0,graduate,yes,yes,3200,4185,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+628960,36,F,yes ,1,graduate,yes,yes,0,3394,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+714843,38,M,yes ,1,graduate,yes,yes,1980,2799,2800,twomonth,50000,yes ,28000,2,2,yes,Urban ,yes
+395683,66,M,yes ,1,graduate,yes,no,6500,3500,420,twomonth,10000,yes ,4200,1,1,no,Urban ,no
+456112,39,M,yes ,1,graduate,yes,yes,3400,4310,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+451888,45,M,yes ,1,graduate,yes,yes,1700,5000,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+449115,43,M,yes ,1,graduate,yes,yes,6000,4300,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+728807,44,M,yes ,1,graduate,yes,yes,5000,8000,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+443717,42,M,yes ,1,graduate,yes,no,5400,7350,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+665400,42,F,yes ,1,graduate,yes,yes,2500,6193,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+439044,43,F,yes ,1,graduate,yes,yes,3400,5133,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+729302,46,F,yes ,1,graduate,yes,yes,2500,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+731405,29,M,yes ,0,graduate,yes,no,5000,8017,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+476878,45,M,yes ,0,graduate,yes,yes,3400,8354,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+631215,34,M,yes ,0,graduate,yes,yes,3200,9056,3000,twomonth,100000,yes ,30000,3,1,yes,Urban ,yes
+456019,43,M,yes ,0,graduate,yes,yes,5000,3394,4000,twomonth,100000,yes ,40000,2,1,yes,Urban ,yes
+266322,27,M,yes ,0,graduate,yes,no,3000,2799,500,twomonth,10000,yes ,5000,1,0,no,Urban ,no
+265085,29,M,yes ,0,graduate,yes,yes,5000,3150,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+642125,30,M,yes ,0,graduate,yes,yes,6500,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+397481,45,F,yes ,0,graduate,yes,yes,4300,3526,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+457951,47,M,yes ,0,graduate,yes,no,3365,3729,1000,twomonth,20000,yes ,10000,1,1,no,Urban ,no
+410654,49,M,yes ,1,graduate,yes,yes,7000,3934,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+502634,50,M,yes ,1,graduate,yes,yes,3000,4150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+441942,35,M,yes ,1,graduate,yes,yes,1958,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+430626,37,M,yes ,1,notgraduate,yes,yes,967,2799,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+421329,41,M,yes ,2,notgraduate,yes,no,5500,3394,500,twomonth,10000,yes ,5000,1,1,no,Urban ,no
+540095,43,M,yes ,3,notgraduate,yes,yes,3000,8017,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+254140,29,M,yes ,3,notgraduate,yes,yes,957,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+403797,28,M,yes ,3,notgraduate,yes,yes,3394,15445,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+543250,27,F,yes ,3,notgraduate,yes,yes,3000,15445,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+273484,33,F,yes ,3,notgraduate,yes,yes,3333,10000,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+275046,36,M,yes ,3,notgraduate,yes,yes,2229,12000,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+397269,36,M,yes ,3,notgraduate,yes,yes,4500,11000,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+705368,37,M,yes ,3,notgraduate,yes,no,1978,11300,800,twomonth,10000,yes ,8000,1,0,no,Urban ,no
+663395,34,M,yes ,3,notgraduate,yes,yes,6700,9800,4000,twomonth,100000,yes ,40000,3,1,yes,Urban ,yes
+670689,39,M,yes ,3,notgraduate,yes,yes,2800,7600,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+478999,41,M,yes ,3,notgraduate,yes,yes,2200,8700,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+708987,40,M,yes ,3,notgraduate,yes,no,1900,7071,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+676950,43,M,yes ,3,notgraduate,yes,yes,4400,4081,3500,twomonth,100000,yes ,35000,2,1,yes,Urban ,yes
+403903,51,M,yes ,3,notgraduate,yes,yes,3400,6193,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+181886,53,M,yes ,3,notgraduate,no,yes,5400,8017,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+437674,51,M,yes ,3,notgraduate,no,yes,2900,4500,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+536602,30,M,yes ,3,notgraduate,no,no,5400,5300,500,twomonth,5000,yes ,5000,1,0,no,Urban ,no
+401401,32,F,yes ,3,notgraduate,no,yes,3400,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+1559294,36,M,yes ,1,notgraduate,no,yes,1700,6500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+192072,37,M,yes ,1,notgraduate,no,yes,7800,4500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+731337,44,F,yes ,1,notgraduate,yes,yes,5200,5000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+165687,45,M,yes ,1,notgraduate,yes,yes,5300,7000,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+506066,41,M,yes ,1,notgraduate,yes,yes,4300,6500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+187088,40,M,yes ,1,notgraduate,yes,yes,2900,4800,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+697004,33,F,yes ,1,notgraduate,yes,yes,2700,5300,500,twomonth,5000,yes ,5000,1,0,yes,Urban ,yes
+712472,34,M,yes ,1,notgraduate,yes,yes,3000,2700,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+726726,39,M,yes ,1,notgraduate,yes,yes,2000,5300,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+502768,38,M,yes ,1,notgraduate,yes,yes,2800,5000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+1559737,28,M,yes ,1,notgraduate,yes,yes,2600,4300,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+732492,29,M,yes ,0,graduate,no,yes,4300,4609,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+399505,27,M,yes ,0,graduate,no,yes,3600,5133,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+714169,29,M,yes ,0,graduate,no,yes,5500,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+440557,25,M,yes ,0,graduate,no,yes,6500,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+672380,27,M,yes ,0,graduate,no,yes,1900,3333,700,twomonth,20000,yes ,7000,1,0,yes,Urban ,yes
+512004,29,M,yes ,0,graduate,no,yes,2400,3394,1200,twomonth,10000,yes ,12000,1,1,yes,Urban ,yes
+476896,33,F,yes ,0,graduate,yes,yes,3000,6193,300,twomonth,10000,no,3000,1,1,no,Urban ,no
+156667,34,F,yes ,0,graduate,yes,yes,2600,7071,3000,twomonth,100000,yes ,30000,3,2,yes,Urban ,yes
+450590,35,F,yes ,0,graduate,no,yes,2900,8017,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+540666,37,F,yes ,0,graduate,no,yes,3000,4851,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+743590,37,F,yes ,0,graduate,no,yes,4500,2799,2500,twomonth,50000,yes ,25000,2,1,yes,Urban ,yes
+723410,37,F,yes ,1,graduate,yes,no,3450,7071,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+447184,35,M,yes ,1,graduate,no,yes,4609,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+654327,32,M,yes ,1,graduate,yes,yes,0,8354,500,twomonth,5000,yes ,5000,1,1,yes,Urban ,yes
+756250,31,M,yes ,1,graduate,no,yes,2000,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+726730,35,M,yes ,1,graduate,no,yes,4300,10150,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+393103,33,M,yes ,1,graduate,no,yes,3000,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+280961,51,M,yes ,1,graduate,yes,yes,5000,3150,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+697929,52,M,yes ,1,graduate,no,yes,5600,3333,1500,twomonth,20000,yes ,15000,3,1,yes,Urban ,yes
+730465,50,M,yes ,1,graduate,yes,yes,4700,3526,3000,twomonth,100000,yes ,30000,3,1,yes,Urban ,yes
+447058,40,M,yes ,1,graduate,yes,no,4800,3729,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+666126,49,F,yes ,1,graduate,yes,yes,5200,3934,500,twomonth,5000,yes ,5000,1,0,yes,Urban ,yes
+700186,41,F,yes ,1,graduate,yes,yes,4800,4150,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+514342,46,F,yes ,0,graduate,yes,yes,6700,4609,1382,twomonth,10000,yes ,13819,2,1,yes,Urban ,yes
+702308,47,F,yes ,1,graduate,no,yes,5400,4851,1000,twomonth,20000,yes ,10000,1,0,yes,Urban ,yes
+733272,68,M,yes ,1,graduate,yes,yes,3000,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+641088,78,M,yes ,2,graduate,no,yes,6700,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+528561,33,M,yes ,1,graduate,yes,yes,4500,8354,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+456967,37,M,yes ,0,graduate,yes,no,6700,9056,800,twomonth,10000,yes ,8000,1,0,no,Urban ,no
+654211,37,M,yes ,1,graduate,yes,yes,3000,10150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+631128,34,M,yes ,3,graduate,no,yes,3200,2799,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+635916,32,M,yes ,3,graduate,yes,yes,4000,3150,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+675581,31,M,yes ,3,graduate,yes,yes,4500,3333,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+446382,30,M,yes ,3,graduate,yes,yes,4000,3526,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+429308,38,M,yes ,3,graduate,no,yes,3300,3729,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+452528,30,M,yes ,1,graduate,no,yes,3900,3934,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+659758,37,F,yes ,1,graduate,no,yes,3600,4150,300,twomonth,10000,yes ,3000,1,0,yes,Urban ,yes
+433640,29,M,yes ,1,graduate,no,yes,8600,4609,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+440722,26,M,yes ,1,graduate,no,yes,5400,4851,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+516956,27,M,yes ,1,graduate,yes,yes,3700,6193,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+439547,28,M,yes ,1,graduate,no,yes,4500,6481,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+665849,29,M,yes ,1,graduate,yes,yes,8000,7071,1000,twomonth,10000,yes ,10000,1,1,yes,Urban ,yes
+194321,33,M,yes ,1,graduate,no,yes,1600,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+634343,34,M,yes ,1,graduate,no,yes,3000,8354,300,twomonth,5000,yes ,3000,1,1,yes,Urban ,yes
+446634,31,M,yes ,1,graduate,yes,yes,3000,9056,6000,twomonth,100000,yes ,60000,3,1,yes,Urban ,yes
+437764,32,M,yes ,1,graduate,no,yes,4500,7071,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+663400,36,F,yes ,1,graduate,no,yes,3000,8017,50,twomonth,5000,no,500,1,0,no,Urban ,no
+242934,37,M,yes ,1,graduate,no,yes,2900,8354,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+416925,36,F,yes ,2,notgraduate,yes,yes,7000,9056,10000,twomonth,200000,yes ,100000,3,2,yes,Urban ,yes
+653027,39,M,yes ,2,notgraduate,yes,yes,6000,10150,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+428722,30,F,yes ,3,notgraduate,yes,yes,3400,4100,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+663390,33,M,yes ,3,notgraduate,yes,yes,3000,3300,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+435831,32,M,yes ,3,notgraduate,yes,yes,2800,4100,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+442136,34,F,yes ,2,notgraduate,yes,yes,3000,3394,600,twomonth,10000,no,6000,1,1,yes,Urban ,no
+725373,45,M,yes ,1,notgraduate,yes,yes,5000,3333,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+723376,49,F,yes ,1,notgraduate,yes,yes,4000,7071,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+670510,47,M,yes ,1,notgraduate,yes,yes,2000,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+744836,46,F,yes ,1,notgraduate,yes,yes,1500,4000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+380743,34,M,yes ,1,notgraduate,yes,yes,1600,3500,1382,twomonth,10000,yes ,13819,1,1,yes,Urban ,yes
+653058,45,M,yes ,1,notgraduate,yes,yes,1900,5000,2000,twomonth,50000,no,20000,2,0,yes,Urban ,no
+492341,37,M,yes ,1,notgraduate,yes,yes,1500,6500,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+515112,49,M,yes ,1,notgraduate,yes,yes,1800,7100,1500,twomonth,20000,yes ,15000,2,0,yes,Urban ,yes
+459373,38,F,yes ,1,notgraduate,yes,yes,4500,8017,10000,twomonth,200000,yes ,100000,3,2,yes,Urban ,yes
+472425,39,M,yes ,1,notgraduate,yes,yes,1500,9056,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+543315,41,F,yes ,1,notgraduate,yes,yes,1000,8017,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+700178,40,M,yes ,1,notgraduate,yes,yes,3000,3333,350,twomonth,10000,no,3500,1,1,no,Urban ,no
+154346,30,M,yes ,1,notgraduate,yes,yes,3600,3394,1020,twomonth,20000,yes ,10200,1,1,yes,Urban ,yes
+455079,33,F,yes ,1,notgraduate,yes,yes,1570,6700,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+401515,29,M,yes ,1,notgraduate,yes,yes,3800,8017,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+309491,30,M,yes ,1,notgraduate,yes,yes,3100,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+433656,45,M,yes ,0,notgraduate,yes,yes,4700,5133,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+439583,48,F,yes ,1,notgraduate,yes,yes,1200,3333,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+170102,46,M,yes ,1,notgraduate,yes,no,1800,4609,500,twomonth,5000,yes ,5000,1,1,no,Urban ,no
+467280,44,M,yes ,1,notgraduate,yes,yes,2700,2799,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+431369,42,M,yes ,1,notgraduate,yes,yes,2900,3333,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+733139,41,M,yes ,1,notgraduate,yes,yes,7600,5133,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+641563,50,M,yes ,1,notgraduate,yes,yes,4300,8017,15000,twomonth,200000,yes ,150000,3,2,yes,Urban ,yes
+447687,45,M,yes ,1,notgraduate,yes,yes,2780,6193,2800,twomonth,50000,yes ,28000,3,1,yes,Urban ,yes
+630380,43,M,yes ,1,notgraduate,yes,yes,3343,4851,400,twomonth,10000,yes ,4000,1,1,no,Urban ,no
+444843,29,M,yes ,1,notgraduate,yes,yes,7800,5400,2400,twomonth,50000,yes ,24000,2,2,yes,Urban ,yes
+536668,28,M,yes ,1,notgraduate,yes,yes,2600,5320,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+441485,50,M,yes ,1,notgraduate,yes,yes,5400,5133,3200,twomonth,100000,yes ,32000,3,1,yes,Urban ,yes
+679964,48,M,yes ,0,graduate,no,yes,3300,5358,1000,twomonth,20000,yes ,10000,1,1,no,Urban ,no
+442588,47,M,yes ,0,graduate,no,yes,3000,7071,3000,twomonth,100000,yes ,30000,3,2,yes,Urban ,yes
+496463,56,F,yes ,0,graduate,no,yes,14007,6193,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+428476,67,M,yes ,0,graduate,no,yes,7900,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+395775,46,M,yes ,0,graduate,no,yes,8900,3220,600,twomonth,10000,yes ,6000,1,0,yes,Urban ,yes
+493208,45,M,yes ,0,graduate,no,yes,13720,3147,200,twomonth,5000,yes ,2000,1,0,yes,Urban ,yes
+524555,35,M,yes ,0,graduate,no,no,13720,7071,1200,twomonth,20000,no,12000,1,1,yes,Urban ,no
+441978,43,M,yes ,0,graduate,no,yes,4609,4609,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+439730,42,M,yes ,0,graduate,no,yes,5358,3333,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+412864,32,F,yes ,1,graduate,no,yes,1958,4851,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+243640,31,M,yes ,1,graduate,no,yes,3333,6193,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+744464,41,M,yes ,1,graduate,no,yes,1853,3394,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+256743,46,M,yes ,1,graduate,no,yes,0,7071,3700,twomonth,100000,yes ,37000,3,2,yes,Urban ,yes
+405883,38,M,yes ,2,notgraduate,no,yes,8017,6193,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+267572,44,M,yes ,3,notgraduate,no,yes,6193,6545,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+187021,40,M,yes ,3,notgraduate,no,no,5358,7071,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+532075,43,M,yes ,3,notgraduate,no,yes,5358,6193,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+385278,38,M,yes ,3,notgraduate,no,yes,4423,4609,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+531961,41,F,yes ,3,notgraduate,no,yes,3354,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+434689,42,F,yes ,3,notgraduate,no,yes,3354,3394,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+670512,38,F,yes ,3,notgraduate,no,yes,0,2799,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+159437,35,M,yes ,3,notgraduate,no,yes,1847,10150,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+529828,42,F,yes ,3,notgraduate,no,no,5232,3333,200,twomonth,5000,no,2000,1,0,no,Urban ,no
+535930,41,M,yes ,3,notgraduate,no,yes,3333,3394,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+516243,46,M,yes ,3,notgraduate,no,yes,3333,4609,1700,twomonth,20000,yes ,17000,3,1,yes,Urban ,yes
+532951,38,M,yes ,3,notgraduate,no,yes,1853,3394,3000,twomonth,100000,yes ,30000,3,1,yes,Urban ,yes
+444605,44,M,yes ,3,notgraduate,no,yes,1853,3333,10000,twomonth,200000,yes ,100000,3,1,yes,Urban ,yes
+652446,37,M,yes ,3,notgraduate,no,yes,4609,7071,690,twomonth,10000,yes ,6900,1,0,yes,Urban ,yes
+254900,37,M,yes ,3,notgraduate,no,yes,10160,8017,3000,twomonth,100000,yes ,30000,3,1,yes,Urban ,yes
+504927,36,M,yes ,3,notgraduate,no,yes,7071,4000,1500,twomonth,20000,no,15000,2,1,no,Urban ,no
+631559,44,M,yes ,3,notgraduate,no,yes,12051,3500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+418906,43,M,yes ,3,notgraduate,no,yes,12529,5000,10000,twomonth,200000,yes ,100000,3,1,yes,Urban ,yes
+516980,41,M,yes ,1,notgraduate,no,yes,8017,6500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+452731,40,M,yes ,1,notgraduate,no,yes,6193,7100,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+730844,42,M,yes ,1,notgraduate,no,yes,15445,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+412847,45,M,yes ,1,notgraduate,no,yes,8017,9056,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+449610,42,M,yes ,1,notgraduate,no,yes,3930,8017,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+164499,40,F,yes ,1,notgraduate,no,yes,3934,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+711849,43,M,yes ,1,notgraduate,no,yes,15445,3394,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+506083,38,M,yes ,1,notgraduate,no,no,15445,8017,1500,twomonth,20000,no,15000,1,1,yes,Urban ,no
+709783,41,M,yes ,1,notgraduate,no,yes,15445,3333,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+194460,42,M,yes ,1,notgraduate,no,yes,8017,3394,4000,twomonth,100000,yes ,40000,3,1,yes,Urban ,yes
+652081,38,M,yes ,1,notgraduate,no,yes,7341,2799,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+502784,35,M,yes ,0,graduate,no,yes,7341,3394,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+395663,42,M,yes ,0,graduate,no,yes,8017,3333,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+186806,41,M,yes ,0,graduate,no,yes,7341,7071,200,twomonth,5000,yes ,2000,1,0,yes,Urban ,yes
+421524,46,M,yes ,0,graduate,no,yes,5358,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+440429,38,M,no,0,graduate,no,no,5358,8017,400,twomonth,10000,yes ,4000,1,0,no,Urban ,no
+627304,44,M,yes ,0,graduate,no,yes,1993,9056,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+440882,32,M,yes ,0,graduate,no,yes,1624,8017,2800,twomonth,50000,yes ,28000,3,2,yes,Urban ,yes
+439099,33,M,yes ,0,graduate,no,yes,1624,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+633357,45,F,no,0,graduate,no,yes,1999,3394,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+750990,50,F,yes ,0,graduate,no,yes,5358,8017,2400,twomonth,50000,yes ,24000,2,2,yes,Urban ,yes
+397385,44,F,yes ,0,graduate,no,yes,12579,9056,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+422630,46,F,yes ,3,notgraduate,yes,no,4000,3333,800,twomonth,10000,no,8000,1,1,yes,Urban ,no
+426630,47,F,yes ,3,notgraduate,yes,yes,3000,1853,800,twomonth,10000,yes ,8000,1,1,yes,Urban ,yes
+667614,42,F,yes ,3,notgraduate,yes,yes,5400,1853,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+325040,39,M,no,3,notgraduate,yes,yes,6500,2999,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+162680,39,M,yes ,3,notgraduate,yes,yes,3400,1958,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+306353,36,M,yes ,3,notgraduate,yes,yes,5400,2300,500,twomonth,5000,yes ,5000,1,1,yes,Urban ,yes
+1559324,45,M,yes ,3,notgraduate,yes,yes,6500,3500,1500,twomonth,20000,yes ,15000,3,1,yes,Urban ,yes
+534166,44,M,yes ,3,notgraduate,yes,yes,7340,6000,1500,twomonth,20000,yes ,15000,3,1,yes,Urban ,yes
+670988,56,F,yes ,3,notgraduate,yes,no,5600,7500,5000,twomonth,100000,yes ,50000,3,1,no,Urban ,no
+452351,48,M,no,3,notgraduate,yes,yes,5160,5400,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+446400,46,F,yes ,3,notgraduate,yes,yes,5000,7500,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+629109,43,M,yes ,3,notgraduate,yes,yes,3400,5626,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+432959,38,F,yes ,3,notgraduate,yes,yes,4565,6481,2400,twomonth,50000,yes ,24000,2,1,yes,Urban ,yes
+437142,44,M,yes ,3,notgraduate,yes,yes,4560,7300,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+292280,32,F,yes ,1,notgraduate,yes,yes,3300,4000,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+342516,33,M,no,1,notgraduate,yes,yes,5600,9056,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+434809,45,M,yes ,1,notgraduate,yes,yes,5470,6193,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+406681,50,M,yes ,1,notgraduate,yes,yes,6230,9056,400,twomonth,10000,no,4000,1,1,no,Urban ,no
+437172,44,M,yes ,1,notgraduate,yes,yes,5400,10150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+444953,46,F,yes ,1,notgraduate,yes,yes,5200,11350,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+449538,47,M,yes ,1,notgraduate,yes,yes,4300,12579,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+459091,42,M,no,1,notgraduate,yes,yes,3200,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+441577,39,M,yes ,1,notgraduate,yes,yes,6500,15396,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+514355,39,M,no,3,notgraduate,yes,yes,4500,16979,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+512029,36,M,yes ,3,notgraduate,yes,yes,3400,1100,1000,twomonth,10000,yes ,10000,1,1,yes,Urban ,yes
+450763,45,M,yes ,3,notgraduate,yes,yes,6500,1958,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+449293,44,M,yes ,3,notgraduate,yes,no,4000,2900,300,twomonth,10000,yes ,3000,1,0,no,Urban ,no
+659823,56,M,yes ,3,notgraduate,yes,yes,12000,3994,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+526078,48,F,no,3,notgraduate,yes,yes,9000,1791,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+515363,46,F,yes ,3,notgraduate,yes,yes,6700,2245,1200,twomonth,10000,yes ,12000,1,1,yes,Urban ,yes
+474648,43,F,yes ,3,notgraduate,yes,yes,4300,4081,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+344123,46,F,no,3,notgraduate,yes,yes,7300,3000,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+524627,38,F,yes ,1,notgraduate,yes,yes,6500,4609,1382,twomonth,50000,yes ,13819,2,1,yes,Urban ,yes
+221939,44,F,yes ,1,notgraduate,yes,yes,4600,7071,1000,twomonth,50000,yes ,10000,1,1,yes,Urban ,yes
+530892,37,F,no,1,notgraduate,yes,yes,7800,8017,250,twomonth,50000,yes ,2500,1,0,yes,Urban ,yes
+513399,37,F,yes ,1,notgraduate,yes,yes,7600,4000,1500,twomonth,50000,yes ,15000,2,1,yes,Urban ,yes
+453917,36,F,yes ,1,notgraduate,yes,no,12000,3500,700,twomonth,50000,no,7000,1,1,yes,Urban ,no
+265206,44,F,yes ,1,notgraduate,yes,yes,14000,5000,500,twomonth,50000,yes ,5000,1,1,yes,Urban ,yes
+540749,43,M,yes ,1,notgraduate,yes,yes,12500,6500,1500,twomonth,50000,yes ,15000,2,1,yes,Urban ,yes
+443028,41,M,no,1,notgraduate,yes,yes,6700,7100,1500,twomonth,50000,yes ,15000,2,1,yes,Urban ,yes
+429049,40,M,yes ,1,notgraduate,yes,yes,4560,8017,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+1622639,42,M,yes ,1,notgraduate,yes,yes,2300,9056,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+504940,45,M,yes ,1,notgraduate,yes,no,1980,8017,420,twomonth,10000,no,4200,1,0,no,Urban ,no
+750778,42,M,yes ,0,graduate,no,yes,6500,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+453700,40,M,no,0,graduate,no,yes,5670,3394,1300,twomonth,10000,yes ,13000,1,1,yes,Urban ,yes
+455816,43,M,yes ,0,graduate,no,yes,3000,6700,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+518167,38,M,yes ,0,graduate,no,yes,3900,8017,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+429746,41,M,no,0,graduate,no,yes,3200,5358,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+435846,42,M,yes ,0,graduate,no,yes,4609,5133,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+1551307,38,M,yes ,0,graduate,no,yes,1980,3333,800,twomonth,10000,no,8000,1,1,no,Urban ,no
+442347,35,M,yes ,0,graduate,no,yes,6500,4609,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+189994,38,M,yes ,0,graduate,no,yes,3400,5232,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+445803,35,M,no,0,graduate,no,yes,1700,3333,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+428031,42,M,yes ,0,graduate,no,yes,1980,3333,200,twomonth,5000,yes ,2000,1,0,yes,Urban ,yes
+408379,41,M,yes ,0,graduate,no,yes,5000,1853,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+410639,46,F,no,0,graduate,no,yes,5400,1853,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+424085,38,F,yes ,0,graduate,no,yes,2500,2999,400,twomonth,10000,no,4000,1,0,yes,Urban ,no
+539715,44,F,yes ,1,notgraduate,yes,yes,3400,1958,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+463207,40,F,no,1,notgraduate,yes,yes,25000,2300,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+311506,43,F,yes ,1,notgraduate,yes,yes,5000,3500,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+458531,38,F,yes ,1,notgraduate,yes,yes,3400,6000,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+254265,41,F,no,1,notgraduate,yes,yes,3200,7500,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+725288,42,M,yes ,2,notgraduate,yes,yes,5000,5400,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+457936,38,M,yes ,2,notgraduate,yes,yes,3000,7500,3500,twomonth,100000,yes ,35000,3,1,yes,Urban ,yes
+458664,35,M,yes ,2,notgraduate,yes,yes,5000,5626,300,twomonth,10000,yes ,3000,1,1,no,Urban ,no
+450528,42,M,yes ,1,notgraduate,yes,yes,6500,6481,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+485179,41,M,yes ,1,notgraduate,yes,yes,4300,7300,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+439139,46,M,yes ,2,notgraduate,yes,yes,3365,4000,200,twomonth,10000,yes ,2000,1,0,yes,Urban ,yes
+417057,38,M,no,1,notgraduate,yes,yes,7000,5400,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+408452,44,F,yes ,1,notgraduate,yes,yes,3000,4300,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+401605,37,M,yes ,2,notgraduate,yes,yes,1958,5000,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+713623,37,F,yes ,2,notgraduate,yes,yes,967,9000,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+459887,39,M,no,1,notgraduate,yes,yes,3000,5400,1300,twomonth,20000,yes ,13000,2,1,yes,Urban ,yes
+381741,39,F,yes ,2,notgraduate,yes,yes,3000,3000,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+464717,44,M,yes ,0,notgraduate,yes,yes,3000,6193,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+616094,42,M,no,2,notgraduate,yes,yes,3000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+630786,42,M,yes ,0,notgraduate,yes,yes,2000,8017,5000,twomonth,100000,yes ,50000,3,1,yes,Urban ,yes
+464733,47,M,yes ,1,notgraduate,yes,yes,3000,9056,2800,twomonth,50000,yes ,28000,3,1,yes,Urban ,yes
+642097,45,M,no,0,notgraduate,yes,yes,2500,10150,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+642119,46,M,yes ,1,notgraduate,yes,yes,10000,11305,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+437467,38,M,yes ,2,notgraduate,yes,yes,10000,3333,2000,twomonth,50000,yes ,20000,2,2,yes,Urban ,yes
+453264,39,M,no,1,notgraduate,yes,yes,2500,1958,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+688385,37,M,yes ,4,notgraduate,yes,yes,12000,1624,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+747051,37,F,yes ,2,notgraduate,yes,yes,11000,3394,1300,twomonth,20000,yes ,13000,1,1,yes,Urban ,yes
+457917,39,F,yes ,4,notgraduate,yes,no,15000,4300,2350,twomonth,50000,no,23500,2,1,yes,Urban ,no
+429477,36,F,yes ,3,notgraduate,yes,yes,10000,5430,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+702451,34,M,no,4,notgraduate,yes,yes,2600,5400,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+430697,36,F,yes ,5,notgraduate,yes,yes,2000,2799,1382,twomonth,20000,yes ,13819,2,1,yes,Urban ,yes
+426047,38,M,no,6,notgraduate,yes,yes,10000,6193,150,twomonth,5000,yes ,1500,1,1,yes,Urban ,yes
+543291,34,F,yes ,2,notgraduate,yes,yes,2000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+419938,36,M,yes ,1,notgraduate,yes,yes,1000,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+590425,37,M,yes ,,notgraduate,yes,yes,3500,4609,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+528705,38,F,no,0,notgraduate,yes,yes,10000,4533,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+633559,39,F,yes ,0,notgraduate,yes,no,10000,9056,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+663387,34,M,yes ,5,notgraduate,yes,yes,11000,4609,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+413222,45,F,yes ,4,notgraduate,yes,yes,3200,5133,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+415358,43,M,no,3,notgraduate,yes,yes,2600,3333,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+309361,42,F,yes ,2,notgraduate,yes,yes,9000,4609,200,twomonth,5000,yes ,2000,1,1,yes,Urban ,yes
+677924,40,M,yes ,1,notgraduate,yes,yes,7300,3394,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+426193,43,M,no,1,notgraduate,yes,yes,8000,4851,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+427750,44,M,yes ,1,notgraduate,yes,yes,9000,7071,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+194338,46,M,yes ,1,notgraduate,yes,yes,9000,5133,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+214848,45,M,yes ,5,notgraduate,yes,no,9000,1958,300,twomonth,10000,yes ,3000,1,0,no,Urban ,no
+438837,43,M,yes ,5,notgraduate,yes,yes,12000,5133,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+426067,46,M,no,5,notgraduate,yes,yes,10000,2799,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+680002,43,M,yes ,5,notgraduate,yes,yes,11800,5358,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+256331,47,F,no,4,notgraduate,yes,yes,8900,2799,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+688963,46,F,yes ,3,notgraduate,yes,yes,4500,3333,1000,twomonth,20000,yes ,10000,2,1,yes,Urban ,yes
+254662,43,F,yes ,3,notgraduate,yes,yes,12900,7200,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+240648,42,M,yes ,2,notgraduate,yes,yes,12900,3300,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+399286,47,M,yes ,3,notgraduate,yes,yes,12900,4560,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+432655,34,M,yes ,3,notgraduate,yes,yes,12900,5400,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+711852,35,M,yes ,3,notgraduate,yes,yes,12900,7600,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+408862,36,M,yes ,0,notgraduate,yes,yes,12900,3400,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+721118,39,M,yes ,0,notgraduate,yes,yes,11560,5300,250,twomonth,5000,yes ,2500,1,0,yes,Urban ,yes
+426011,37,M,yes ,0,notgraduate,yes,yes,2870,4590,1500,twomonth,20000,yes ,15000,1,1,yes,Urban ,yes
+458649,38,M,yes ,1,notgraduate,yes,yes,11900,6500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+534661,34,M,yes ,1,notgraduate,yes,yes,10000,4000,200,twomonth,5000,yes ,2000,1,0,yes,Urban ,yes
+672294,35,M,no,4,notgraduate,yes,yes,12300,2600,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+445820,34,M,yes ,0,notgraduate,yes,no,6000,2000,1000,twomonth,20000,yes ,10000,1,1,no,Urban ,no
+179510,45,M,yes ,1,notgraduate,yes,yes,7000,10000,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+408564,42,M,no,0,notgraduate,yes,yes,6700,2000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+276216,36,F,yes ,1,notgraduate,yes,yes,6000,1000,250,twomonth,5000,yes ,2500,1,1,yes,Urban ,yes
+653056,31,M,yes ,0,notgraduate,yes,yes,8900,3500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+449029,36,M,yes ,2,notgraduate,yes,yes,3450,10000,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+673560,39,M,no,2,notgraduate,yes,yes,6500,10000,420,twomonth,10000,yes ,4200,1,0,yes,Urban ,yes
+457320,40,M,yes ,2,notgraduate,yes,yes,4000,11000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+437259,43,M,yes ,2,notgraduate,yes,no,4500,3200,400,twomonth,10000,no,4000,1,0,no,Urban ,no
+448705,42,M,no,2,notgraduate,yes,yes,5200,2600,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+403703,33,M,yes ,2,notgraduate,yes,yes,6700,9000,420,twomonth,10000,yes ,4200,1,1,yes,Urban ,yes
+672373,31,M,yes ,3,notgraduate,yes,yes,11400,7300,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+451617,30,F,no,0,graduate,no,yes,15337,7300,1200,twomonth,20000,yes ,12000,1,1,yes,Urban ,yes
+516122,32,M,yes ,0,graduate,no,yes,12579,4000,100,twomonth,0,yes ,1000,1,0,yes,Urban ,yes
+665348,31,F,yes ,0,graduate,no,yes,3394,5400,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+476948,29,M,yes ,0,graduate,no,yes,3333,4300,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+655125,32,M,yes ,0,graduate,no,yes,7071,5000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+397774,33,M,yes ,0,graduate,no,yes,6193,9000,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+673736,31,M,yes ,0,graduate,no,yes,5358,5400,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+462806,27,M,no,1,notgraduate,yes,yes,5900,3000,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+341577,29,M,no,1,notgraduate,yes,yes,8000,2500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+418961,30,M,yes ,4,notgraduate,yes,yes,7000,1924,1382,twomonth,20000,yes ,13819,1,1,yes,Urban ,yes
+512316,31,M,no,3,notgraduate,yes,yes,8000,1600,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+418945,31,F,yes ,4,notgraduate,yes,yes,8200,2999,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+421760,33,F,yes ,4,notgraduate,yes,yes,10000,1958,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+512303,33,F,yes ,4,notgraduate,yes,yes,10150,2300,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+259639,33,F,yes ,4,notgraduate,yes,no,8017,3500,800,twomonth,10000,yes ,8000,1,1,no,Urban ,no
+514380,29,M,no,2,notgraduate,yes,yes,9056,6000,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+695544,28,F,yes ,0,notgraduate,yes,yes,6072,7500,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+714756,34,M,no,2,notgraduate,no,yes,8970,5400,20000,twomonth,400000,yes ,200000,3,1,yes,Urban ,yes
+430462,37,F,yes ,0,graduate,no,yes,15445,7500,1200,twomonth,50000,yes ,12000,1,1,yes,Urban ,yes
+1602933,63,F,yes ,0,graduate,no,yes,15445,4700,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+426556,36,M,yes ,0,graduate,no,yes,15445,3500,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+348633,34,F,no,0,graduate,no,yes,8017,3500,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+286062,37,F,yes ,0,graduate,no,yes,7341,1900,300,twomonth,10000,yes ,3000,1,1,yes,Urban ,yes
+181833,36,M,yes ,0,graduate,no,no,7341,2000,1500,twomonth,20000,no,15000,2,1,no,Urban ,no
+406733,28,M,yes ,2,notgraduate,yes,yes,8017,2000,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+406770,29,F,no,2,notgraduate,yes,yes,7341,3200,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+722649,35,M,yes ,2,notgraduate,yes,yes,5358,5400,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+321390,59,M,no,1,notgraduate,yes,yes,5358,4000,3250,twomonth,100000,yes ,32500,3,2,yes,Urban ,yes
+194302,43,F,yes ,1,notgraduate,yes,yes,1993,2400,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+453680,36,M,yes ,1,notgraduate,yes,no,1624,2500,250,twomonth,5000,yes ,2500,1,1,no,Urban ,no
+541984,38,M,yes ,1,notgraduate,yes,yes,1624,4500,500,twomonth,10000,yes ,5000,1,1,yes,Urban ,yes
+273449,66,F,yes ,1,notgraduate,yes,yes,1999,3500,600,twomonth,10000,yes ,6000,1,1,yes,Urban ,yes
+709716,39,M,no,1,notgraduate,yes,yes,5358,2400,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+700190,45,M,yes ,1,notgraduate,yes,yes,12579,7000,20000,twomonth,400000,yes ,200000,3,2,yes,Urban ,yes
+467904,43,M,yes ,1,notgraduate,yes,yes,8017,3000,5000,twomonth,100000,yes ,50000,3,2,yes,Urban ,yes
+441907,44,F,yes ,1,notgraduate,yes,yes,4609,4500,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+438887,42,F,yes ,1,notgraduate,yes,no,20000,6700,250,twomonth,5000,no,2500,1,1,no,Urban ,no
+514796,42,M,no,1,notgraduate,yes,yes,7890,7000,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+179040,43,M,yes ,1,notgraduate,yes,yes,9600,1847,3000,twomonth,100000,yes ,30000,2,2,yes,Urban ,yes
+629164,46,F,yes ,2,notgraduate,yes,yes,8700,5232,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+254627,29,M,yes ,2,notgraduate,yes,yes,9000,3333,2000,twomonth,50000,yes ,20000,2,1,yes,Urban ,yes
+266811,45,M,yes ,3,notgraduate,yes,yes,13500,3333,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+419793,34,F,no,3,notgraduate,yes,no,12000,1853,1000,twomonth,20000,no,10000,1,1,no,Urban ,no
+397992,43,F,no,2,notgraduate,yes,yes,10000,1853,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+275230,27,M,no,3,notgraduate,yes,yes,16000,4609,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+406045,29,M,no,3,notgraduate,yes,no,15000,10160,700,twomonth,10000,yes ,7000,1,1,no,Urban ,no
+514981,30,F,no,2,notgraduate,yes,yes,8000,7071,1500,twomonth,20000,yes ,15000,2,1,yes,Urban ,yes
+156650,45,F,no,3,notgraduate,yes,yes,13500,12051,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+443227,47,M,no,2,notgraduate,yes,yes,14000,12529,700,twomonth,10000,yes ,7000,1,0,yes,Urban ,yes
+397938,49,M,yes ,2,notgraduate,yes,no,7900,8017,400,twomonth,10000,no,4000,1,1,no,Urban ,no
+463001,50,M,no,2,notgraduate,yes,yes,8700,6193,380,twomonth,10000,yes ,3800,1,0,yes,Urban ,yes
+403865,35,F,yes ,2,notgraduate,yes,yes,11000,15445,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+453589,37,F,no,2,notgraduate,yes,no,6000,8017,1500,twomonth,20000,yes ,15000,2,1,no,Urban ,no
+631986,41,M,yes ,2,notgraduate,yes,yes,5680,3930,400,twomonth,10000,yes ,4000,1,0,yes,Urban ,yes
+439438,43,F,yes ,1,notgraduate,yes,no,8900,3934,1000,twomonth,20000,yes ,10000,1,1,no,Urban ,no
+187541,29,M,no,2,notgraduate,yes,yes,7900,15445,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+433689,28,F,no,2,notgraduate,yes,yes,10000,15445,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+178899,27,M,yes ,1,notgraduate,yes,yes,6000,15445,800,twomonth,10000,yes ,8000,1,0,yes,Urban ,yes
+635290,33,F,no,1,notgraduate,yes,yes,8900,1847,1000,twomonth,20000,yes ,10000,1,1,yes,Urban ,yes
+444035,36,M,yes ,1,notgraduate,yes,no,7000,5232,2800,twomonth,50000,no,28000,2,1,yes,Urban ,no
+154261,36,M,no,1,notgraduate,yes,yes,5700,3333,400,twomonth,10000,yes ,4000,1,1,yes,Urban ,yes
+450711,37,M,yes ,1,notgraduate,yes,yes,8000,3333,700,twomonth,10000,yes ,7000,1,1,yes,Urban ,yes
+444802,34,M,yes ,1,notgraduate,yes,yes,12000,1853,500,twomonth,10000,yes ,5000,1,0,yes,Urban ,yes
+444802,39,M,yes ,1,notgraduate,yes,no,12300,1853,250,twomonth,5000,no,2500,1,0,yes,Urban ,no
